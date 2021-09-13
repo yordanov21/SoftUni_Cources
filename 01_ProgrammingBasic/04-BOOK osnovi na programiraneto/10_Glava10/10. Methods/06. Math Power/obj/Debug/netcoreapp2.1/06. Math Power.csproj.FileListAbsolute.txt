@@ -1,0 +1,10 @@
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\06. Math Power\bin\Debug\netcoreapp2.1\06. Math Power.deps.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\06. Math Power\bin\Debug\netcoreapp2.1\06. Math Power.runtimeconfig.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\06. Math Power\bin\Debug\netcoreapp2.1\06. Math Power.runtimeconfig.dev.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\06. Math Power\bin\Debug\netcoreapp2.1\06. Math Power.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\06. Math Power\bin\Debug\netcoreapp2.1\06. Math Power.pdb
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\06. Math Power\obj\Debug\netcoreapp2.1\06. Math Power.csproj.CoreCompileInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\06. Math Power\obj\Debug\netcoreapp2.1\06. Math Power.AssemblyInfoInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\06. Math Power\obj\Debug\netcoreapp2.1\06. Math Power.AssemblyInfo.cs
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\06. Math Power\obj\Debug\netcoreapp2.1\06. Math Power.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\06. Math Power\obj\Debug\netcoreapp2.1\06. Math Power.pdb

@@ -1,0 +1,11 @@
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\11. Odd_Even Position\bin\Debug\netcoreapp2.1\11. Odd_Even Position.deps.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\11. Odd_Even Position\bin\Debug\netcoreapp2.1\11. Odd_Even Position.runtimeconfig.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\11. Odd_Even Position\bin\Debug\netcoreapp2.1\11. Odd_Even Position.runtimeconfig.dev.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\11. Odd_Even Position\bin\Debug\netcoreapp2.1\11. Odd_Even Position.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\11. Odd_Even Position\bin\Debug\netcoreapp2.1\11. Odd_Even Position.pdb
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\11. Odd_Even Position\obj\Debug\netcoreapp2.1\11. Odd_Even Position.csprojAssemblyReference.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\11. Odd_Even Position\obj\Debug\netcoreapp2.1\11. Odd_Even Position.csproj.CoreCompileInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\11. Odd_Even Position\obj\Debug\netcoreapp2.1\11. Odd_Even Position.AssemblyInfoInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\11. Odd_Even Position\obj\Debug\netcoreapp2.1\11. Odd_Even Position.AssemblyInfo.cs
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\11. Odd_Even Position\obj\Debug\netcoreapp2.1\11. Odd_Even Position.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\11. Odd_Even Position\obj\Debug\netcoreapp2.1\11. Odd_Even Position.pdb

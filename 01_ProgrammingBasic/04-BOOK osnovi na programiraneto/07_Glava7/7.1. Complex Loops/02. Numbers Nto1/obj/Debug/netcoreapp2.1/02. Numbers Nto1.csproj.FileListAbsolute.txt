@@ -1,0 +1,10 @@
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\02. Numbers Nto1\bin\Debug\netcoreapp2.1\02. Numbers Nto1.deps.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\02. Numbers Nto1\bin\Debug\netcoreapp2.1\02. Numbers Nto1.runtimeconfig.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\02. Numbers Nto1\bin\Debug\netcoreapp2.1\02. Numbers Nto1.runtimeconfig.dev.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\02. Numbers Nto1\bin\Debug\netcoreapp2.1\02. Numbers Nto1.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\02. Numbers Nto1\bin\Debug\netcoreapp2.1\02. Numbers Nto1.pdb
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\02. Numbers Nto1\obj\Debug\netcoreapp2.1\02. Numbers Nto1.csproj.CoreCompileInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\02. Numbers Nto1\obj\Debug\netcoreapp2.1\02. Numbers Nto1.AssemblyInfoInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\02. Numbers Nto1\obj\Debug\netcoreapp2.1\02. Numbers Nto1.AssemblyInfo.cs
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\02. Numbers Nto1\obj\Debug\netcoreapp2.1\02. Numbers Nto1.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\02. Numbers Nto1\obj\Debug\netcoreapp2.1\02. Numbers Nto1.pdb

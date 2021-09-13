@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\05. Fishing Boat\bin\Debug\_05.Fishing_Boat.exe.config
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\05. Fishing Boat\bin\Debug\_05.Fishing_Boat.exe
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\05. Fishing Boat\bin\Debug\_05.Fishing_Boat.pdb
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\05. Fishing Boat\obj\Debug\05. Fishing Boat.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\05. Fishing Boat\obj\Debug\05. Fishing Boat.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\05. Fishing Boat\obj\Debug\_05.Fishing_Boat.exe
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\05. Fishing Boat\obj\Debug\_05.Fishing_Boat.pdb

@@ -1,0 +1,6 @@
+C:\Users\Biser-1\Desktop\programing basic\10-07.04.2019\For-Loop - Exercise\06. Divide without remainder\bin\Debug\_06.Divide_without_remainder.exe.config
+C:\Users\Biser-1\Desktop\programing basic\10-07.04.2019\For-Loop - Exercise\06. Divide without remainder\bin\Debug\_06.Divide_without_remainder.exe
+C:\Users\Biser-1\Desktop\programing basic\10-07.04.2019\For-Loop - Exercise\06. Divide without remainder\bin\Debug\_06.Divide_without_remainder.pdb
+C:\Users\Biser-1\Desktop\programing basic\10-07.04.2019\For-Loop - Exercise\06. Divide without remainder\obj\Debug\06. Divide without remainder.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\10-07.04.2019\For-Loop - Exercise\06. Divide without remainder\obj\Debug\_06.Divide_without_remainder.exe
+C:\Users\Biser-1\Desktop\programing basic\10-07.04.2019\For-Loop - Exercise\06. Divide without remainder\obj\Debug\_06.Divide_without_remainder.pdb

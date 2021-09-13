@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\09. Area of Figures\obj\Debug\09. Area of Figures.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\09. Area of Figures\obj\Debug\09. Area of Figures.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\09. Area of Figures\bin\Debug\_09.Area_of_Figures.exe.config
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\09. Area of Figures\bin\Debug\_09.Area_of_Figures.exe
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\09. Area of Figures\bin\Debug\_09.Area_of_Figures.pdb
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\09. Area of Figures\obj\Debug\_09.Area_of_Figures.exe
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\09. Area of Figures\obj\Debug\_09.Area_of_Figures.pdb

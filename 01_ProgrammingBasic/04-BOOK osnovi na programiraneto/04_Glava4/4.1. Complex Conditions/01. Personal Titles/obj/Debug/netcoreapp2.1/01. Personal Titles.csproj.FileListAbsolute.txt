@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\01. Personal Titles\bin\Debug\netcoreapp2.1\01. Personal Titles.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\01. Personal Titles\bin\Debug\netcoreapp2.1\01. Personal Titles.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\01. Personal Titles\bin\Debug\netcoreapp2.1\01. Personal Titles.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\01. Personal Titles\bin\Debug\netcoreapp2.1\01. Personal Titles.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\01. Personal Titles\bin\Debug\netcoreapp2.1\01. Personal Titles.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\01. Personal Titles\obj\Debug\netcoreapp2.1\01. Personal Titles.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\01. Personal Titles\obj\Debug\netcoreapp2.1\01. Personal Titles.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\01. Personal Titles\obj\Debug\netcoreapp2.1\01. Personal Titles.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\01. Personal Titles\obj\Debug\netcoreapp2.1\01. Personal Titles.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\01. Personal Titles\obj\Debug\netcoreapp2.1\01. Personal Titles.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\01. Personal Titles\obj\Debug\netcoreapp2.1\01. Personal Titles.pdb

@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\03-17.03.2019\07.Alcohol Market\07.Alcohol Market\07.Alcohol Market\bin\Debug\07.Alcohol Market.exe.config
+C:\Users\Biser-1\Desktop\programing basic\03-17.03.2019\07.Alcohol Market\07.Alcohol Market\07.Alcohol Market\bin\Debug\07.Alcohol Market.exe
+C:\Users\Biser-1\Desktop\programing basic\03-17.03.2019\07.Alcohol Market\07.Alcohol Market\07.Alcohol Market\bin\Debug\07.Alcohol Market.pdb
+C:\Users\Biser-1\Desktop\programing basic\03-17.03.2019\07.Alcohol Market\07.Alcohol Market\07.Alcohol Market\obj\Debug\07.Alcohol Market.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\03-17.03.2019\07.Alcohol Market\07.Alcohol Market\07.Alcohol Market\obj\Debug\07.Alcohol Market.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\03-17.03.2019\07.Alcohol Market\07.Alcohol Market\07.Alcohol Market\obj\Debug\07.Alcohol Market.exe
+C:\Users\Biser-1\Desktop\programing basic\03-17.03.2019\07.Alcohol Market\07.Alcohol Market\07.Alcohol Market\obj\Debug\07.Alcohol Market.pdb

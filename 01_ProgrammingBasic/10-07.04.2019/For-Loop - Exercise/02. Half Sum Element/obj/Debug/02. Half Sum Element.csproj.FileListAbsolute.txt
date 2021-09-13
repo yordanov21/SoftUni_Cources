@@ -1,0 +1,6 @@
+C:\Users\Biser-1\Desktop\programing basic\10-07.04.2019\For-Loop - Exercise\02. Half Sum Element\bin\Debug\_02.Half_Sum_Element.exe.config
+C:\Users\Biser-1\Desktop\programing basic\10-07.04.2019\For-Loop - Exercise\02. Half Sum Element\bin\Debug\_02.Half_Sum_Element.exe
+C:\Users\Biser-1\Desktop\programing basic\10-07.04.2019\For-Loop - Exercise\02. Half Sum Element\bin\Debug\_02.Half_Sum_Element.pdb
+C:\Users\Biser-1\Desktop\programing basic\10-07.04.2019\For-Loop - Exercise\02. Half Sum Element\obj\Debug\02. Half Sum Element.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\10-07.04.2019\For-Loop - Exercise\02. Half Sum Element\obj\Debug\_02.Half_Sum_Element.exe
+C:\Users\Biser-1\Desktop\programing basic\10-07.04.2019\For-Loop - Exercise\02. Half Sum Element\obj\Debug\_02.Half_Sum_Element.pdb

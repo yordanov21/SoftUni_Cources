@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\10-07.04.2019\For-Loop - Exercise\03. Odd-Even Position\bin\Debug\_03.Odd_Even_Position.exe.config
+C:\Users\Biser-1\Desktop\programing basic\10-07.04.2019\For-Loop - Exercise\03. Odd-Even Position\bin\Debug\_03.Odd_Even_Position.exe
+C:\Users\Biser-1\Desktop\programing basic\10-07.04.2019\For-Loop - Exercise\03. Odd-Even Position\bin\Debug\_03.Odd_Even_Position.pdb
+C:\Users\Biser-1\Desktop\programing basic\10-07.04.2019\For-Loop - Exercise\03. Odd-Even Position\obj\Debug\03. Odd-Even Position.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\10-07.04.2019\For-Loop - Exercise\03. Odd-Even Position\obj\Debug\03. Odd-Even Position.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\10-07.04.2019\For-Loop - Exercise\03. Odd-Even Position\obj\Debug\_03.Odd_Even_Position.exe
+C:\Users\Biser-1\Desktop\programing basic\10-07.04.2019\For-Loop - Exercise\03. Odd-Even Position\obj\Debug\_03.Odd_Even_Position.pdb

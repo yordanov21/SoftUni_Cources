@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\4-Best Player\bin\Debug\4-Best Player.exe.config
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\4-Best Player\bin\Debug\4-Best Player.exe
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\4-Best Player\bin\Debug\4-Best Player.pdb
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\4-Best Player\obj\Debug\4-Best Player.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\4-Best Player\obj\Debug\4-Best Player.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\4-Best Player\obj\Debug\4-Best Player.exe
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\4-Best Player\obj\Debug\4-Best Player.pdb

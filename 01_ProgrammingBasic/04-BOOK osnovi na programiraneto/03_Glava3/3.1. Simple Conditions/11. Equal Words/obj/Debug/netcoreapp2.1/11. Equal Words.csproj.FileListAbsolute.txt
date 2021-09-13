@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\11. Equal Words\bin\Debug\netcoreapp2.1\11. Equal Words.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\11. Equal Words\bin\Debug\netcoreapp2.1\11. Equal Words.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\11. Equal Words\bin\Debug\netcoreapp2.1\11. Equal Words.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\11. Equal Words\bin\Debug\netcoreapp2.1\11. Equal Words.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\11. Equal Words\bin\Debug\netcoreapp2.1\11. Equal Words.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\11. Equal Words\obj\Debug\netcoreapp2.1\11. Equal Words.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\11. Equal Words\obj\Debug\netcoreapp2.1\11. Equal Words.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\11. Equal Words\obj\Debug\netcoreapp2.1\11. Equal Words.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\11. Equal Words\obj\Debug\netcoreapp2.1\11. Equal Words.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\11. Equal Words\obj\Debug\netcoreapp2.1\11. Equal Words.pdb

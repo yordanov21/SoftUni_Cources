@@ -1,0 +1,6 @@
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\2-BeerAndChips\bin\Debug\2-BeerAndChips.exe.config
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\2-BeerAndChips\bin\Debug\2-BeerAndChips.exe
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\2-BeerAndChips\bin\Debug\2-BeerAndChips.pdb
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\2-BeerAndChips\obj\Debug\2-BeerAndChips.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\2-BeerAndChips\obj\Debug\2-BeerAndChips.exe
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\2-BeerAndChips\obj\Debug\2-BeerAndChips.pdb

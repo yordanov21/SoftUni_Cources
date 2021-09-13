@@ -1,0 +1,6 @@
+C:\Users\Biser-1\Desktop\programing basic\09-06.04.2019\For-Loop - Lab\03. Sum Numbers\bin\Debug\_03.Sum_Numbers.exe.config
+C:\Users\Biser-1\Desktop\programing basic\09-06.04.2019\For-Loop - Lab\03. Sum Numbers\bin\Debug\_03.Sum_Numbers.exe
+C:\Users\Biser-1\Desktop\programing basic\09-06.04.2019\For-Loop - Lab\03. Sum Numbers\bin\Debug\_03.Sum_Numbers.pdb
+C:\Users\Biser-1\Desktop\programing basic\09-06.04.2019\For-Loop - Lab\03. Sum Numbers\obj\Debug\03. Sum Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\09-06.04.2019\For-Loop - Lab\03. Sum Numbers\obj\Debug\_03.Sum_Numbers.exe
+C:\Users\Biser-1\Desktop\programing basic\09-06.04.2019\For-Loop - Lab\03. Sum Numbers\obj\Debug\_03.Sum_Numbers.pdb

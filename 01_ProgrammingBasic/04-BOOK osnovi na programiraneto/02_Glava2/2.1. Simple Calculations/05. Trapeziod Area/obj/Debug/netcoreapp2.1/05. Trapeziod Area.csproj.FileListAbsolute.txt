@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\05. Trapeziod Area\bin\Debug\netcoreapp2.1\05. Trapeziod Area.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\05. Trapeziod Area\bin\Debug\netcoreapp2.1\05. Trapeziod Area.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\05. Trapeziod Area\bin\Debug\netcoreapp2.1\05. Trapeziod Area.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\05. Trapeziod Area\bin\Debug\netcoreapp2.1\05. Trapeziod Area.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\05. Trapeziod Area\bin\Debug\netcoreapp2.1\05. Trapeziod Area.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\05. Trapeziod Area\obj\Debug\netcoreapp2.1\05. Trapeziod Area.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\05. Trapeziod Area\obj\Debug\netcoreapp2.1\05. Trapeziod Area.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\05. Trapeziod Area\obj\Debug\netcoreapp2.1\05. Trapeziod Area.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\05. Trapeziod Area\obj\Debug\netcoreapp2.1\05. Trapeziod Area.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\05. Trapeziod Area\obj\Debug\netcoreapp2.1\05. Trapeziod Area.pdb

@@ -1,0 +1,10 @@
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\02. Sign of Integer Number\bin\Debug\netcoreapp2.1\02. Sign of Integer Number.deps.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\02. Sign of Integer Number\bin\Debug\netcoreapp2.1\02. Sign of Integer Number.runtimeconfig.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\02. Sign of Integer Number\bin\Debug\netcoreapp2.1\02. Sign of Integer Number.runtimeconfig.dev.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\02. Sign of Integer Number\bin\Debug\netcoreapp2.1\02. Sign of Integer Number.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\02. Sign of Integer Number\bin\Debug\netcoreapp2.1\02. Sign of Integer Number.pdb
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\02. Sign of Integer Number\obj\Debug\netcoreapp2.1\02. Sign of Integer Number.csproj.CoreCompileInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\02. Sign of Integer Number\obj\Debug\netcoreapp2.1\02. Sign of Integer Number.AssemblyInfoInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\02. Sign of Integer Number\obj\Debug\netcoreapp2.1\02. Sign of Integer Number.AssemblyInfo.cs
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\02. Sign of Integer Number\obj\Debug\netcoreapp2.1\02. Sign of Integer Number.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\02. Sign of Integer Number\obj\Debug\netcoreapp2.1\02. Sign of Integer Number.pdb

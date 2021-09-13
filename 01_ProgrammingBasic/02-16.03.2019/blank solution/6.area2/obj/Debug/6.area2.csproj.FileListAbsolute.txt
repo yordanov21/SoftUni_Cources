@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\blank solution\6.area2\bin\Debug\6.area2.exe.config
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\blank solution\6.area2\bin\Debug\6.area2.exe
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\blank solution\6.area2\bin\Debug\6.area2.pdb
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\blank solution\6.area2\obj\Debug\6.area2.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\blank solution\6.area2\obj\Debug\6.area2.exe
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\blank solution\6.area2\obj\Debug\6.area2.pdb
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\blank solution\6.area2\obj\Debug\6.area2.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Biser-1\Desktop\programing basic\08-31.03.2019\While-Loop - Exercise\06. Cake\bin\Debug\_06.Cake.exe.config
+C:\Users\Biser-1\Desktop\programing basic\08-31.03.2019\While-Loop - Exercise\06. Cake\bin\Debug\_06.Cake.exe
+C:\Users\Biser-1\Desktop\programing basic\08-31.03.2019\While-Loop - Exercise\06. Cake\bin\Debug\_06.Cake.pdb
+C:\Users\Biser-1\Desktop\programing basic\08-31.03.2019\While-Loop - Exercise\06. Cake\obj\Debug\06. Cake.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\08-31.03.2019\While-Loop - Exercise\06. Cake\obj\Debug\_06.Cake.exe
+C:\Users\Biser-1\Desktop\programing basic\08-31.03.2019\While-Loop - Exercise\06. Cake\obj\Debug\_06.Cake.pdb

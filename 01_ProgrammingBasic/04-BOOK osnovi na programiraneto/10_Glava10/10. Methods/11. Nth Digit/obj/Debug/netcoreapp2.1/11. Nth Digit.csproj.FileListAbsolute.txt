@@ -1,0 +1,10 @@
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\11. Nth Digit\bin\Debug\netcoreapp2.1\11. Nth Digit.deps.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\11. Nth Digit\bin\Debug\netcoreapp2.1\11. Nth Digit.runtimeconfig.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\11. Nth Digit\bin\Debug\netcoreapp2.1\11. Nth Digit.runtimeconfig.dev.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\11. Nth Digit\bin\Debug\netcoreapp2.1\11. Nth Digit.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\11. Nth Digit\bin\Debug\netcoreapp2.1\11. Nth Digit.pdb
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\11. Nth Digit\obj\Debug\netcoreapp2.1\11. Nth Digit.csproj.CoreCompileInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\11. Nth Digit\obj\Debug\netcoreapp2.1\11. Nth Digit.AssemblyInfoInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\11. Nth Digit\obj\Debug\netcoreapp2.1\11. Nth Digit.AssemblyInfo.cs
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\11. Nth Digit\obj\Debug\netcoreapp2.1\11. Nth Digit.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\11. Nth Digit\obj\Debug\netcoreapp2.1\11. Nth Digit.pdb

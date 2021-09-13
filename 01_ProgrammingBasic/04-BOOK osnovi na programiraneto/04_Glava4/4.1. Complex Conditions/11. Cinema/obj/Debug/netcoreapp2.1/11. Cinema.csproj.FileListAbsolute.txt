@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\11. Cinema\bin\Debug\netcoreapp2.1\11. Cinema.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\11. Cinema\bin\Debug\netcoreapp2.1\11. Cinema.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\11. Cinema\bin\Debug\netcoreapp2.1\11. Cinema.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\11. Cinema\bin\Debug\netcoreapp2.1\11. Cinema.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\11. Cinema\bin\Debug\netcoreapp2.1\11. Cinema.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\11. Cinema\obj\Debug\netcoreapp2.1\11. Cinema.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\11. Cinema\obj\Debug\netcoreapp2.1\11. Cinema.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\11. Cinema\obj\Debug\netcoreapp2.1\11. Cinema.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\11. Cinema\obj\Debug\netcoreapp2.1\11. Cinema.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\11. Cinema\obj\Debug\netcoreapp2.1\11. Cinema.pdb

@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\13. Point in the Figure\bin\Debug\netcoreapp2.1\13. Point in the Figure.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\13. Point in the Figure\bin\Debug\netcoreapp2.1\13. Point in the Figure.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\13. Point in the Figure\bin\Debug\netcoreapp2.1\13. Point in the Figure.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\13. Point in the Figure\bin\Debug\netcoreapp2.1\13. Point in the Figure.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\13. Point in the Figure\bin\Debug\netcoreapp2.1\13. Point in the Figure.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\13. Point in the Figure\obj\Debug\netcoreapp2.1\13. Point in the Figure.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\13. Point in the Figure\obj\Debug\netcoreapp2.1\13. Point in the Figure.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\13. Point in the Figure\obj\Debug\netcoreapp2.1\13. Point in the Figure.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\13. Point in the Figure\obj\Debug\netcoreapp2.1\13. Point in the Figure.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\13. Point in the Figure\obj\Debug\netcoreapp2.1\13. Point in the Figure.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\13. Point in the Figure\obj\Debug\netcoreapp2.1\13. Point in the Figure.pdb

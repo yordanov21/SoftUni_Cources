@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\02. Numbers Ending in 7\bin\Debug\netcoreapp2.1\02. Numbers Ending in 7.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\02. Numbers Ending in 7\bin\Debug\netcoreapp2.1\02. Numbers Ending in 7.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\02. Numbers Ending in 7\bin\Debug\netcoreapp2.1\02. Numbers Ending in 7.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\02. Numbers Ending in 7\bin\Debug\netcoreapp2.1\02. Numbers Ending in 7.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\02. Numbers Ending in 7\bin\Debug\netcoreapp2.1\02. Numbers Ending in 7.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\02. Numbers Ending in 7\obj\Debug\netcoreapp2.1\02. Numbers Ending in 7.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\02. Numbers Ending in 7\obj\Debug\netcoreapp2.1\02. Numbers Ending in 7.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\02. Numbers Ending in 7\obj\Debug\netcoreapp2.1\02. Numbers Ending in 7.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\02. Numbers Ending in 7\obj\Debug\netcoreapp2.1\02. Numbers Ending in 7.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\02. Numbers Ending in 7\obj\Debug\netcoreapp2.1\02. Numbers Ending in 7.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\02. Numbers Ending in 7\obj\Debug\netcoreapp2.1\02. Numbers Ending in 7.pdb

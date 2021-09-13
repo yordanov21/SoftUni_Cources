@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\01. Excellent Result\bin\Debug\_01.Excellent_Result.exe.config
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\01. Excellent Result\bin\Debug\_01.Excellent_Result.exe
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\01. Excellent Result\bin\Debug\_01.Excellent_Result.pdb
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\01. Excellent Result\obj\Debug\01. Excellent Result.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\01. Excellent Result\obj\Debug\01. Excellent Result.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\01. Excellent Result\obj\Debug\_01.Excellent_Result.exe
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\01. Excellent Result\obj\Debug\_01.Excellent_Result.pdb

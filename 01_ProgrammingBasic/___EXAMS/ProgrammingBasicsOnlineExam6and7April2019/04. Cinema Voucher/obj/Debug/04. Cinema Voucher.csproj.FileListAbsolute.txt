@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\04. Cinema Voucher\bin\Debug\_04.Cinema_Voucher.exe.config
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\04. Cinema Voucher\bin\Debug\_04.Cinema_Voucher.exe
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\04. Cinema Voucher\bin\Debug\_04.Cinema_Voucher.pdb
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\04. Cinema Voucher\obj\Debug\04. Cinema Voucher.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\04. Cinema Voucher\obj\Debug\_04.Cinema_Voucher.exe
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\04. Cinema Voucher\obj\Debug\_04.Cinema_Voucher.pdb
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\04. Cinema Voucher\obj\Debug\04. Cinema Voucher.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\01. Distance\bin\Debug\netcoreapp2.1\01. Distance.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\01. Distance\bin\Debug\netcoreapp2.1\01. Distance.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\01. Distance\bin\Debug\netcoreapp2.1\01. Distance.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\01. Distance\bin\Debug\netcoreapp2.1\01. Distance.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\01. Distance\bin\Debug\netcoreapp2.1\01. Distance.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\01. Distance\obj\Debug\netcoreapp2.1\01. Distance.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\01. Distance\obj\Debug\netcoreapp2.1\01. Distance.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\01. Distance\obj\Debug\netcoreapp2.1\01. Distance.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\01. Distance\obj\Debug\netcoreapp2.1\01. Distance.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\01. Distance\obj\Debug\netcoreapp2.1\01. Distance.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\01. Distance\obj\Debug\netcoreapp2.1\01. Distance.pdb

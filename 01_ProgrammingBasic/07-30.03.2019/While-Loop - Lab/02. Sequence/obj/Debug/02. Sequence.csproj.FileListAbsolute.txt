@@ -1,0 +1,6 @@
+C:\Users\Biser-1\Desktop\programing basic\07-30.03.2019\While-Loop - Lab\02. Sequence\bin\Debug\_02.Sequence.exe.config
+C:\Users\Biser-1\Desktop\programing basic\07-30.03.2019\While-Loop - Lab\02. Sequence\bin\Debug\_02.Sequence.exe
+C:\Users\Biser-1\Desktop\programing basic\07-30.03.2019\While-Loop - Lab\02. Sequence\bin\Debug\_02.Sequence.pdb
+C:\Users\Biser-1\Desktop\programing basic\07-30.03.2019\While-Loop - Lab\02. Sequence\obj\Debug\02. Sequence.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\07-30.03.2019\While-Loop - Lab\02. Sequence\obj\Debug\_02.Sequence.exe
+C:\Users\Biser-1\Desktop\programing basic\07-30.03.2019\While-Loop - Lab\02. Sequence\obj\Debug\_02.Sequence.pdb

@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.2. SimpleConditions-ExProbl\03. Sleepy Tom Cat\bin\Debug\netcoreapp2.1\03. Sleepy Tom Cat.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.2. SimpleConditions-ExProbl\03. Sleepy Tom Cat\bin\Debug\netcoreapp2.1\03. Sleepy Tom Cat.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.2. SimpleConditions-ExProbl\03. Sleepy Tom Cat\bin\Debug\netcoreapp2.1\03. Sleepy Tom Cat.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.2. SimpleConditions-ExProbl\03. Sleepy Tom Cat\bin\Debug\netcoreapp2.1\03. Sleepy Tom Cat.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.2. SimpleConditions-ExProbl\03. Sleepy Tom Cat\bin\Debug\netcoreapp2.1\03. Sleepy Tom Cat.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.2. SimpleConditions-ExProbl\03. Sleepy Tom Cat\obj\Debug\netcoreapp2.1\03. Sleepy Tom Cat.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.2. SimpleConditions-ExProbl\03. Sleepy Tom Cat\obj\Debug\netcoreapp2.1\03. Sleepy Tom Cat.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.2. SimpleConditions-ExProbl\03. Sleepy Tom Cat\obj\Debug\netcoreapp2.1\03. Sleepy Tom Cat.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.2. SimpleConditions-ExProbl\03. Sleepy Tom Cat\obj\Debug\netcoreapp2.1\03. Sleepy Tom Cat.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.2. SimpleConditions-ExProbl\03. Sleepy Tom Cat\obj\Debug\netcoreapp2.1\03. Sleepy Tom Cat.pdb

@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\6-Ticket Combination\bin\Debug\6-Ticket Combination.exe.config
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\6-Ticket Combination\bin\Debug\6-Ticket Combination.exe
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\6-Ticket Combination\bin\Debug\6-Ticket Combination.pdb
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\6-Ticket Combination\obj\Debug\6-Ticket Combination.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\6-Ticket Combination\obj\Debug\6-Ticket Combination.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\6-Ticket Combination\obj\Debug\6-Ticket Combination.exe
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\6-Ticket Combination\obj\Debug\6-Ticket Combination.pdb

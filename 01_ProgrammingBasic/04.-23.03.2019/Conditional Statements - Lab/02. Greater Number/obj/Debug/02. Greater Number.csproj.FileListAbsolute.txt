@@ -1,0 +1,6 @@
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\02. Greater Number\bin\Debug\_02.Greater_Number.exe.config
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\02. Greater Number\bin\Debug\_02.Greater_Number.exe
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\02. Greater Number\bin\Debug\_02.Greater_Number.pdb
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\02. Greater Number\obj\Debug\02. Greater Number.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\02. Greater Number\obj\Debug\_02.Greater_Number.exe
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\02. Greater Number\obj\Debug\_02.Greater_Number.pdb

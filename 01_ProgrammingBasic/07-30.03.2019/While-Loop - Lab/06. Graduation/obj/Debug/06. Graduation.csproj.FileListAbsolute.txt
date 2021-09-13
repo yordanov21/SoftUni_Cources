@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\07-30.03.2019\While-Loop - Lab\06. Graduation\bin\Debug\_06.Graduation.exe.config
+C:\Users\Biser-1\Desktop\programing basic\07-30.03.2019\While-Loop - Lab\06. Graduation\bin\Debug\_06.Graduation.exe
+C:\Users\Biser-1\Desktop\programing basic\07-30.03.2019\While-Loop - Lab\06. Graduation\bin\Debug\_06.Graduation.pdb
+C:\Users\Biser-1\Desktop\programing basic\07-30.03.2019\While-Loop - Lab\06. Graduation\obj\Debug\06. Graduation.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\07-30.03.2019\While-Loop - Lab\06. Graduation\obj\Debug\06. Graduation.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\07-30.03.2019\While-Loop - Lab\06. Graduation\obj\Debug\_06.Graduation.exe
+C:\Users\Biser-1\Desktop\programing basic\07-30.03.2019\While-Loop - Lab\06. Graduation\obj\Debug\_06.Graduation.pdb

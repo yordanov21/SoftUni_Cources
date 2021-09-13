@@ -1,0 +1,11 @@
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\09_Glava9\9.1. Problems for Champions - Part I\01. Crossing sequences\bin\Debug\netcoreapp2.1\01. Crossing sequences.deps.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\09_Glava9\9.1. Problems for Champions - Part I\01. Crossing sequences\bin\Debug\netcoreapp2.1\01. Crossing sequences.runtimeconfig.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\09_Glava9\9.1. Problems for Champions - Part I\01. Crossing sequences\bin\Debug\netcoreapp2.1\01. Crossing sequences.runtimeconfig.dev.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\09_Glava9\9.1. Problems for Champions - Part I\01. Crossing sequences\bin\Debug\netcoreapp2.1\01. Crossing sequences.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\09_Glava9\9.1. Problems for Champions - Part I\01. Crossing sequences\bin\Debug\netcoreapp2.1\01. Crossing sequences.pdb
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\09_Glava9\9.1. Problems for Champions - Part I\01. Crossing sequences\obj\Debug\netcoreapp2.1\01. Crossing sequences.csprojAssemblyReference.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\09_Glava9\9.1. Problems for Champions - Part I\01. Crossing sequences\obj\Debug\netcoreapp2.1\01. Crossing sequences.csproj.CoreCompileInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\09_Glava9\9.1. Problems for Champions - Part I\01. Crossing sequences\obj\Debug\netcoreapp2.1\01. Crossing sequences.AssemblyInfoInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\09_Glava9\9.1. Problems for Champions - Part I\01. Crossing sequences\obj\Debug\netcoreapp2.1\01. Crossing sequences.AssemblyInfo.cs
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\09_Glava9\9.1. Problems for Champions - Part I\01. Crossing sequences\obj\Debug\netcoreapp2.1\01. Crossing sequences.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\09_Glava9\9.1. Problems for Champions - Part I\01. Crossing sequences\obj\Debug\netcoreapp2.1\01. Crossing sequences.pdb

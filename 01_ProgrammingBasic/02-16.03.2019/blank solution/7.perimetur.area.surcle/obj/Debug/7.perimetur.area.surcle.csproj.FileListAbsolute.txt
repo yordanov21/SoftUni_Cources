@@ -1,0 +1,6 @@
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\blank solution\7.perimetur.area.surcle\bin\Debug\7.perimetur.area.surcle.exe.config
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\blank solution\7.perimetur.area.surcle\bin\Debug\7.perimetur.area.surcle.exe
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\blank solution\7.perimetur.area.surcle\bin\Debug\7.perimetur.area.surcle.pdb
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\blank solution\7.perimetur.area.surcle\obj\Debug\7.perimetur.area.surcle.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\blank solution\7.perimetur.area.surcle\obj\Debug\7.perimetur.area.surcle.exe
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\blank solution\7.perimetur.area.surcle\obj\Debug\7.perimetur.area.surcle.pdb

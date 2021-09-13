@@ -1,0 +1,6 @@
+C:\Users\Biser-1\Desktop\programing basic\12-14.04.2019\Nested Loops - Exercise\10. Special Numbers\bin\Debug\_10.Special_Numbers.exe.config
+C:\Users\Biser-1\Desktop\programing basic\12-14.04.2019\Nested Loops - Exercise\10. Special Numbers\bin\Debug\_10.Special_Numbers.exe
+C:\Users\Biser-1\Desktop\programing basic\12-14.04.2019\Nested Loops - Exercise\10. Special Numbers\bin\Debug\_10.Special_Numbers.pdb
+C:\Users\Biser-1\Desktop\programing basic\12-14.04.2019\Nested Loops - Exercise\10. Special Numbers\obj\Debug\10. Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\12-14.04.2019\Nested Loops - Exercise\10. Special Numbers\obj\Debug\_10.Special_Numbers.exe
+C:\Users\Biser-1\Desktop\programing basic\12-14.04.2019\Nested Loops - Exercise\10. Special Numbers\obj\Debug\_10.Special_Numbers.pdb

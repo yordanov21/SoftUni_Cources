@@ -1,0 +1,11 @@
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\12. Integer to Base\bin\Debug\netcoreapp2.1\12. Integer to Base.deps.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\12. Integer to Base\bin\Debug\netcoreapp2.1\12. Integer to Base.runtimeconfig.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\12. Integer to Base\bin\Debug\netcoreapp2.1\12. Integer to Base.runtimeconfig.dev.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\12. Integer to Base\bin\Debug\netcoreapp2.1\12. Integer to Base.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\12. Integer to Base\bin\Debug\netcoreapp2.1\12. Integer to Base.pdb
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\12. Integer to Base\obj\Debug\netcoreapp2.1\12. Integer to Base.csprojAssemblyReference.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\12. Integer to Base\obj\Debug\netcoreapp2.1\12. Integer to Base.csproj.CoreCompileInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\12. Integer to Base\obj\Debug\netcoreapp2.1\12. Integer to Base.AssemblyInfoInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\12. Integer to Base\obj\Debug\netcoreapp2.1\12. Integer to Base.AssemblyInfo.cs
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\12. Integer to Base\obj\Debug\netcoreapp2.1\12. Integer to Base.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\12. Integer to Base\obj\Debug\netcoreapp2.1\12. Integer to Base.pdb

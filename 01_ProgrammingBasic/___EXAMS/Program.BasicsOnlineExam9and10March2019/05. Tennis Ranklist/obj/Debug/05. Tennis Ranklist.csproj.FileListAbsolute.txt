@@ -1,0 +1,6 @@
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\Program.BasicsOnlineExam9and10March2019\05. Tennis Ranklist\bin\Debug\_05.Tennis_Ranklist.exe.config
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\Program.BasicsOnlineExam9and10March2019\05. Tennis Ranklist\bin\Debug\_05.Tennis_Ranklist.exe
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\Program.BasicsOnlineExam9and10March2019\05. Tennis Ranklist\bin\Debug\_05.Tennis_Ranklist.pdb
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\Program.BasicsOnlineExam9and10March2019\05. Tennis Ranklist\obj\Debug\05. Tennis Ranklist.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\Program.BasicsOnlineExam9and10March2019\05. Tennis Ranklist\obj\Debug\_05.Tennis_Ranklist.exe
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\Program.BasicsOnlineExam9and10March2019\05. Tennis Ranklist\obj\Debug\_05.Tennis_Ranklist.pdb

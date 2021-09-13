@@ -1,0 +1,10 @@
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\16. Number Table\bin\Debug\netcoreapp2.1\16. Number Table.deps.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\16. Number Table\bin\Debug\netcoreapp2.1\16. Number Table.runtimeconfig.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\16. Number Table\bin\Debug\netcoreapp2.1\16. Number Table.runtimeconfig.dev.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\16. Number Table\bin\Debug\netcoreapp2.1\16. Number Table.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\16. Number Table\bin\Debug\netcoreapp2.1\16. Number Table.pdb
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\16. Number Table\obj\Debug\netcoreapp2.1\16. Number Table.csproj.CoreCompileInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\16. Number Table\obj\Debug\netcoreapp2.1\16. Number Table.AssemblyInfoInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\16. Number Table\obj\Debug\netcoreapp2.1\16. Number Table.AssemblyInfo.cs
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\16. Number Table\obj\Debug\netcoreapp2.1\16. Number Table.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\16. Number Table\obj\Debug\netcoreapp2.1\16. Number Table.pdb

@@ -1,0 +1,10 @@
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.2. Complex Loops - Exam Problems\02. Magic Combination\bin\Debug\netcoreapp2.1\02. Magic Combination.deps.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.2. Complex Loops - Exam Problems\02. Magic Combination\bin\Debug\netcoreapp2.1\02. Magic Combination.runtimeconfig.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.2. Complex Loops - Exam Problems\02. Magic Combination\bin\Debug\netcoreapp2.1\02. Magic Combination.runtimeconfig.dev.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.2. Complex Loops - Exam Problems\02. Magic Combination\bin\Debug\netcoreapp2.1\02. Magic Combination.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.2. Complex Loops - Exam Problems\02. Magic Combination\bin\Debug\netcoreapp2.1\02. Magic Combination.pdb
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.2. Complex Loops - Exam Problems\02. Magic Combination\obj\Debug\netcoreapp2.1\02. Magic Combination.csproj.CoreCompileInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.2. Complex Loops - Exam Problems\02. Magic Combination\obj\Debug\netcoreapp2.1\02. Magic Combination.AssemblyInfoInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.2. Complex Loops - Exam Problems\02. Magic Combination\obj\Debug\netcoreapp2.1\02. Magic Combination.AssemblyInfo.cs
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.2. Complex Loops - Exam Problems\02. Magic Combination\obj\Debug\netcoreapp2.1\02. Magic Combination.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.2. Complex Loops - Exam Problems\02. Magic Combination\obj\Debug\netcoreapp2.1\02. Magic Combination.pdb

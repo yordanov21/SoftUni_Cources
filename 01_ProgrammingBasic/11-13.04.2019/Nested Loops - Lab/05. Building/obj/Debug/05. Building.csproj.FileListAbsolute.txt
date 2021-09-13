@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\05. Building\obj\Debug\05. Building.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\05. Building\obj\Debug\05. Building.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\05. Building\bin\Debug\_05.Building.exe.config
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\05. Building\bin\Debug\_05.Building.exe
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\05. Building\bin\Debug\_05.Building.pdb
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\05. Building\obj\Debug\_05.Building.exe
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\05. Building\obj\Debug\_05.Building.pdb

@@ -1,0 +1,6 @@
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\04. Fruit or Vegetable\bin\Debug\_04.Fruit_or_Vegetable.exe.config
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\04. Fruit or Vegetable\bin\Debug\_04.Fruit_or_Vegetable.exe
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\04. Fruit or Vegetable\bin\Debug\_04.Fruit_or_Vegetable.pdb
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\04. Fruit or Vegetable\obj\Debug\04. Fruit or Vegetable.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\04. Fruit or Vegetable\obj\Debug\_04.Fruit_or_Vegetable.exe
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\04. Fruit or Vegetable\obj\Debug\_04.Fruit_or_Vegetable.pdb

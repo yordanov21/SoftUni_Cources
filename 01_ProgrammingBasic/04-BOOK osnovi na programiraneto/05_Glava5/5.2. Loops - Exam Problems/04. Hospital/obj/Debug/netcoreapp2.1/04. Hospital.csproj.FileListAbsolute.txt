@@ -1,0 +1,10 @@
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.2. Loops - Exam Problems\04. Hospital\bin\Debug\netcoreapp2.1\04. Hospital.deps.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.2. Loops - Exam Problems\04. Hospital\bin\Debug\netcoreapp2.1\04. Hospital.runtimeconfig.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.2. Loops - Exam Problems\04. Hospital\bin\Debug\netcoreapp2.1\04. Hospital.runtimeconfig.dev.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.2. Loops - Exam Problems\04. Hospital\bin\Debug\netcoreapp2.1\04. Hospital.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.2. Loops - Exam Problems\04. Hospital\bin\Debug\netcoreapp2.1\04. Hospital.pdb
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.2. Loops - Exam Problems\04. Hospital\obj\Debug\netcoreapp2.1\04. Hospital.csproj.CoreCompileInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.2. Loops - Exam Problems\04. Hospital\obj\Debug\netcoreapp2.1\04. Hospital.AssemblyInfoInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.2. Loops - Exam Problems\04. Hospital\obj\Debug\netcoreapp2.1\04. Hospital.AssemblyInfo.cs
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.2. Loops - Exam Problems\04. Hospital\obj\Debug\netcoreapp2.1\04. Hospital.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.2. Loops - Exam Problems\04. Hospital\obj\Debug\netcoreapp2.1\04. Hospital.pdb

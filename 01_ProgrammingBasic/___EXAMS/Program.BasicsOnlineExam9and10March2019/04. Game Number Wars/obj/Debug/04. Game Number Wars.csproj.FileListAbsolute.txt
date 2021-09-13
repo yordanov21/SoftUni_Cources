@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\Program.BasicsOnlineExam9and10March2019\04. Game Number Wars\bin\Debug\_04.Game_Number_Wars.exe.config
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\Program.BasicsOnlineExam9and10March2019\04. Game Number Wars\bin\Debug\_04.Game_Number_Wars.exe
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\Program.BasicsOnlineExam9and10March2019\04. Game Number Wars\bin\Debug\_04.Game_Number_Wars.pdb
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\Program.BasicsOnlineExam9and10March2019\04. Game Number Wars\obj\Debug\04. Game Number Wars.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\Program.BasicsOnlineExam9and10March2019\04. Game Number Wars\obj\Debug\04. Game Number Wars.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\Program.BasicsOnlineExam9and10March2019\04. Game Number Wars\obj\Debug\_04.Game_Number_Wars.exe
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\Program.BasicsOnlineExam9and10March2019\04. Game Number Wars\obj\Debug\_04.Game_Number_Wars.pdb

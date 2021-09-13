@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\03. Summer Outfit\bin\Debug\_03.Summer_Outfit.exe.config
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\03. Summer Outfit\bin\Debug\_03.Summer_Outfit.exe
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\03. Summer Outfit\bin\Debug\_03.Summer_Outfit.pdb
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\03. Summer Outfit\obj\Debug\03. Summer Outfit.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\03. Summer Outfit\obj\Debug\03. Summer Outfit.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\03. Summer Outfit\obj\Debug\_03.Summer_Outfit.exe
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\03. Summer Outfit\obj\Debug\_03.Summer_Outfit.pdb

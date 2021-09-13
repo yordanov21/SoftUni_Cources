@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\12. Speed Info\bin\Debug\netcoreapp2.1\12. Speed Info.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\12. Speed Info\bin\Debug\netcoreapp2.1\12. Speed Info.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\12. Speed Info\bin\Debug\netcoreapp2.1\12. Speed Info.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\12. Speed Info\bin\Debug\netcoreapp2.1\12. Speed Info.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\12. Speed Info\bin\Debug\netcoreapp2.1\12. Speed Info.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\12. Speed Info\obj\Debug\netcoreapp2.1\12. Speed Info.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\12. Speed Info\obj\Debug\netcoreapp2.1\12. Speed Info.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\12. Speed Info\obj\Debug\netcoreapp2.1\12. Speed Info.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\12. Speed Info\obj\Debug\netcoreapp2.1\12. Speed Info.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\12. Speed Info\obj\Debug\netcoreapp2.1\12. Speed Info.pdb

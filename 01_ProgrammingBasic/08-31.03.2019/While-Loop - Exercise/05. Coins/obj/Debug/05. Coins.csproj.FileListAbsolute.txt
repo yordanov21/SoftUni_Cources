@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\08-31.03.2019\While-Loop - Exercise\05. Coins\bin\Debug\_05.Coins.exe.config
+C:\Users\Biser-1\Desktop\programing basic\08-31.03.2019\While-Loop - Exercise\05. Coins\bin\Debug\_05.Coins.exe
+C:\Users\Biser-1\Desktop\programing basic\08-31.03.2019\While-Loop - Exercise\05. Coins\bin\Debug\_05.Coins.pdb
+C:\Users\Biser-1\Desktop\programing basic\08-31.03.2019\While-Loop - Exercise\05. Coins\obj\Debug\05. Coins.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\08-31.03.2019\While-Loop - Exercise\05. Coins\obj\Debug\05. Coins.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\08-31.03.2019\While-Loop - Exercise\05. Coins\obj\Debug\_05.Coins.exe
+C:\Users\Biser-1\Desktop\programing basic\08-31.03.2019\While-Loop - Exercise\05. Coins\obj\Debug\_05.Coins.pdb

@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\03. Even Powers of 2\bin\Debug\_03.Even_Powers_of_2.exe.config
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\03. Even Powers of 2\bin\Debug\_03.Even_Powers_of_2.exe
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\03. Even Powers of 2\bin\Debug\_03.Even_Powers_of_2.pdb
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\03. Even Powers of 2\obj\Debug\03. Even Powers of 2.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\03. Even Powers of 2\obj\Debug\_03.Even_Powers_of_2.exe
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\03. Even Powers of 2\obj\Debug\_03.Even_Powers_of_2.pdb
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\03. Even Powers of 2\obj\Debug\03. Even Powers of 2.csprojAssemblyReference.cache

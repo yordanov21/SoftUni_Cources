@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\09. Scholarship\bin\Debug\_09.Scholarship.exe.config
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\09. Scholarship\bin\Debug\_09.Scholarship.exe
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\09. Scholarship\bin\Debug\_09.Scholarship.pdb
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\09. Scholarship\obj\Debug\09. Scholarship.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\09. Scholarship\obj\Debug\09. Scholarship.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\09. Scholarship\obj\Debug\_09.Scholarship.exe
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\09. Scholarship\obj\Debug\_09.Scholarship.pdb

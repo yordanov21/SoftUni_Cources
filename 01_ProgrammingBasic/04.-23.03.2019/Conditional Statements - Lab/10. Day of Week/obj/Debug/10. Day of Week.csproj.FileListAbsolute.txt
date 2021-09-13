@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\10. Day of Week\bin\Debug\_10.Day_of_Week.exe.config
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\10. Day of Week\bin\Debug\_10.Day_of_Week.exe
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\10. Day of Week\bin\Debug\_10.Day_of_Week.pdb
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\10. Day of Week\obj\Debug\10. Day of Week.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\10. Day of Week\obj\Debug\10. Day of Week.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\10. Day of Week\obj\Debug\_10.Day_of_Week.exe
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\10. Day of Week\obj\Debug\_10.Day_of_Week.pdb

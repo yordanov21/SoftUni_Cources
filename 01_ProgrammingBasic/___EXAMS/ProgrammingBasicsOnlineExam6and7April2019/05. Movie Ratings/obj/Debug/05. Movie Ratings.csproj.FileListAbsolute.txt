@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\05. Movie Ratings\bin\Debug\_05.Movie_Ratings.exe.config
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\05. Movie Ratings\bin\Debug\_05.Movie_Ratings.exe
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\05. Movie Ratings\bin\Debug\_05.Movie_Ratings.pdb
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\05. Movie Ratings\obj\Debug\05. Movie Ratings.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\05. Movie Ratings\obj\Debug\05. Movie Ratings.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\05. Movie Ratings\obj\Debug\_05.Movie_Ratings.exe
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\05. Movie Ratings\obj\Debug\_05.Movie_Ratings.pdb

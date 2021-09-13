@@ -1,0 +1,10 @@
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\07. Greatest Common Divisor (CGD)\bin\Debug\netcoreapp2.1\07. Greatest Common Divisor (CGD).deps.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\07. Greatest Common Divisor (CGD)\bin\Debug\netcoreapp2.1\07. Greatest Common Divisor (CGD).runtimeconfig.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\07. Greatest Common Divisor (CGD)\bin\Debug\netcoreapp2.1\07. Greatest Common Divisor (CGD).runtimeconfig.dev.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\07. Greatest Common Divisor (CGD)\bin\Debug\netcoreapp2.1\07. Greatest Common Divisor (CGD).dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\07. Greatest Common Divisor (CGD)\bin\Debug\netcoreapp2.1\07. Greatest Common Divisor (CGD).pdb
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\07. Greatest Common Divisor (CGD)\obj\Debug\netcoreapp2.1\07. Greatest Common Divisor (CGD).csproj.CoreCompileInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\07. Greatest Common Divisor (CGD)\obj\Debug\netcoreapp2.1\07. Greatest Common Divisor (CGD).AssemblyInfoInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\07. Greatest Common Divisor (CGD)\obj\Debug\netcoreapp2.1\07. Greatest Common Divisor (CGD).AssemblyInfo.cs
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\07. Greatest Common Divisor (CGD)\obj\Debug\netcoreapp2.1\07. Greatest Common Divisor (CGD).dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\07. Greatest Common Divisor (CGD)\obj\Debug\netcoreapp2.1\07. Greatest Common Divisor (CGD).pdb

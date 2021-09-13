@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\03. Operations\bin\Debug\netcoreapp2.1\03. Operations.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\03. Operations\bin\Debug\netcoreapp2.1\03. Operations.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\03. Operations\bin\Debug\netcoreapp2.1\03. Operations.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\03. Operations\bin\Debug\netcoreapp2.1\03. Operations.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\03. Operations\bin\Debug\netcoreapp2.1\03. Operations.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\03. Operations\obj\Debug\netcoreapp2.1\03. Operations.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\03. Operations\obj\Debug\netcoreapp2.1\03. Operations.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\03. Operations\obj\Debug\netcoreapp2.1\03. Operations.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\03. Operations\obj\Debug\netcoreapp2.1\03. Operations.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\03. Operations\obj\Debug\netcoreapp2.1\03. Operations.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\03. Operations\obj\Debug\netcoreapp2.1\03. Operations.pdb

@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\02. Inches to Centimeters\bin\Debug\netcoreapp2.1\02. Inches to Centimeters.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\02. Inches to Centimeters\bin\Debug\netcoreapp2.1\02. Inches to Centimeters.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\02. Inches to Centimeters\bin\Debug\netcoreapp2.1\02. Inches to Centimeters.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\02. Inches to Centimeters\bin\Debug\netcoreapp2.1\02. Inches to Centimeters.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\02. Inches to Centimeters\bin\Debug\netcoreapp2.1\02. Inches to Centimeters.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\02. Inches to Centimeters\obj\Debug\netcoreapp2.1\02. Inches to Centimeters.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\02. Inches to Centimeters\obj\Debug\netcoreapp2.1\02. Inches to Centimeters.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\02. Inches to Centimeters\obj\Debug\netcoreapp2.1\02. Inches to Centimeters.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\02. Inches to Centimeters\obj\Debug\netcoreapp2.1\02. Inches to Centimeters.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\02. Inches to Centimeters\obj\Debug\netcoreapp2.1\02. Inches to Centimeters.pdb

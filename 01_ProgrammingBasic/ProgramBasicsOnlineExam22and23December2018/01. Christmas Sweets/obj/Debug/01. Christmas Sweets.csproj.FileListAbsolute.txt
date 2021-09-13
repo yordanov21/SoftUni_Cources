@@ -1,0 +1,7 @@
+C:\Users\Dancho\Desktop\programmingBasic\ProgramBasicsOnlineExam22and23December2018\01. Christmas Sweets\bin\Debug\_01.Christmas_Sweets.exe.config
+C:\Users\Dancho\Desktop\programmingBasic\ProgramBasicsOnlineExam22and23December2018\01. Christmas Sweets\bin\Debug\_01.Christmas_Sweets.exe
+C:\Users\Dancho\Desktop\programmingBasic\ProgramBasicsOnlineExam22and23December2018\01. Christmas Sweets\bin\Debug\_01.Christmas_Sweets.pdb
+C:\Users\Dancho\Desktop\programmingBasic\ProgramBasicsOnlineExam22and23December2018\01. Christmas Sweets\obj\Debug\01. Christmas Sweets.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\programmingBasic\ProgramBasicsOnlineExam22and23December2018\01. Christmas Sweets\obj\Debug\01. Christmas Sweets.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\ProgramBasicsOnlineExam22and23December2018\01. Christmas Sweets\obj\Debug\_01.Christmas_Sweets.exe
+C:\Users\Dancho\Desktop\programmingBasic\ProgramBasicsOnlineExam22and23December2018\01. Christmas Sweets\obj\Debug\_01.Christmas_Sweets.pdb

@@ -1,0 +1,11 @@
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\08. Sunglasses\bin\Debug\netcoreapp2.1\08. Sunglasses.deps.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\08. Sunglasses\bin\Debug\netcoreapp2.1\08. Sunglasses.runtimeconfig.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\08. Sunglasses\bin\Debug\netcoreapp2.1\08. Sunglasses.runtimeconfig.dev.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\08. Sunglasses\bin\Debug\netcoreapp2.1\08. Sunglasses.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\08. Sunglasses\bin\Debug\netcoreapp2.1\08. Sunglasses.pdb
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\08. Sunglasses\obj\Debug\netcoreapp2.1\08. Sunglasses.csprojAssemblyReference.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\08. Sunglasses\obj\Debug\netcoreapp2.1\08. Sunglasses.csproj.CoreCompileInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\08. Sunglasses\obj\Debug\netcoreapp2.1\08. Sunglasses.AssemblyInfoInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\08. Sunglasses\obj\Debug\netcoreapp2.1\08. Sunglasses.AssemblyInfo.cs
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\08. Sunglasses\obj\Debug\netcoreapp2.1\08. Sunglasses.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\08. Sunglasses\obj\Debug\netcoreapp2.1\08. Sunglasses.pdb

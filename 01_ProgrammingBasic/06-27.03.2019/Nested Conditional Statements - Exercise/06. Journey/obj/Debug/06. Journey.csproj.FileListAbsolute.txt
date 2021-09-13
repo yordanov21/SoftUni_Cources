@@ -1,0 +1,6 @@
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\06. Journey\bin\Debug\_06.Journey.exe.config
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\06. Journey\bin\Debug\_06.Journey.exe
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\06. Journey\bin\Debug\_06.Journey.pdb
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\06. Journey\obj\Debug\06. Journey.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\06. Journey\obj\Debug\_06.Journey.exe
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\06. Journey\obj\Debug\_06.Journey.pdb

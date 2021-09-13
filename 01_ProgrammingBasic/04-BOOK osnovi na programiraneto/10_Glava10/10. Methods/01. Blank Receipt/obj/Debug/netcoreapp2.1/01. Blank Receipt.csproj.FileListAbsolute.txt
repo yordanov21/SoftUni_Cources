@@ -1,0 +1,11 @@
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\01. Blank Receipt\bin\Debug\netcoreapp2.1\01. Blank Receipt.deps.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\01. Blank Receipt\bin\Debug\netcoreapp2.1\01. Blank Receipt.runtimeconfig.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\01. Blank Receipt\bin\Debug\netcoreapp2.1\01. Blank Receipt.runtimeconfig.dev.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\01. Blank Receipt\bin\Debug\netcoreapp2.1\01. Blank Receipt.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\01. Blank Receipt\bin\Debug\netcoreapp2.1\01. Blank Receipt.pdb
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\01. Blank Receipt\obj\Debug\netcoreapp2.1\01. Blank Receipt.csprojAssemblyReference.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\01. Blank Receipt\obj\Debug\netcoreapp2.1\01. Blank Receipt.csproj.CoreCompileInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\01. Blank Receipt\obj\Debug\netcoreapp2.1\01. Blank Receipt.AssemblyInfoInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\01. Blank Receipt\obj\Debug\netcoreapp2.1\01. Blank Receipt.AssemblyInfo.cs
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\01. Blank Receipt\obj\Debug\netcoreapp2.1\01. Blank Receipt.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\01. Blank Receipt\obj\Debug\netcoreapp2.1\01. Blank Receipt.pdb

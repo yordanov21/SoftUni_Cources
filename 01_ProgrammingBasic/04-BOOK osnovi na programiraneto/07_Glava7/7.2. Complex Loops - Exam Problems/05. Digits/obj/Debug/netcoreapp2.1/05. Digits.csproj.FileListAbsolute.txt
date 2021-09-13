@@ -1,0 +1,11 @@
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.2. Complex Loops - Exam Problems\05. Digits\bin\Debug\netcoreapp2.1\05. Digits.deps.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.2. Complex Loops - Exam Problems\05. Digits\bin\Debug\netcoreapp2.1\05. Digits.runtimeconfig.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.2. Complex Loops - Exam Problems\05. Digits\bin\Debug\netcoreapp2.1\05. Digits.runtimeconfig.dev.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.2. Complex Loops - Exam Problems\05. Digits\bin\Debug\netcoreapp2.1\05. Digits.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.2. Complex Loops - Exam Problems\05. Digits\bin\Debug\netcoreapp2.1\05. Digits.pdb
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.2. Complex Loops - Exam Problems\05. Digits\obj\Debug\netcoreapp2.1\05. Digits.csprojAssemblyReference.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.2. Complex Loops - Exam Problems\05. Digits\obj\Debug\netcoreapp2.1\05. Digits.csproj.CoreCompileInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.2. Complex Loops - Exam Problems\05. Digits\obj\Debug\netcoreapp2.1\05. Digits.AssemblyInfoInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.2. Complex Loops - Exam Problems\05. Digits\obj\Debug\netcoreapp2.1\05. Digits.AssemblyInfo.cs
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.2. Complex Loops - Exam Problems\05. Digits\obj\Debug\netcoreapp2.1\05. Digits.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.2. Complex Loops - Exam Problems\05. Digits\obj\Debug\netcoreapp2.1\05. Digits.pdb

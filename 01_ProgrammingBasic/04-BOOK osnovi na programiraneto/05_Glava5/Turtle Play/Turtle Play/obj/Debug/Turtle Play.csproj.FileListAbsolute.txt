@@ -1,0 +1,12 @@
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\Turtle Play\Turtle Play\bin\Debug\Turtle Play.exe.config
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\Turtle Play\Turtle Play\bin\Debug\Turtle Play.exe
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\Turtle Play\Turtle Play\bin\Debug\Turtle Play.pdb
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\Turtle Play\Turtle Play\bin\Debug\Nakov.TurtleGraphics.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\Turtle Play\Turtle Play\obj\Debug\Turtle Play.csprojAssemblyReference.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\Turtle Play\Turtle Play\obj\Debug\Turtle_Play.Form1.resources
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\Turtle Play\Turtle Play\obj\Debug\Turtle_Play.Properties.Resources.resources
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\Turtle Play\Turtle Play\obj\Debug\Turtle Play.csproj.GenerateResource.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\Turtle Play\Turtle Play\obj\Debug\Turtle Play.csproj.CoreCompileInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\Turtle Play\Turtle Play\obj\Debug\Turtle Play.csproj.CopyComplete
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\Turtle Play\Turtle Play\obj\Debug\Turtle Play.exe
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\Turtle Play\Turtle Play\obj\Debug\Turtle Play.pdb

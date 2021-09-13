@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\03-17.03.2019\raaad\raaad\obj\Debug\raaad.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\03-17.03.2019\raaad\raaad\obj\Debug\raaad.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\03-17.03.2019\raaad\raaad\bin\Debug\raaad.exe.config
+C:\Users\Biser-1\Desktop\programing basic\03-17.03.2019\raaad\raaad\bin\Debug\raaad.exe
+C:\Users\Biser-1\Desktop\programing basic\03-17.03.2019\raaad\raaad\bin\Debug\raaad.pdb
+C:\Users\Biser-1\Desktop\programing basic\03-17.03.2019\raaad\raaad\obj\Debug\raaad.exe
+C:\Users\Biser-1\Desktop\programing basic\03-17.03.2019\raaad\raaad\obj\Debug\raaad.pdb

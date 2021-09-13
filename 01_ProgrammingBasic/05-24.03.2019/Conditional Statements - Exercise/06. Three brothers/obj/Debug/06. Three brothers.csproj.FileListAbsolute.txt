@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\06. Three brothers\obj\Debug\06. Three brothers.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\06. Three brothers\obj\Debug\06. Three brothers.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\06. Three brothers\bin\Debug\_06.Three_brothers.exe.config
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\06. Three brothers\bin\Debug\_06.Three_brothers.exe
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\06. Three brothers\bin\Debug\_06.Three_brothers.pdb
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\06. Three brothers\obj\Debug\_06.Three_brothers.exe
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\06. Three brothers\obj\Debug\_06.Three_brothers.pdb

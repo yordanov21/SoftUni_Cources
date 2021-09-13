@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\09. Day of Week\bin\Debug\netcoreapp2.1\09. Day of Week.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\09. Day of Week\bin\Debug\netcoreapp2.1\09. Day of Week.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\09. Day of Week\bin\Debug\netcoreapp2.1\09. Day of Week.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\09. Day of Week\bin\Debug\netcoreapp2.1\09. Day of Week.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\09. Day of Week\bin\Debug\netcoreapp2.1\09. Day of Week.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\09. Day of Week\obj\Debug\netcoreapp2.1\09. Day of Week.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\09. Day of Week\obj\Debug\netcoreapp2.1\09. Day of Week.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\09. Day of Week\obj\Debug\netcoreapp2.1\09. Day of Week.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\09. Day of Week\obj\Debug\netcoreapp2.1\09. Day of Week.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\09. Day of Week\obj\Debug\netcoreapp2.1\09. Day of Week.pdb

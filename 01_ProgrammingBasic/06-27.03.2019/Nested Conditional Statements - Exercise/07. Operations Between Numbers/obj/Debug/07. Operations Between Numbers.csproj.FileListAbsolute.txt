@@ -1,0 +1,6 @@
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\07. Operations Between Numbers\bin\Debug\_07.Operations_Between_Numbers.exe.config
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\07. Operations Between Numbers\bin\Debug\_07.Operations_Between_Numbers.exe
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\07. Operations Between Numbers\bin\Debug\_07.Operations_Between_Numbers.pdb
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\07. Operations Between Numbers\obj\Debug\07. Operations Between Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\07. Operations Between Numbers\obj\Debug\_07.Operations_Between_Numbers.exe
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\07. Operations Between Numbers\obj\Debug\_07.Operations_Between_Numbers.pdb

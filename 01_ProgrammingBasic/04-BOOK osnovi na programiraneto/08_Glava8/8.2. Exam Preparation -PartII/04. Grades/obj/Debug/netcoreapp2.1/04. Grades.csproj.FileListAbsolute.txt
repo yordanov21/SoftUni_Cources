@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\04. Grades\bin\Debug\netcoreapp2.1\04. Grades.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\04. Grades\bin\Debug\netcoreapp2.1\04. Grades.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\04. Grades\bin\Debug\netcoreapp2.1\04. Grades.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\04. Grades\bin\Debug\netcoreapp2.1\04. Grades.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\04. Grades\bin\Debug\netcoreapp2.1\04. Grades.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\04. Grades\obj\Debug\netcoreapp2.1\04. Grades.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\04. Grades\obj\Debug\netcoreapp2.1\04. Grades.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\04. Grades\obj\Debug\netcoreapp2.1\04. Grades.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\04. Grades\obj\Debug\netcoreapp2.1\04. Grades.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\04. Grades\obj\Debug\netcoreapp2.1\04. Grades.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\04. Grades\obj\Debug\netcoreapp2.1\04. Grades.pdb

@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\05. Hotel Room\bin\Debug\netcoreapp2.1\05. Hotel Room.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\05. Hotel Room\bin\Debug\netcoreapp2.1\05. Hotel Room.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\05. Hotel Room\bin\Debug\netcoreapp2.1\05. Hotel Room.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\05. Hotel Room\bin\Debug\netcoreapp2.1\05. Hotel Room.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\05. Hotel Room\bin\Debug\netcoreapp2.1\05. Hotel Room.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\05. Hotel Room\obj\Debug\netcoreapp2.1\05. Hotel Room.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\05. Hotel Room\obj\Debug\netcoreapp2.1\05. Hotel Room.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\05. Hotel Room\obj\Debug\netcoreapp2.1\05. Hotel Room.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\05. Hotel Room\obj\Debug\netcoreapp2.1\05. Hotel Room.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\05. Hotel Room\obj\Debug\netcoreapp2.1\05. Hotel Room.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\05. Hotel Room\obj\Debug\netcoreapp2.1\05. Hotel Room.pdb

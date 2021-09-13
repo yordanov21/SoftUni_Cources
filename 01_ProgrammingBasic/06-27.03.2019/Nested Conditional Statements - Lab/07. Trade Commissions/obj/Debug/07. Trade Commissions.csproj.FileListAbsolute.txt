@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\07. Trade Commissions\bin\Debug\_07.Trade_Commissions.exe.config
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\07. Trade Commissions\bin\Debug\_07.Trade_Commissions.exe
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\07. Trade Commissions\bin\Debug\_07.Trade_Commissions.pdb
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\07. Trade Commissions\obj\Debug\07. Trade Commissions.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\07. Trade Commissions\obj\Debug\07. Trade Commissions.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\07. Trade Commissions\obj\Debug\_07.Trade_Commissions.exe
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\07. Trade Commissions\obj\Debug\_07.Trade_Commissions.pdb

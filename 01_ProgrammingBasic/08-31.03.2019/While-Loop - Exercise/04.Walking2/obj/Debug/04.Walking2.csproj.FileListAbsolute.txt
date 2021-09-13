@@ -1,0 +1,6 @@
+C:\Users\Biser-1\Desktop\programing basic\08-31.03.2019\While-Loop - Exercise\04.Walking2\bin\Debug\04.Walking2.exe.config
+C:\Users\Biser-1\Desktop\programing basic\08-31.03.2019\While-Loop - Exercise\04.Walking2\bin\Debug\04.Walking2.exe
+C:\Users\Biser-1\Desktop\programing basic\08-31.03.2019\While-Loop - Exercise\04.Walking2\bin\Debug\04.Walking2.pdb
+C:\Users\Biser-1\Desktop\programing basic\08-31.03.2019\While-Loop - Exercise\04.Walking2\obj\Debug\04.Walking2.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\08-31.03.2019\While-Loop - Exercise\04.Walking2\obj\Debug\04.Walking2.exe
+C:\Users\Biser-1\Desktop\programing basic\08-31.03.2019\While-Loop - Exercise\04.Walking2\obj\Debug\04.Walking2.pdb

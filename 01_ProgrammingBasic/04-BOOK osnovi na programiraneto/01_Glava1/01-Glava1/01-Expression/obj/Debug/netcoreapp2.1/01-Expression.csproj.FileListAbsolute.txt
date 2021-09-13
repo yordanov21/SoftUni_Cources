@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\01-Expression\bin\Debug\netcoreapp2.1\01-Expression.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\01-Expression\bin\Debug\netcoreapp2.1\01-Expression.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\01-Expression\bin\Debug\netcoreapp2.1\01-Expression.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\01-Expression\bin\Debug\netcoreapp2.1\01-Expression.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\01-Expression\bin\Debug\netcoreapp2.1\01-Expression.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\01-Expression\obj\Debug\netcoreapp2.1\01-Expression.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\01-Expression\obj\Debug\netcoreapp2.1\01-Expression.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\01-Expression\obj\Debug\netcoreapp2.1\01-Expression.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\01-Expression\obj\Debug\netcoreapp2.1\01-Expression.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\01-Expression\obj\Debug\netcoreapp2.1\01-Expression.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\01-Expression\obj\Debug\netcoreapp2.1\01-Expression.pdb

@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\08. Increasing Elements\bin\Debug\netcoreapp2.1\08. Increasing Elements.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\08. Increasing Elements\bin\Debug\netcoreapp2.1\08. Increasing Elements.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\08. Increasing Elements\bin\Debug\netcoreapp2.1\08. Increasing Elements.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\08. Increasing Elements\bin\Debug\netcoreapp2.1\08. Increasing Elements.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\08. Increasing Elements\bin\Debug\netcoreapp2.1\08. Increasing Elements.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\08. Increasing Elements\obj\Debug\netcoreapp2.1\08. Increasing Elements.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\08. Increasing Elements\obj\Debug\netcoreapp2.1\08. Increasing Elements.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\08. Increasing Elements\obj\Debug\netcoreapp2.1\08. Increasing Elements.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\08. Increasing Elements\obj\Debug\netcoreapp2.1\08. Increasing Elements.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\08. Increasing Elements\obj\Debug\netcoreapp2.1\08. Increasing Elements.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\08. Increasing Elements\obj\Debug\netcoreapp2.1\08. Increasing Elements.pdb

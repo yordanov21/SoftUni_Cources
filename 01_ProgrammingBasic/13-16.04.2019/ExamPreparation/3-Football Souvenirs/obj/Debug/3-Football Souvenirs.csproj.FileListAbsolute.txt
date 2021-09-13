@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\3-Football Souvenirs\bin\Debug\3-Football Souvenirs.exe.config
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\3-Football Souvenirs\bin\Debug\3-Football Souvenirs.exe
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\3-Football Souvenirs\bin\Debug\3-Football Souvenirs.pdb
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\3-Football Souvenirs\obj\Debug\3-Football Souvenirs.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\3-Football Souvenirs\obj\Debug\3-Football Souvenirs.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\3-Football Souvenirs\obj\Debug\3-Football Souvenirs.exe
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\3-Football Souvenirs\obj\Debug\3-Football Souvenirs.pdb

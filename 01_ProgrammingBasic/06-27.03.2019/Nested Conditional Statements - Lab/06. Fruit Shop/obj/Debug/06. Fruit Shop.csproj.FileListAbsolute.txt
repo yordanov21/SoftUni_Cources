@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\06. Fruit Shop\bin\Debug\_06.Fruit_Shop.exe.config
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\06. Fruit Shop\bin\Debug\_06.Fruit_Shop.exe
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\06. Fruit Shop\bin\Debug\_06.Fruit_Shop.pdb
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\06. Fruit Shop\obj\Debug\06. Fruit Shop.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\06. Fruit Shop\obj\Debug\06. Fruit Shop.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\06. Fruit Shop\obj\Debug\_06.Fruit_Shop.exe
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\06. Fruit Shop\obj\Debug\_06.Fruit_Shop.pdb

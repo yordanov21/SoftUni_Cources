@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\02. Excellent or Not\bin\Debug\netcoreapp2.1\02. Excellent or Not.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\02. Excellent or Not\bin\Debug\netcoreapp2.1\02. Excellent or Not.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\02. Excellent or Not\bin\Debug\netcoreapp2.1\02. Excellent or Not.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\02. Excellent or Not\bin\Debug\netcoreapp2.1\02. Excellent or Not.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\02. Excellent or Not\bin\Debug\netcoreapp2.1\02. Excellent or Not.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\02. Excellent or Not\obj\Debug\netcoreapp2.1\02. Excellent or Not.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\02. Excellent or Not\obj\Debug\netcoreapp2.1\02. Excellent or Not.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\02. Excellent or Not\obj\Debug\netcoreapp2.1\02. Excellent or Not.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\02. Excellent or Not\obj\Debug\netcoreapp2.1\02. Excellent or Not.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\02. Excellent or Not\obj\Debug\netcoreapp2.1\02. Excellent or Not.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\02. Excellent or Not\obj\Debug\netcoreapp2.1\02. Excellent or Not.pdb

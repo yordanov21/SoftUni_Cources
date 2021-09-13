@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\5-Fan Shop\bin\Debug\5-Fan Shop.exe.config
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\5-Fan Shop\bin\Debug\5-Fan Shop.exe
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\5-Fan Shop\bin\Debug\5-Fan Shop.pdb
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\5-Fan Shop\obj\Debug\5-Fan Shop.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\5-Fan Shop\obj\Debug\5-Fan Shop.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\5-Fan Shop\obj\Debug\5-Fan Shop.exe
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\5-Fan Shop\obj\Debug\5-Fan Shop.pdb

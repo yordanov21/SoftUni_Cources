@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\15. 3 Equal Numbers\bin\Debug\netcoreapp2.1\15. 3 Equal Numbers.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\15. 3 Equal Numbers\bin\Debug\netcoreapp2.1\15. 3 Equal Numbers.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\15. 3 Equal Numbers\bin\Debug\netcoreapp2.1\15. 3 Equal Numbers.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\15. 3 Equal Numbers\bin\Debug\netcoreapp2.1\15. 3 Equal Numbers.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\15. 3 Equal Numbers\bin\Debug\netcoreapp2.1\15. 3 Equal Numbers.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\15. 3 Equal Numbers\obj\Debug\netcoreapp2.1\15. 3 Equal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\15. 3 Equal Numbers\obj\Debug\netcoreapp2.1\15. 3 Equal Numbers.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\15. 3 Equal Numbers\obj\Debug\netcoreapp2.1\15. 3 Equal Numbers.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\15. 3 Equal Numbers\obj\Debug\netcoreapp2.1\15. 3 Equal Numbers.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\15. 3 Equal Numbers\obj\Debug\netcoreapp2.1\15. 3 Equal Numbers.pdb

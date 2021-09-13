@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\03. Latin Letters\bin\Debug\netcoreapp2.1\03. Latin Letters.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\03. Latin Letters\bin\Debug\netcoreapp2.1\03. Latin Letters.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\03. Latin Letters\bin\Debug\netcoreapp2.1\03. Latin Letters.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\03. Latin Letters\bin\Debug\netcoreapp2.1\03. Latin Letters.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\03. Latin Letters\bin\Debug\netcoreapp2.1\03. Latin Letters.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\03. Latin Letters\obj\Debug\netcoreapp2.1\03. Latin Letters.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\03. Latin Letters\obj\Debug\netcoreapp2.1\03. Latin Letters.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\03. Latin Letters\obj\Debug\netcoreapp2.1\03. Latin Letters.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\03. Latin Letters\obj\Debug\netcoreapp2.1\03. Latin Letters.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\03. Latin Letters\obj\Debug\netcoreapp2.1\03. Latin Letters.pdb

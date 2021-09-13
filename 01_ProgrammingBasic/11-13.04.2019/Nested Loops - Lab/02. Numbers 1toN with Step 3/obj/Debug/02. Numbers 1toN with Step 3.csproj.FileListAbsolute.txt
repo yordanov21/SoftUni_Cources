@@ -1,0 +1,6 @@
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\02. Numbers 1toN with Step 3\bin\Debug\_02.Numbers_1toN_with_Step_3.exe.config
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\02. Numbers 1toN with Step 3\bin\Debug\_02.Numbers_1toN_with_Step_3.exe
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\02. Numbers 1toN with Step 3\bin\Debug\_02.Numbers_1toN_with_Step_3.pdb
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\02. Numbers 1toN with Step 3\obj\Debug\02. Numbers 1toN with Step 3.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\02. Numbers 1toN with Step 3\obj\Debug\_02.Numbers_1toN_with_Step_3.exe
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\02. Numbers 1toN with Step 3\obj\Debug\_02.Numbers_1toN_with_Step_3.pdb

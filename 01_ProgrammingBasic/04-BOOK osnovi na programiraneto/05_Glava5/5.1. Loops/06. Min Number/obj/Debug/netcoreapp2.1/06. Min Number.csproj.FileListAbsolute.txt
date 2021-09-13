@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\06. Min Number\bin\Debug\netcoreapp2.1\06. Min Number.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\06. Min Number\bin\Debug\netcoreapp2.1\06. Min Number.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\06. Min Number\bin\Debug\netcoreapp2.1\06. Min Number.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\06. Min Number\bin\Debug\netcoreapp2.1\06. Min Number.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\06. Min Number\bin\Debug\netcoreapp2.1\06. Min Number.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\06. Min Number\obj\Debug\netcoreapp2.1\06. Min Number.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\06. Min Number\obj\Debug\netcoreapp2.1\06. Min Number.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\06. Min Number\obj\Debug\netcoreapp2.1\06. Min Number.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\06. Min Number\obj\Debug\netcoreapp2.1\06. Min Number.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\06. Min Number\obj\Debug\netcoreapp2.1\06. Min Number.pdb

@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\07. Choreography\obj\Debug\07. Choreography.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\07. Choreography\obj\Debug\07. Choreography.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\07. Choreography\bin\Debug\_07.Choreography.exe.config
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\07. Choreography\bin\Debug\_07.Choreography.exe
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\07. Choreography\bin\Debug\_07.Choreography.pdb
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\07. Choreography\obj\Debug\_07.Choreography.exe
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\07. Choreography\obj\Debug\_07.Choreography.pdb

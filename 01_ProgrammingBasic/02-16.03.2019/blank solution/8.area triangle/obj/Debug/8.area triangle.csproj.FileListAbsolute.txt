@@ -1,0 +1,6 @@
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\blank solution\8.area triangle\bin\Debug\8.area triangle.exe.config
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\blank solution\8.area triangle\bin\Debug\8.area triangle.exe
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\blank solution\8.area triangle\bin\Debug\8.area triangle.pdb
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\blank solution\8.area triangle\obj\Debug\8.area triangle.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\blank solution\8.area triangle\obj\Debug\8.area triangle.exe
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\blank solution\8.area triangle\obj\Debug\8.area triangle.pdb

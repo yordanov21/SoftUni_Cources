@@ -1,0 +1,11 @@
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\01. Draw Fort\bin\Debug\netcoreapp2.1\01. Draw Fort.deps.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\01. Draw Fort\bin\Debug\netcoreapp2.1\01. Draw Fort.runtimeconfig.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\01. Draw Fort\bin\Debug\netcoreapp2.1\01. Draw Fort.runtimeconfig.dev.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\01. Draw Fort\bin\Debug\netcoreapp2.1\01. Draw Fort.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\01. Draw Fort\bin\Debug\netcoreapp2.1\01. Draw Fort.pdb
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\01. Draw Fort\obj\Debug\netcoreapp2.1\01. Draw Fort.csprojAssemblyReference.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\01. Draw Fort\obj\Debug\netcoreapp2.1\01. Draw Fort.csproj.CoreCompileInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\01. Draw Fort\obj\Debug\netcoreapp2.1\01. Draw Fort.AssemblyInfoInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\01. Draw Fort\obj\Debug\netcoreapp2.1\01. Draw Fort.AssemblyInfo.cs
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\01. Draw Fort\obj\Debug\netcoreapp2.1\01. Draw Fort.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\01. Draw Fort\obj\Debug\netcoreapp2.1\01. Draw Fort.pdb

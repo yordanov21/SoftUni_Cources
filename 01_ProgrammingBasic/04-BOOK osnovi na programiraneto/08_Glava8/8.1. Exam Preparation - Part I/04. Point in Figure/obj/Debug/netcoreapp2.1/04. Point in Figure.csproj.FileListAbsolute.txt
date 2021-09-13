@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\04. Point in Figure\bin\Debug\netcoreapp2.1\04. Point in Figure.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\04. Point in Figure\bin\Debug\netcoreapp2.1\04. Point in Figure.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\04. Point in Figure\bin\Debug\netcoreapp2.1\04. Point in Figure.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\04. Point in Figure\bin\Debug\netcoreapp2.1\04. Point in Figure.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\04. Point in Figure\bin\Debug\netcoreapp2.1\04. Point in Figure.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\04. Point in Figure\obj\Debug\netcoreapp2.1\04. Point in Figure.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\04. Point in Figure\obj\Debug\netcoreapp2.1\04. Point in Figure.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\04. Point in Figure\obj\Debug\netcoreapp2.1\04. Point in Figure.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\04. Point in Figure\obj\Debug\netcoreapp2.1\04. Point in Figure.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\04. Point in Figure\obj\Debug\netcoreapp2.1\04. Point in Figure.pdb

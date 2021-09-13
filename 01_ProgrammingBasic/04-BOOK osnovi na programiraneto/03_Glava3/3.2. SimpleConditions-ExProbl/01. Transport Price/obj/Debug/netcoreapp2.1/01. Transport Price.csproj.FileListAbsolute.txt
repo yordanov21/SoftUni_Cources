@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.2. SimpleConditions-ExProbl\01. Transport Price\bin\Debug\netcoreapp2.1\01. Transport Price.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.2. SimpleConditions-ExProbl\01. Transport Price\bin\Debug\netcoreapp2.1\01. Transport Price.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.2. SimpleConditions-ExProbl\01. Transport Price\bin\Debug\netcoreapp2.1\01. Transport Price.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.2. SimpleConditions-ExProbl\01. Transport Price\bin\Debug\netcoreapp2.1\01. Transport Price.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.2. SimpleConditions-ExProbl\01. Transport Price\bin\Debug\netcoreapp2.1\01. Transport Price.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.2. SimpleConditions-ExProbl\01. Transport Price\obj\Debug\netcoreapp2.1\01. Transport Price.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.2. SimpleConditions-ExProbl\01. Transport Price\obj\Debug\netcoreapp2.1\01. Transport Price.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.2. SimpleConditions-ExProbl\01. Transport Price\obj\Debug\netcoreapp2.1\01. Transport Price.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.2. SimpleConditions-ExProbl\01. Transport Price\obj\Debug\netcoreapp2.1\01. Transport Price.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.2. SimpleConditions-ExProbl\01. Transport Price\obj\Debug\netcoreapp2.1\01. Transport Price.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.2. SimpleConditions-ExProbl\01. Transport Price\obj\Debug\netcoreapp2.1\01. Transport Price.pdb

@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\04. Concatenate Data\bin\Debug\netcoreapp2.1\04. Concatenate Data.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\04. Concatenate Data\bin\Debug\netcoreapp2.1\04. Concatenate Data.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\04. Concatenate Data\bin\Debug\netcoreapp2.1\04. Concatenate Data.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\04. Concatenate Data\bin\Debug\netcoreapp2.1\04. Concatenate Data.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\04. Concatenate Data\bin\Debug\netcoreapp2.1\04. Concatenate Data.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\04. Concatenate Data\obj\Debug\netcoreapp2.1\04. Concatenate Data.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\04. Concatenate Data\obj\Debug\netcoreapp2.1\04. Concatenate Data.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\04. Concatenate Data\obj\Debug\netcoreapp2.1\04. Concatenate Data.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\04. Concatenate Data\obj\Debug\netcoreapp2.1\04. Concatenate Data.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\04. Concatenate Data\obj\Debug\netcoreapp2.1\04. Concatenate Data.pdb

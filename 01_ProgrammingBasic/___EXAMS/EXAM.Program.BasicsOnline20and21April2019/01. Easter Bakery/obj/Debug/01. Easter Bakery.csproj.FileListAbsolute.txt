@@ -1,0 +1,7 @@
+C:\Users\Biser-1\source\repos\EXAM.Program.BasicsOnline20and21April2019\01. Easter Bakery\bin\Debug\_01.Easter_Bakery.exe.config
+C:\Users\Biser-1\source\repos\EXAM.Program.BasicsOnline20and21April2019\01. Easter Bakery\bin\Debug\_01.Easter_Bakery.exe
+C:\Users\Biser-1\source\repos\EXAM.Program.BasicsOnline20and21April2019\01. Easter Bakery\bin\Debug\_01.Easter_Bakery.pdb
+C:\Users\Biser-1\source\repos\EXAM.Program.BasicsOnline20and21April2019\01. Easter Bakery\obj\Debug\01. Easter Bakery.csprojAssemblyReference.cache
+C:\Users\Biser-1\source\repos\EXAM.Program.BasicsOnline20and21April2019\01. Easter Bakery\obj\Debug\01. Easter Bakery.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\source\repos\EXAM.Program.BasicsOnline20and21April2019\01. Easter Bakery\obj\Debug\_01.Easter_Bakery.exe
+C:\Users\Biser-1\source\repos\EXAM.Program.BasicsOnline20and21April2019\01. Easter Bakery\obj\Debug\_01.Easter_Bakery.pdb

@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\03. Point in Rectangle\bin\Debug\netcoreapp2.1\03. Point in Rectangle.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\03. Point in Rectangle\bin\Debug\netcoreapp2.1\03. Point in Rectangle.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\03. Point in Rectangle\bin\Debug\netcoreapp2.1\03. Point in Rectangle.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\03. Point in Rectangle\bin\Debug\netcoreapp2.1\03. Point in Rectangle.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\03. Point in Rectangle\bin\Debug\netcoreapp2.1\03. Point in Rectangle.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\03. Point in Rectangle\obj\Debug\netcoreapp2.1\03. Point in Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\03. Point in Rectangle\obj\Debug\netcoreapp2.1\03. Point in Rectangle.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\03. Point in Rectangle\obj\Debug\netcoreapp2.1\03. Point in Rectangle.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\03. Point in Rectangle\obj\Debug\netcoreapp2.1\03. Point in Rectangle.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\03. Point in Rectangle\obj\Debug\netcoreapp2.1\03. Point in Rectangle.pdb

@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\06-Square of Stars\bin\Debug\netcoreapp2.1\06-Square of Stars.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\06-Square of Stars\bin\Debug\netcoreapp2.1\06-Square of Stars.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\06-Square of Stars\bin\Debug\netcoreapp2.1\06-Square of Stars.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\06-Square of Stars\bin\Debug\netcoreapp2.1\06-Square of Stars.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\06-Square of Stars\bin\Debug\netcoreapp2.1\06-Square of Stars.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\06-Square of Stars\obj\Debug\netcoreapp2.1\06-Square of Stars.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\06-Square of Stars\obj\Debug\netcoreapp2.1\06-Square of Stars.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\06-Square of Stars\obj\Debug\netcoreapp2.1\06-Square of Stars.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\06-Square of Stars\obj\Debug\netcoreapp2.1\06-Square of Stars.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\06-Square of Stars\obj\Debug\netcoreapp2.1\06-Square of Stars.pdb

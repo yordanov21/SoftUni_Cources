@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\trsinings\09.scholarship\09.scholarship\09.scholarship\bin\Debug\09.scholarship.exe.config
+C:\Users\Biser-1\Desktop\programing basic\trsinings\09.scholarship\09.scholarship\09.scholarship\bin\Debug\09.scholarship.exe
+C:\Users\Biser-1\Desktop\programing basic\trsinings\09.scholarship\09.scholarship\09.scholarship\bin\Debug\09.scholarship.pdb
+C:\Users\Biser-1\Desktop\programing basic\trsinings\09.scholarship\09.scholarship\09.scholarship\obj\Debug\09.scholarship.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\trsinings\09.scholarship\09.scholarship\09.scholarship\obj\Debug\09.scholarship.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\trsinings\09.scholarship\09.scholarship\09.scholarship\obj\Debug\09.scholarship.exe
+C:\Users\Biser-1\Desktop\programing basic\trsinings\09.scholarship\09.scholarship\09.scholarship\obj\Debug\09.scholarship.pdb

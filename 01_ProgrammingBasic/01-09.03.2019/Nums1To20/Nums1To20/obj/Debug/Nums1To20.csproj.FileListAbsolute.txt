@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\01-09.03.2019\Nums1To20\Nums1To20\bin\Debug\Nums1To20.exe.config
+C:\Users\Biser-1\Desktop\programing basic\01-09.03.2019\Nums1To20\Nums1To20\bin\Debug\Nums1To20.exe
+C:\Users\Biser-1\Desktop\programing basic\01-09.03.2019\Nums1To20\Nums1To20\bin\Debug\Nums1To20.pdb
+C:\Users\Biser-1\Desktop\programing basic\01-09.03.2019\Nums1To20\Nums1To20\obj\Debug\Nums1To20.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\01-09.03.2019\Nums1To20\Nums1To20\obj\Debug\Nums1To20.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\01-09.03.2019\Nums1To20\Nums1To20\obj\Debug\Nums1To20.exe
+C:\Users\Biser-1\Desktop\programing basic\01-09.03.2019\Nums1To20\Nums1To20\obj\Debug\Nums1To20.pdb

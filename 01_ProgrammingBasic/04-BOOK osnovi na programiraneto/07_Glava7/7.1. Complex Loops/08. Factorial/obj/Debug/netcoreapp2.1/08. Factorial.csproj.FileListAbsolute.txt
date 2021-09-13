@@ -1,0 +1,10 @@
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\08. Factorial\bin\Debug\netcoreapp2.1\08. Factorial.deps.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\08. Factorial\bin\Debug\netcoreapp2.1\08. Factorial.runtimeconfig.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\08. Factorial\bin\Debug\netcoreapp2.1\08. Factorial.runtimeconfig.dev.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\08. Factorial\bin\Debug\netcoreapp2.1\08. Factorial.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\08. Factorial\bin\Debug\netcoreapp2.1\08. Factorial.pdb
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\08. Factorial\obj\Debug\netcoreapp2.1\08. Factorial.csproj.CoreCompileInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\08. Factorial\obj\Debug\netcoreapp2.1\08. Factorial.AssemblyInfoInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\08. Factorial\obj\Debug\netcoreapp2.1\08. Factorial.AssemblyInfo.cs
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\08. Factorial\obj\Debug\netcoreapp2.1\08. Factorial.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\08. Factorial\obj\Debug\netcoreapp2.1\08. Factorial.pdb

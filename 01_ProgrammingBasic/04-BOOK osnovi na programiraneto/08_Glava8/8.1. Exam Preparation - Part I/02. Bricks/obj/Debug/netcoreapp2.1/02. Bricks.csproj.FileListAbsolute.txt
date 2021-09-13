@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\02. Bricks\bin\Debug\netcoreapp2.1\02. Bricks.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\02. Bricks\bin\Debug\netcoreapp2.1\02. Bricks.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\02. Bricks\bin\Debug\netcoreapp2.1\02. Bricks.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\02. Bricks\bin\Debug\netcoreapp2.1\02. Bricks.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\02. Bricks\bin\Debug\netcoreapp2.1\02. Bricks.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\02. Bricks\obj\Debug\netcoreapp2.1\02. Bricks.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\02. Bricks\obj\Debug\netcoreapp2.1\02. Bricks.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\02. Bricks\obj\Debug\netcoreapp2.1\02. Bricks.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\02. Bricks\obj\Debug\netcoreapp2.1\02. Bricks.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\02. Bricks\obj\Debug\netcoreapp2.1\02. Bricks.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\02. Bricks\obj\Debug\netcoreapp2.1\02. Bricks.pdb

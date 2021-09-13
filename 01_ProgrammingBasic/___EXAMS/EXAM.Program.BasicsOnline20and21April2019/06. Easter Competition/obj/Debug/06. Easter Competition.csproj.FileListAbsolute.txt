@@ -1,0 +1,7 @@
+C:\Users\Biser-1\source\repos\EXAM.Program.BasicsOnline20and21April2019\06. Easter Competition\bin\Debug\_06.Easter_Competition.exe.config
+C:\Users\Biser-1\source\repos\EXAM.Program.BasicsOnline20and21April2019\06. Easter Competition\bin\Debug\_06.Easter_Competition.exe
+C:\Users\Biser-1\source\repos\EXAM.Program.BasicsOnline20and21April2019\06. Easter Competition\bin\Debug\_06.Easter_Competition.pdb
+C:\Users\Biser-1\source\repos\EXAM.Program.BasicsOnline20and21April2019\06. Easter Competition\obj\Debug\06. Easter Competition.csprojAssemblyReference.cache
+C:\Users\Biser-1\source\repos\EXAM.Program.BasicsOnline20and21April2019\06. Easter Competition\obj\Debug\06. Easter Competition.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\source\repos\EXAM.Program.BasicsOnline20and21April2019\06. Easter Competition\obj\Debug\_06.Easter_Competition.exe
+C:\Users\Biser-1\source\repos\EXAM.Program.BasicsOnline20and21April2019\06. Easter Competition\obj\Debug\_06.Easter_Competition.pdb

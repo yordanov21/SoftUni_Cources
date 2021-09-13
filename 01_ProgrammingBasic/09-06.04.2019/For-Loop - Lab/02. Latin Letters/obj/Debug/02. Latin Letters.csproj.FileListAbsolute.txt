@@ -1,0 +1,6 @@
+C:\Users\Biser-1\Desktop\programing basic\09-06.04.2019\For-Loop - Lab\02. Latin Letters\bin\Debug\_02.Latin_Letters.exe.config
+C:\Users\Biser-1\Desktop\programing basic\09-06.04.2019\For-Loop - Lab\02. Latin Letters\bin\Debug\_02.Latin_Letters.exe
+C:\Users\Biser-1\Desktop\programing basic\09-06.04.2019\For-Loop - Lab\02. Latin Letters\bin\Debug\_02.Latin_Letters.pdb
+C:\Users\Biser-1\Desktop\programing basic\09-06.04.2019\For-Loop - Lab\02. Latin Letters\obj\Debug\02. Latin Letters.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\09-06.04.2019\For-Loop - Lab\02. Latin Letters\obj\Debug\_02.Latin_Letters.exe
+C:\Users\Biser-1\Desktop\programing basic\09-06.04.2019\For-Loop - Lab\02. Latin Letters\obj\Debug\_02.Latin_Letters.pdb

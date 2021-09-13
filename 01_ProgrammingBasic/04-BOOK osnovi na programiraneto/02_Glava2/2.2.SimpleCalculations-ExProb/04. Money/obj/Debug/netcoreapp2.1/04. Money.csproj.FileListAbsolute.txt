@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\04. Money\bin\Debug\netcoreapp2.1\04. Money.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\04. Money\bin\Debug\netcoreapp2.1\04. Money.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\04. Money\bin\Debug\netcoreapp2.1\04. Money.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\04. Money\bin\Debug\netcoreapp2.1\04. Money.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\04. Money\bin\Debug\netcoreapp2.1\04. Money.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\04. Money\obj\Debug\netcoreapp2.1\04. Money.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\04. Money\obj\Debug\netcoreapp2.1\04. Money.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\04. Money\obj\Debug\netcoreapp2.1\04. Money.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\04. Money\obj\Debug\netcoreapp2.1\04. Money.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\04. Money\obj\Debug\netcoreapp2.1\04. Money.pdb

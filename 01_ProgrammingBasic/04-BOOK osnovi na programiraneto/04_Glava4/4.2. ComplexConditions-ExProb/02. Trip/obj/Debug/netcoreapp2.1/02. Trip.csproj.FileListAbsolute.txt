@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\02. Trip\bin\Debug\netcoreapp2.1\02. Trip.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\02. Trip\bin\Debug\netcoreapp2.1\02. Trip.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\02. Trip\bin\Debug\netcoreapp2.1\02. Trip.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\02. Trip\bin\Debug\netcoreapp2.1\02. Trip.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\02. Trip\bin\Debug\netcoreapp2.1\02. Trip.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\02. Trip\obj\Debug\netcoreapp2.1\02. Trip.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\02. Trip\obj\Debug\netcoreapp2.1\02. Trip.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\02. Trip\obj\Debug\netcoreapp2.1\02. Trip.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\02. Trip\obj\Debug\netcoreapp2.1\02. Trip.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\02. Trip\obj\Debug\netcoreapp2.1\02. Trip.pdb

@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\07. Sum Seconds\bin\Debug\netcoreapp2.1\07. Sum Seconds.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\07. Sum Seconds\bin\Debug\netcoreapp2.1\07. Sum Seconds.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\07. Sum Seconds\bin\Debug\netcoreapp2.1\07. Sum Seconds.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\07. Sum Seconds\bin\Debug\netcoreapp2.1\07. Sum Seconds.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\07. Sum Seconds\bin\Debug\netcoreapp2.1\07. Sum Seconds.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\07. Sum Seconds\obj\Debug\netcoreapp2.1\07. Sum Seconds.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\07. Sum Seconds\obj\Debug\netcoreapp2.1\07. Sum Seconds.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\07. Sum Seconds\obj\Debug\netcoreapp2.1\07. Sum Seconds.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\07. Sum Seconds\obj\Debug\netcoreapp2.1\07. Sum Seconds.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\07. Sum Seconds\obj\Debug\netcoreapp2.1\07. Sum Seconds.pdb

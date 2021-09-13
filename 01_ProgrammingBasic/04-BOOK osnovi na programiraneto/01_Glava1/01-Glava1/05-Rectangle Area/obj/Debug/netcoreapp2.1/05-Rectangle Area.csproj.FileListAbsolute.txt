@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\05-Rectangle Area\bin\Debug\netcoreapp2.1\05-Rectangle Area.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\05-Rectangle Area\bin\Debug\netcoreapp2.1\05-Rectangle Area.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\05-Rectangle Area\bin\Debug\netcoreapp2.1\05-Rectangle Area.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\05-Rectangle Area\bin\Debug\netcoreapp2.1\05-Rectangle Area.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\05-Rectangle Area\bin\Debug\netcoreapp2.1\05-Rectangle Area.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\05-Rectangle Area\obj\Debug\netcoreapp2.1\05-Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\05-Rectangle Area\obj\Debug\netcoreapp2.1\05-Rectangle Area.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\05-Rectangle Area\obj\Debug\netcoreapp2.1\05-Rectangle Area.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\05-Rectangle Area\obj\Debug\netcoreapp2.1\05-Rectangle Area.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\05-Rectangle Area\obj\Debug\netcoreapp2.1\05-Rectangle Area.pdb

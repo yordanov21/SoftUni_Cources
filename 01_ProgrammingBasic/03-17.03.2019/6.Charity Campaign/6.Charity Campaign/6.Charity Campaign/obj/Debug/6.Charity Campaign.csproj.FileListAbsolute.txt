@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\03-17.03.2019\6.Charity Campaign\6.Charity Campaign\6.Charity Campaign\bin\Debug\6.Charity Campaign.exe.config
+C:\Users\Biser-1\Desktop\programing basic\03-17.03.2019\6.Charity Campaign\6.Charity Campaign\6.Charity Campaign\bin\Debug\6.Charity Campaign.exe
+C:\Users\Biser-1\Desktop\programing basic\03-17.03.2019\6.Charity Campaign\6.Charity Campaign\6.Charity Campaign\bin\Debug\6.Charity Campaign.pdb
+C:\Users\Biser-1\Desktop\programing basic\03-17.03.2019\6.Charity Campaign\6.Charity Campaign\6.Charity Campaign\obj\Debug\6.Charity Campaign.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\03-17.03.2019\6.Charity Campaign\6.Charity Campaign\6.Charity Campaign\obj\Debug\6.Charity Campaign.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\03-17.03.2019\6.Charity Campaign\6.Charity Campaign\6.Charity Campaign\obj\Debug\6.Charity Campaign.exe
+C:\Users\Biser-1\Desktop\programing basic\03-17.03.2019\6.Charity Campaign\6.Charity Campaign\6.Charity Campaign\obj\Debug\6.Charity Campaign.pdb

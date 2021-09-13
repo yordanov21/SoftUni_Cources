@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\03-Nums 1to20\bin\Debug\netcoreapp2.1\03-Nums 1to20.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\03-Nums 1to20\bin\Debug\netcoreapp2.1\03-Nums 1to20.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\03-Nums 1to20\bin\Debug\netcoreapp2.1\03-Nums 1to20.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\03-Nums 1to20\bin\Debug\netcoreapp2.1\03-Nums 1to20.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\03-Nums 1to20\bin\Debug\netcoreapp2.1\03-Nums 1to20.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\03-Nums 1to20\obj\Debug\netcoreapp2.1\03-Nums 1to20.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\03-Nums 1to20\obj\Debug\netcoreapp2.1\03-Nums 1to20.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\03-Nums 1to20\obj\Debug\netcoreapp2.1\03-Nums 1to20.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\03-Nums 1to20\obj\Debug\netcoreapp2.1\03-Nums 1to20.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\03-Nums 1to20\obj\Debug\netcoreapp2.1\03-Nums 1to20.pdb

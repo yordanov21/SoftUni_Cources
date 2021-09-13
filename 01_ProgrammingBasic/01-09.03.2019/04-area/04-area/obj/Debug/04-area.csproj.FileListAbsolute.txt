@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\01-09.03.2019\04-area\04-area\bin\Debug\04-area.exe.config
+C:\Users\Biser-1\Desktop\programing basic\01-09.03.2019\04-area\04-area\bin\Debug\04-area.exe
+C:\Users\Biser-1\Desktop\programing basic\01-09.03.2019\04-area\04-area\bin\Debug\04-area.pdb
+C:\Users\Biser-1\Desktop\programing basic\01-09.03.2019\04-area\04-area\obj\Debug\04-area.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\01-09.03.2019\04-area\04-area\obj\Debug\04-area.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\01-09.03.2019\04-area\04-area\obj\Debug\04-area.exe
+C:\Users\Biser-1\Desktop\programing basic\01-09.03.2019\04-area\04-area\obj\Debug\04-area.pdb

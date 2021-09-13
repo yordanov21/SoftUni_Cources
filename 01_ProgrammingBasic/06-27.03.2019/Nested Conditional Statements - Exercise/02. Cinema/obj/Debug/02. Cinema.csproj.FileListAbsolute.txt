@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\02. Cinema\bin\Debug\_02.Cinema.exe.config
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\02. Cinema\bin\Debug\_02.Cinema.exe
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\02. Cinema\bin\Debug\_02.Cinema.pdb
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\02. Cinema\obj\Debug\02. Cinema.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\02. Cinema\obj\Debug\02. Cinema.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\02. Cinema\obj\Debug\_02.Cinema.exe
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\02. Cinema\obj\Debug\_02.Cinema.pdb

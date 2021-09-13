@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\01. Excellent Result\bin\Debug\netcoreapp2.1\01. Excellent Result.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\01. Excellent Result\bin\Debug\netcoreapp2.1\01. Excellent Result.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\01. Excellent Result\bin\Debug\netcoreapp2.1\01. Excellent Result.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\01. Excellent Result\bin\Debug\netcoreapp2.1\01. Excellent Result.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\01. Excellent Result\bin\Debug\netcoreapp2.1\01. Excellent Result.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\01. Excellent Result\obj\Debug\netcoreapp2.1\01. Excellent Result.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\01. Excellent Result\obj\Debug\netcoreapp2.1\01. Excellent Result.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\01. Excellent Result\obj\Debug\netcoreapp2.1\01. Excellent Result.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\01. Excellent Result\obj\Debug\netcoreapp2.1\01. Excellent Result.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\01. Excellent Result\obj\Debug\netcoreapp2.1\01. Excellent Result.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\01. Excellent Result\obj\Debug\netcoreapp2.1\01. Excellent Result.pdb

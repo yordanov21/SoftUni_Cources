@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\09-06.04.2019\For-Loop - Lab\06. Odd Even Sum\bin\Debug\_06.Odd_Even_Sum.exe.config
+C:\Users\Biser-1\Desktop\programing basic\09-06.04.2019\For-Loop - Lab\06. Odd Even Sum\bin\Debug\_06.Odd_Even_Sum.exe
+C:\Users\Biser-1\Desktop\programing basic\09-06.04.2019\For-Loop - Lab\06. Odd Even Sum\bin\Debug\_06.Odd_Even_Sum.pdb
+C:\Users\Biser-1\Desktop\programing basic\09-06.04.2019\For-Loop - Lab\06. Odd Even Sum\obj\Debug\06. Odd Even Sum.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\09-06.04.2019\For-Loop - Lab\06. Odd Even Sum\obj\Debug\06. Odd Even Sum.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\09-06.04.2019\For-Loop - Lab\06. Odd Even Sum\obj\Debug\_06.Odd_Even_Sum.exe
+C:\Users\Biser-1\Desktop\programing basic\09-06.04.2019\For-Loop - Lab\06. Odd Even Sum\obj\Debug\_06.Odd_Even_Sum.pdb

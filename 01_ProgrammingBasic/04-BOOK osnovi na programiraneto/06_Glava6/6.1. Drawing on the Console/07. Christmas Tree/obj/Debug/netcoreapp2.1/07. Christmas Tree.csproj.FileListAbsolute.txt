@@ -1,0 +1,10 @@
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\07. Christmas Tree\bin\Debug\netcoreapp2.1\07. Christmas Tree.deps.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\07. Christmas Tree\bin\Debug\netcoreapp2.1\07. Christmas Tree.runtimeconfig.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\07. Christmas Tree\bin\Debug\netcoreapp2.1\07. Christmas Tree.runtimeconfig.dev.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\07. Christmas Tree\bin\Debug\netcoreapp2.1\07. Christmas Tree.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\07. Christmas Tree\bin\Debug\netcoreapp2.1\07. Christmas Tree.pdb
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\07. Christmas Tree\obj\Debug\netcoreapp2.1\07. Christmas Tree.csproj.CoreCompileInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\07. Christmas Tree\obj\Debug\netcoreapp2.1\07. Christmas Tree.AssemblyInfoInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\07. Christmas Tree\obj\Debug\netcoreapp2.1\07. Christmas Tree.AssemblyInfo.cs
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\07. Christmas Tree\obj\Debug\netcoreapp2.1\07. Christmas Tree.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\07. Christmas Tree\obj\Debug\netcoreapp2.1\07. Christmas Tree.pdb

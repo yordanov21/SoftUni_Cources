@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\11. Animal Type\bin\Debug\_11.Animal_Type.exe.config
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\11. Animal Type\bin\Debug\_11.Animal_Type.exe
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\11. Animal Type\bin\Debug\_11.Animal_Type.pdb
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\11. Animal Type\obj\Debug\11. Animal Type.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\11. Animal Type\obj\Debug\11. Animal Type.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\11. Animal Type\obj\Debug\_11.Animal_Type.exe
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\11. Animal Type\obj\Debug\_11.Animal_Type.pdb

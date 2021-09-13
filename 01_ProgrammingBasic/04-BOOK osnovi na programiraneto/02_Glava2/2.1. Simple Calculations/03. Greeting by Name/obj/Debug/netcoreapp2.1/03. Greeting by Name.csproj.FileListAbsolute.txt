@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\03. Greeting by Name\bin\Debug\netcoreapp2.1\03. Greeting by Name.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\03. Greeting by Name\bin\Debug\netcoreapp2.1\03. Greeting by Name.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\03. Greeting by Name\bin\Debug\netcoreapp2.1\03. Greeting by Name.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\03. Greeting by Name\bin\Debug\netcoreapp2.1\03. Greeting by Name.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\03. Greeting by Name\bin\Debug\netcoreapp2.1\03. Greeting by Name.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\03. Greeting by Name\obj\Debug\netcoreapp2.1\03. Greeting by Name.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\03. Greeting by Name\obj\Debug\netcoreapp2.1\03. Greeting by Name.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\03. Greeting by Name\obj\Debug\netcoreapp2.1\03. Greeting by Name.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\03. Greeting by Name\obj\Debug\netcoreapp2.1\03. Greeting by Name.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\03. Greeting by Name\obj\Debug\netcoreapp2.1\03. Greeting by Name.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\03. Greeting by Name\obj\Debug\netcoreapp2.1\03. Greeting by Name.pdb

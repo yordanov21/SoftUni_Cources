@@ -1,0 +1,10 @@
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\03. Powers of Two\bin\Debug\netcoreapp2.1\03. Powers of Two.deps.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\03. Powers of Two\bin\Debug\netcoreapp2.1\03. Powers of Two.runtimeconfig.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\03. Powers of Two\bin\Debug\netcoreapp2.1\03. Powers of Two.runtimeconfig.dev.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\03. Powers of Two\bin\Debug\netcoreapp2.1\03. Powers of Two.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\03. Powers of Two\bin\Debug\netcoreapp2.1\03. Powers of Two.pdb
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\03. Powers of Two\obj\Debug\netcoreapp2.1\03. Powers of Two.csproj.CoreCompileInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\03. Powers of Two\obj\Debug\netcoreapp2.1\03. Powers of Two.AssemblyInfoInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\03. Powers of Two\obj\Debug\netcoreapp2.1\03. Powers of Two.AssemblyInfo.cs
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\03. Powers of Two\obj\Debug\netcoreapp2.1\03. Powers of Two.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\03. Powers of Two\obj\Debug\netcoreapp2.1\03. Powers of Two.pdb

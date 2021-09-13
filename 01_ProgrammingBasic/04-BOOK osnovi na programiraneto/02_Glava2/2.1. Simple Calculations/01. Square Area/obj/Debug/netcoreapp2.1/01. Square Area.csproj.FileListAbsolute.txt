@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\01. Square Area\bin\Debug\netcoreapp2.1\01. Square Area.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\01. Square Area\bin\Debug\netcoreapp2.1\01. Square Area.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\01. Square Area\bin\Debug\netcoreapp2.1\01. Square Area.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\01. Square Area\bin\Debug\netcoreapp2.1\01. Square Area.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\01. Square Area\bin\Debug\netcoreapp2.1\01. Square Area.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\01. Square Area\obj\Debug\netcoreapp2.1\01. Square Area.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\01. Square Area\obj\Debug\netcoreapp2.1\01. Square Area.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\01. Square Area\obj\Debug\netcoreapp2.1\01. Square Area.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\01. Square Area\obj\Debug\netcoreapp2.1\01. Square Area.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\01. Square Area\obj\Debug\netcoreapp2.1\01. Square Area.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\01. Square Area\obj\Debug\netcoreapp2.1\01. Square Area.pdb

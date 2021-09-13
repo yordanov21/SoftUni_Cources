@@ -1,0 +1,7 @@
+C:\Users\Biser-1\source\repos\EXAM.Program.BasicsOnline20and21April2019\05. Easter Eggs\bin\Debug\_05.Easter_Eggs.exe.config
+C:\Users\Biser-1\source\repos\EXAM.Program.BasicsOnline20and21April2019\05. Easter Eggs\bin\Debug\_05.Easter_Eggs.exe
+C:\Users\Biser-1\source\repos\EXAM.Program.BasicsOnline20and21April2019\05. Easter Eggs\bin\Debug\_05.Easter_Eggs.pdb
+C:\Users\Biser-1\source\repos\EXAM.Program.BasicsOnline20and21April2019\05. Easter Eggs\obj\Debug\05. Easter Eggs.csprojAssemblyReference.cache
+C:\Users\Biser-1\source\repos\EXAM.Program.BasicsOnline20and21April2019\05. Easter Eggs\obj\Debug\05. Easter Eggs.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\source\repos\EXAM.Program.BasicsOnline20and21April2019\05. Easter Eggs\obj\Debug\_05.Easter_Eggs.exe
+C:\Users\Biser-1\source\repos\EXAM.Program.BasicsOnline20and21April2019\05. Easter Eggs\obj\Debug\_05.Easter_Eggs.pdb

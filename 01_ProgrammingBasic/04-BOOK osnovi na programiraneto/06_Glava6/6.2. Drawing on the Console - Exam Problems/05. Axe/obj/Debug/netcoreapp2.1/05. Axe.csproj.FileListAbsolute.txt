@@ -1,0 +1,10 @@
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\05. Axe\bin\Debug\netcoreapp2.1\05. Axe.deps.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\05. Axe\bin\Debug\netcoreapp2.1\05. Axe.runtimeconfig.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\05. Axe\bin\Debug\netcoreapp2.1\05. Axe.runtimeconfig.dev.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\05. Axe\bin\Debug\netcoreapp2.1\05. Axe.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\05. Axe\bin\Debug\netcoreapp2.1\05. Axe.pdb
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\05. Axe\obj\Debug\netcoreapp2.1\05. Axe.csproj.CoreCompileInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\05. Axe\obj\Debug\netcoreapp2.1\05. Axe.AssemblyInfoInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\05. Axe\obj\Debug\netcoreapp2.1\05. Axe.AssemblyInfo.cs
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\05. Axe\obj\Debug\netcoreapp2.1\05. Axe.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\05. Axe\obj\Debug\netcoreapp2.1\05. Axe.pdb

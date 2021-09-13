@@ -1,0 +1,10 @@
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\09. Vowels Sum\bin\Debug\netcoreapp2.1\09. Vowels Sum.deps.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\09. Vowels Sum\bin\Debug\netcoreapp2.1\09. Vowels Sum.runtimeconfig.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\09. Vowels Sum\bin\Debug\netcoreapp2.1\09. Vowels Sum.runtimeconfig.dev.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\09. Vowels Sum\bin\Debug\netcoreapp2.1\09. Vowels Sum.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\09. Vowels Sum\bin\Debug\netcoreapp2.1\09. Vowels Sum.pdb
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\09. Vowels Sum\obj\Debug\netcoreapp2.1\09. Vowels Sum.csproj.CoreCompileInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\09. Vowels Sum\obj\Debug\netcoreapp2.1\09. Vowels Sum.AssemblyInfoInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\09. Vowels Sum\obj\Debug\netcoreapp2.1\09. Vowels Sum.AssemblyInfo.cs
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\09. Vowels Sum\obj\Debug\netcoreapp2.1\09. Vowels Sum.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\09. Vowels Sum\obj\Debug\netcoreapp2.1\09. Vowels Sum.pdb

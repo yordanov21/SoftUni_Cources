@@ -1,0 +1,11 @@
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\08. Hello, Name!\bin\Debug\netcoreapp2.1\08. Hello, Name!.deps.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\08. Hello, Name!\bin\Debug\netcoreapp2.1\08. Hello, Name!.runtimeconfig.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\08. Hello, Name!\bin\Debug\netcoreapp2.1\08. Hello, Name!.runtimeconfig.dev.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\08. Hello, Name!\bin\Debug\netcoreapp2.1\08. Hello, Name!.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\08. Hello, Name!\bin\Debug\netcoreapp2.1\08. Hello, Name!.pdb
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\08. Hello, Name!\obj\Debug\netcoreapp2.1\08. Hello, Name!.csprojAssemblyReference.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\08. Hello, Name!\obj\Debug\netcoreapp2.1\08. Hello, Name!.csproj.CoreCompileInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\08. Hello, Name!\obj\Debug\netcoreapp2.1\08. Hello, Name!.AssemblyInfoInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\08. Hello, Name!\obj\Debug\netcoreapp2.1\08. Hello, Name!.AssemblyInfo.cs
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\08. Hello, Name!\obj\Debug\netcoreapp2.1\08. Hello, Name!.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\08. Hello, Name!\obj\Debug\netcoreapp2.1\08. Hello, Name!.pdb

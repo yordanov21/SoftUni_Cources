@@ -1,0 +1,10 @@
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\04. Draw a Filled Square\bin\Debug\netcoreapp2.1\04. Draw a Filled Square.deps.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\04. Draw a Filled Square\bin\Debug\netcoreapp2.1\04. Draw a Filled Square.runtimeconfig.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\04. Draw a Filled Square\bin\Debug\netcoreapp2.1\04. Draw a Filled Square.runtimeconfig.dev.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\04. Draw a Filled Square\bin\Debug\netcoreapp2.1\04. Draw a Filled Square.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\04. Draw a Filled Square\bin\Debug\netcoreapp2.1\04. Draw a Filled Square.pdb
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\04. Draw a Filled Square\obj\Debug\netcoreapp2.1\04. Draw a Filled Square.csproj.CoreCompileInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\04. Draw a Filled Square\obj\Debug\netcoreapp2.1\04. Draw a Filled Square.AssemblyInfoInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\04. Draw a Filled Square\obj\Debug\netcoreapp2.1\04. Draw a Filled Square.AssemblyInfo.cs
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\04. Draw a Filled Square\obj\Debug\netcoreapp2.1\04. Draw a Filled Square.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\04. Draw a Filled Square\obj\Debug\netcoreapp2.1\04. Draw a Filled Square.pdb

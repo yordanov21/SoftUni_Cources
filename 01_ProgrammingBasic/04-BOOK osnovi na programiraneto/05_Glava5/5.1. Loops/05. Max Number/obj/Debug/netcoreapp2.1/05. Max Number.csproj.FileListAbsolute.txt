@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\05. Max Number\bin\Debug\netcoreapp2.1\05. Max Number.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\05. Max Number\bin\Debug\netcoreapp2.1\05. Max Number.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\05. Max Number\bin\Debug\netcoreapp2.1\05. Max Number.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\05. Max Number\bin\Debug\netcoreapp2.1\05. Max Number.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\05. Max Number\bin\Debug\netcoreapp2.1\05. Max Number.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\05. Max Number\obj\Debug\netcoreapp2.1\05. Max Number.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\05. Max Number\obj\Debug\netcoreapp2.1\05. Max Number.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\05. Max Number\obj\Debug\netcoreapp2.1\05. Max Number.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\05. Max Number\obj\Debug\netcoreapp2.1\05. Max Number.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\05. Max Number\obj\Debug\netcoreapp2.1\05. Max Number.pdb

@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\10-07.04.2019\For-Loop - Exercise\05. Histogram\bin\Debug\_05.Histogram.exe.config
+C:\Users\Biser-1\Desktop\programing basic\10-07.04.2019\For-Loop - Exercise\05. Histogram\bin\Debug\_05.Histogram.exe
+C:\Users\Biser-1\Desktop\programing basic\10-07.04.2019\For-Loop - Exercise\05. Histogram\bin\Debug\_05.Histogram.pdb
+C:\Users\Biser-1\Desktop\programing basic\10-07.04.2019\For-Loop - Exercise\05. Histogram\obj\Debug\05. Histogram.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\10-07.04.2019\For-Loop - Exercise\05. Histogram\obj\Debug\05. Histogram.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\10-07.04.2019\For-Loop - Exercise\05. Histogram\obj\Debug\_05.Histogram.exe
+C:\Users\Biser-1\Desktop\programing basic\10-07.04.2019\For-Loop - Exercise\05. Histogram\obj\Debug\_05.Histogram.pdb

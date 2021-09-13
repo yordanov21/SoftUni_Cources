@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\05. Date after 5 Days\bin\Debug\netcoreapp2.1\05. Date after 5 Days.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\05. Date after 5 Days\bin\Debug\netcoreapp2.1\05. Date after 5 Days.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\05. Date after 5 Days\bin\Debug\netcoreapp2.1\05. Date after 5 Days.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\05. Date after 5 Days\bin\Debug\netcoreapp2.1\05. Date after 5 Days.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\05. Date after 5 Days\bin\Debug\netcoreapp2.1\05. Date after 5 Days.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\05. Date after 5 Days\obj\Debug\netcoreapp2.1\05. Date after 5 Days.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\05. Date after 5 Days\obj\Debug\netcoreapp2.1\05. Date after 5 Days.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\05. Date after 5 Days\obj\Debug\netcoreapp2.1\05. Date after 5 Days.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\05. Date after 5 Days\obj\Debug\netcoreapp2.1\05. Date after 5 Days.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\05. Date after 5 Days\obj\Debug\netcoreapp2.1\05. Date after 5 Days.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\05. Date after 5 Days\obj\Debug\netcoreapp2.1\05. Date after 5 Days.pdb

@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\08. World Swimming Record\bin\Debug\_08.World_Swimming_Record.exe.config
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\08. World Swimming Record\bin\Debug\_08.World_Swimming_Record.exe
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\08. World Swimming Record\bin\Debug\_08.World_Swimming_Record.pdb
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\08. World Swimming Record\obj\Debug\08. World Swimming Record.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\08. World Swimming Record\obj\Debug\08. World Swimming Record.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\08. World Swimming Record\obj\Debug\_08.World_Swimming_Record.exe
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\08. World Swimming Record\obj\Debug\_08.World_Swimming_Record.pdb

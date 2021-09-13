@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\03. Flowers\bin\Debug\netcoreapp2.1\03. Flowers.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\03. Flowers\bin\Debug\netcoreapp2.1\03. Flowers.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\03. Flowers\bin\Debug\netcoreapp2.1\03. Flowers.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\03. Flowers\bin\Debug\netcoreapp2.1\03. Flowers.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\03. Flowers\bin\Debug\netcoreapp2.1\03. Flowers.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\03. Flowers\obj\Debug\netcoreapp2.1\03. Flowers.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\03. Flowers\obj\Debug\netcoreapp2.1\03. Flowers.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\03. Flowers\obj\Debug\netcoreapp2.1\03. Flowers.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\03. Flowers\obj\Debug\netcoreapp2.1\03. Flowers.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\03. Flowers\obj\Debug\netcoreapp2.1\03. Flowers.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\03. Flowers\obj\Debug\netcoreapp2.1\03. Flowers.pdb

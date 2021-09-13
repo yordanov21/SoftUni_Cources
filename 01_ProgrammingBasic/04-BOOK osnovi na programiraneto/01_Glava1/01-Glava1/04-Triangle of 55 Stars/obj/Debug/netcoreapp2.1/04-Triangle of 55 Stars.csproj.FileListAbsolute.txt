@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\04-Triangle of 55 Stars\bin\Debug\netcoreapp2.1\04-Triangle of 55 Stars.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\04-Triangle of 55 Stars\bin\Debug\netcoreapp2.1\04-Triangle of 55 Stars.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\04-Triangle of 55 Stars\bin\Debug\netcoreapp2.1\04-Triangle of 55 Stars.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\04-Triangle of 55 Stars\bin\Debug\netcoreapp2.1\04-Triangle of 55 Stars.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\04-Triangle of 55 Stars\bin\Debug\netcoreapp2.1\04-Triangle of 55 Stars.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\04-Triangle of 55 Stars\obj\Debug\netcoreapp2.1\04-Triangle of 55 Stars.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\04-Triangle of 55 Stars\obj\Debug\netcoreapp2.1\04-Triangle of 55 Stars.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\04-Triangle of 55 Stars\obj\Debug\netcoreapp2.1\04-Triangle of 55 Stars.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\04-Triangle of 55 Stars\obj\Debug\netcoreapp2.1\04-Triangle of 55 Stars.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\04-Triangle of 55 Stars\obj\Debug\netcoreapp2.1\04-Triangle of 55 Stars.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\01-Glava1\04-Triangle of 55 Stars\obj\Debug\netcoreapp2.1\04-Triangle of 55 Stars.pdb

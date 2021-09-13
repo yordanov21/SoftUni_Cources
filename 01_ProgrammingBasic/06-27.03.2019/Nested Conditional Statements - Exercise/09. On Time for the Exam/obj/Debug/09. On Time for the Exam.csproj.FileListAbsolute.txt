@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\09. On Time for the Exam\bin\Debug\_09.On_Time_for_the_Exam.exe.config
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\09. On Time for the Exam\bin\Debug\_09.On_Time_for_the_Exam.exe
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\09. On Time for the Exam\bin\Debug\_09.On_Time_for_the_Exam.pdb
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\09. On Time for the Exam\obj\Debug\09. On Time for the Exam.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\09. On Time for the Exam\obj\Debug\09. On Time for the Exam.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\09. On Time for the Exam\obj\Debug\_09.On_Time_for_the_Exam.exe
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\09. On Time for the Exam\obj\Debug\_09.On_Time_for_the_Exam.pdb

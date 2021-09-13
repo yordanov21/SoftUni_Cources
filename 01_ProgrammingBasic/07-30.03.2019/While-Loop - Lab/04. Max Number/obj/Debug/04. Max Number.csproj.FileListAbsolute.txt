@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\07-30.03.2019\While-Loop - Lab\04. Max Number\bin\Debug\_04.Max_Number.exe.config
+C:\Users\Biser-1\Desktop\programing basic\07-30.03.2019\While-Loop - Lab\04. Max Number\bin\Debug\_04.Max_Number.exe
+C:\Users\Biser-1\Desktop\programing basic\07-30.03.2019\While-Loop - Lab\04. Max Number\bin\Debug\_04.Max_Number.pdb
+C:\Users\Biser-1\Desktop\programing basic\07-30.03.2019\While-Loop - Lab\04. Max Number\obj\Debug\04. Max Number.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\07-30.03.2019\While-Loop - Lab\04. Max Number\obj\Debug\04. Max Number.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\07-30.03.2019\While-Loop - Lab\04. Max Number\obj\Debug\_04.Max_Number.exe
+C:\Users\Biser-1\Desktop\programing basic\07-30.03.2019\While-Loop - Lab\04. Max Number\obj\Debug\_04.Max_Number.pdb

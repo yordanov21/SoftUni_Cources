@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\greeting\greeting\bin\Debug\greeting.exe.config
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\greeting\greeting\bin\Debug\greeting.exe
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\greeting\greeting\bin\Debug\greeting.pdb
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\greeting\greeting\obj\Debug\greeting.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\greeting\greeting\obj\Debug\greeting.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\greeting\greeting\obj\Debug\greeting.exe
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\greeting\greeting\obj\Debug\greeting.pdb

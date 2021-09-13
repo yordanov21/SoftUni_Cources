@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\07. Name Wars\bin\Debug\_07.Name_Wars.exe.config
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\07. Name Wars\bin\Debug\_07.Name_Wars.exe
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\07. Name Wars\bin\Debug\_07.Name_Wars.pdb
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\07. Name Wars\obj\Debug\07. Name Wars.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\07. Name Wars\obj\Debug\_07.Name_Wars.exe
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\07. Name Wars\obj\Debug\_07.Name_Wars.pdb
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\07. Name Wars\obj\Debug\07. Name Wars.csprojAssemblyReference.cache

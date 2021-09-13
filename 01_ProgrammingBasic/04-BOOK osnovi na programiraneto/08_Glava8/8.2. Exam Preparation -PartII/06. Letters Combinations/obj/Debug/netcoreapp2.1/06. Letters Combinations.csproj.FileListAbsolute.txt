@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\06. Letters Combinations\bin\Debug\netcoreapp2.1\06. Letters Combinations.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\06. Letters Combinations\bin\Debug\netcoreapp2.1\06. Letters Combinations.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\06. Letters Combinations\bin\Debug\netcoreapp2.1\06. Letters Combinations.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\06. Letters Combinations\bin\Debug\netcoreapp2.1\06. Letters Combinations.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\06. Letters Combinations\bin\Debug\netcoreapp2.1\06. Letters Combinations.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\06. Letters Combinations\obj\Debug\netcoreapp2.1\06. Letters Combinations.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\06. Letters Combinations\obj\Debug\netcoreapp2.1\06. Letters Combinations.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\06. Letters Combinations\obj\Debug\netcoreapp2.1\06. Letters Combinations.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\06. Letters Combinations\obj\Debug\netcoreapp2.1\06. Letters Combinations.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\06. Letters Combinations\obj\Debug\netcoreapp2.1\06. Letters Combinations.pdb

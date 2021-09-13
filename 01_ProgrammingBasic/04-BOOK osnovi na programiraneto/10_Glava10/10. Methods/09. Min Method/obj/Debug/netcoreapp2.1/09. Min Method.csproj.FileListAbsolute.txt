@@ -1,0 +1,10 @@
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\09. Min Method\bin\Debug\netcoreapp2.1\09. Min Method.deps.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\09. Min Method\bin\Debug\netcoreapp2.1\09. Min Method.runtimeconfig.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\09. Min Method\bin\Debug\netcoreapp2.1\09. Min Method.runtimeconfig.dev.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\09. Min Method\bin\Debug\netcoreapp2.1\09. Min Method.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\09. Min Method\bin\Debug\netcoreapp2.1\09. Min Method.pdb
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\09. Min Method\obj\Debug\netcoreapp2.1\09. Min Method.csproj.CoreCompileInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\09. Min Method\obj\Debug\netcoreapp2.1\09. Min Method.AssemblyInfoInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\09. Min Method\obj\Debug\netcoreapp2.1\09. Min Method.AssemblyInfo.cs
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\09. Min Method\obj\Debug\netcoreapp2.1\09. Min Method.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\09. Min Method\obj\Debug\netcoreapp2.1\09. Min Method.pdb

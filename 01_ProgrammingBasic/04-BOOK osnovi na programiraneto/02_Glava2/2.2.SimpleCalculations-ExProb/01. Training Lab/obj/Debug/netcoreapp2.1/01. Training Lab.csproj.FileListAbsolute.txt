@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\01. Training Lab\bin\Debug\netcoreapp2.1\01. Training Lab.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\01. Training Lab\bin\Debug\netcoreapp2.1\01. Training Lab.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\01. Training Lab\bin\Debug\netcoreapp2.1\01. Training Lab.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\01. Training Lab\bin\Debug\netcoreapp2.1\01. Training Lab.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\01. Training Lab\bin\Debug\netcoreapp2.1\01. Training Lab.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\01. Training Lab\obj\Debug\netcoreapp2.1\01. Training Lab.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\01. Training Lab\obj\Debug\netcoreapp2.1\01. Training Lab.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\01. Training Lab\obj\Debug\netcoreapp2.1\01. Training Lab.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\01. Training Lab\obj\Debug\netcoreapp2.1\01. Training Lab.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\01. Training Lab\obj\Debug\netcoreapp2.1\01. Training Lab.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\01. Training Lab\obj\Debug\netcoreapp2.1\01. Training Lab.pdb

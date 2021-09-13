@@ -1,0 +1,6 @@
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\3-area\3-area\bin\Debug\3-area.exe.config
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\3-area\3-area\bin\Debug\3-area.exe
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\3-area\3-area\bin\Debug\3-area.pdb
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\3-area\3-area\obj\Debug\3-area.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\3-area\3-area\obj\Debug\3-area.exe
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\3-area\3-area\obj\Debug\3-area.pdb

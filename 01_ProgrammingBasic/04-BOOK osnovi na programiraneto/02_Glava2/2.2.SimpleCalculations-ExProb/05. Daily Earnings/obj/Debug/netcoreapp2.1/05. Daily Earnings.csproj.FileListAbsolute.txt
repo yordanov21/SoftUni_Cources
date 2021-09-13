@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\05. Daily Earnings\bin\Debug\netcoreapp2.1\05. Daily Earnings.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\05. Daily Earnings\bin\Debug\netcoreapp2.1\05. Daily Earnings.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\05. Daily Earnings\bin\Debug\netcoreapp2.1\05. Daily Earnings.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\05. Daily Earnings\bin\Debug\netcoreapp2.1\05. Daily Earnings.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\05. Daily Earnings\bin\Debug\netcoreapp2.1\05. Daily Earnings.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\05. Daily Earnings\obj\Debug\netcoreapp2.1\05. Daily Earnings.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\05. Daily Earnings\obj\Debug\netcoreapp2.1\05. Daily Earnings.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\05. Daily Earnings\obj\Debug\netcoreapp2.1\05. Daily Earnings.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\05. Daily Earnings\obj\Debug\netcoreapp2.1\05. Daily Earnings.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\05. Daily Earnings\obj\Debug\netcoreapp2.1\05. Daily Earnings.pdb

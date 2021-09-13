@@ -1,0 +1,11 @@
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\01. Numbers 1toN with Step 3\bin\Debug\netcoreapp2.1\01. Numbers 1toN with Step 3.deps.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\01. Numbers 1toN with Step 3\bin\Debug\netcoreapp2.1\01. Numbers 1toN with Step 3.runtimeconfig.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\01. Numbers 1toN with Step 3\bin\Debug\netcoreapp2.1\01. Numbers 1toN with Step 3.runtimeconfig.dev.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\01. Numbers 1toN with Step 3\bin\Debug\netcoreapp2.1\01. Numbers 1toN with Step 3.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\01. Numbers 1toN with Step 3\bin\Debug\netcoreapp2.1\01. Numbers 1toN with Step 3.pdb
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\01. Numbers 1toN with Step 3\obj\Debug\netcoreapp2.1\01. Numbers 1toN with Step 3.csprojAssemblyReference.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\01. Numbers 1toN with Step 3\obj\Debug\netcoreapp2.1\01. Numbers 1toN with Step 3.csproj.CoreCompileInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\01. Numbers 1toN with Step 3\obj\Debug\netcoreapp2.1\01. Numbers 1toN with Step 3.AssemblyInfoInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\01. Numbers 1toN with Step 3\obj\Debug\netcoreapp2.1\01. Numbers 1toN with Step 3.AssemblyInfo.cs
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\01. Numbers 1toN with Step 3\obj\Debug\netcoreapp2.1\01. Numbers 1toN with Step 3.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\01. Numbers 1toN with Step 3\obj\Debug\netcoreapp2.1\01. Numbers 1toN with Step 3.pdb

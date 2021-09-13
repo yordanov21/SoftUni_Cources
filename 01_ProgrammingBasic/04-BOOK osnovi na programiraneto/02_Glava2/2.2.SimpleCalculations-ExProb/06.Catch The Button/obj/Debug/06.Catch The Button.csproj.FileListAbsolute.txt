@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\06.Catch The Button\bin\Debug\06.Catch The Button.exe.config
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\06.Catch The Button\bin\Debug\06.Catch The Button.exe
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\06.Catch The Button\bin\Debug\06.Catch The Button.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\06.Catch The Button\obj\Debug\06.Catch The Button.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\06.Catch The Button\obj\Debug\_06.Catch_The_Button.Form1.resources
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\06.Catch The Button\obj\Debug\_06.Catch_The_Button.Properties.Resources.resources
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\06.Catch The Button\obj\Debug\06.Catch The Button.csproj.GenerateResource.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\06.Catch The Button\obj\Debug\06.Catch The Button.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\06.Catch The Button\obj\Debug\06.Catch The Button.exe
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\06.Catch The Button\obj\Debug\06.Catch The Button.pdb

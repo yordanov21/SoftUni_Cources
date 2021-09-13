@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\13.03.2019\demo\demo\bin\Debug\demo.exe.config
+C:\Users\Biser-1\Desktop\programing basic\13.03.2019\demo\demo\bin\Debug\demo.exe
+C:\Users\Biser-1\Desktop\programing basic\13.03.2019\demo\demo\bin\Debug\demo.pdb
+C:\Users\Biser-1\Desktop\programing basic\13.03.2019\demo\demo\obj\Debug\demo.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\13.03.2019\demo\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\13.03.2019\demo\demo\obj\Debug\demo.exe
+C:\Users\Biser-1\Desktop\programing basic\13.03.2019\demo\demo\obj\Debug\demo.pdb

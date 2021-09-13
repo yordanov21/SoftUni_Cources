@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\02.16.03.2019.LAB\TRAINING1\TRAINING1\bin\Debug\TRAINING1.exe.config
+C:\Users\Biser-1\Desktop\programing basic\02.16.03.2019.LAB\TRAINING1\TRAINING1\bin\Debug\TRAINING1.exe
+C:\Users\Biser-1\Desktop\programing basic\02.16.03.2019.LAB\TRAINING1\TRAINING1\bin\Debug\TRAINING1.pdb
+C:\Users\Biser-1\Desktop\programing basic\02.16.03.2019.LAB\TRAINING1\TRAINING1\obj\Debug\TRAINING1.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\02.16.03.2019.LAB\TRAINING1\TRAINING1\obj\Debug\TRAINING1.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\02.16.03.2019.LAB\TRAINING1\TRAINING1\obj\Debug\TRAINING1.exe
+C:\Users\Biser-1\Desktop\programing basic\02.16.03.2019.LAB\TRAINING1\TRAINING1\obj\Debug\TRAINING1.pdb

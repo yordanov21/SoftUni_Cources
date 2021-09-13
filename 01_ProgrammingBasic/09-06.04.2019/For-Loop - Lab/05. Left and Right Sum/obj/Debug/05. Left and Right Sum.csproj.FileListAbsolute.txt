@@ -1,0 +1,6 @@
+C:\Users\Biser-1\Desktop\programing basic\09-06.04.2019\For-Loop - Lab\05. Left and Right Sum\bin\Debug\_05.Left_and_Right_Sum.exe.config
+C:\Users\Biser-1\Desktop\programing basic\09-06.04.2019\For-Loop - Lab\05. Left and Right Sum\bin\Debug\_05.Left_and_Right_Sum.exe
+C:\Users\Biser-1\Desktop\programing basic\09-06.04.2019\For-Loop - Lab\05. Left and Right Sum\bin\Debug\_05.Left_and_Right_Sum.pdb
+C:\Users\Biser-1\Desktop\programing basic\09-06.04.2019\For-Loop - Lab\05. Left and Right Sum\obj\Debug\05. Left and Right Sum.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\09-06.04.2019\For-Loop - Lab\05. Left and Right Sum\obj\Debug\_05.Left_and_Right_Sum.exe
+C:\Users\Biser-1\Desktop\programing basic\09-06.04.2019\For-Loop - Lab\05. Left and Right Sum\obj\Debug\_05.Left_and_Right_Sum.pdb

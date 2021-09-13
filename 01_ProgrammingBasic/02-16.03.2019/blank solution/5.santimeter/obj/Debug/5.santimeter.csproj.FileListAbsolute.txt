@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\blank solution\5.santimeter\bin\Debug\5.santimeter.exe.config
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\blank solution\5.santimeter\bin\Debug\5.santimeter.exe
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\blank solution\5.santimeter\bin\Debug\5.santimeter.pdb
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\blank solution\5.santimeter\obj\Debug\5.santimeter.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\blank solution\5.santimeter\obj\Debug\5.santimeter.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\blank solution\5.santimeter\obj\Debug\5.santimeter.exe
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\blank solution\5.santimeter\obj\Debug\5.santimeter.pdb

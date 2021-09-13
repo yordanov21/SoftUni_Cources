@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\12. Volleyball\bin\Debug\netcoreapp2.1\12. Volleyball.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\12. Volleyball\bin\Debug\netcoreapp2.1\12. Volleyball.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\12. Volleyball\bin\Debug\netcoreapp2.1\12. Volleyball.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\12. Volleyball\bin\Debug\netcoreapp2.1\12. Volleyball.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\12. Volleyball\bin\Debug\netcoreapp2.1\12. Volleyball.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\12. Volleyball\obj\Debug\netcoreapp2.1\12. Volleyball.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\12. Volleyball\obj\Debug\netcoreapp2.1\12. Volleyball.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\12. Volleyball\obj\Debug\netcoreapp2.1\12. Volleyball.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\12. Volleyball\obj\Debug\netcoreapp2.1\12. Volleyball.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\12. Volleyball\obj\Debug\netcoreapp2.1\12. Volleyball.pdb

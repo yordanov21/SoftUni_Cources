@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\03. Oscars week in cinema\bin\Debug\_03.Oscars_week_in_cinema.exe.config
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\03. Oscars week in cinema\bin\Debug\_03.Oscars_week_in_cinema.exe
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\03. Oscars week in cinema\bin\Debug\_03.Oscars_week_in_cinema.pdb
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\03. Oscars week in cinema\obj\Debug\03. Oscars week in cinema.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\03. Oscars week in cinema\obj\Debug\03. Oscars week in cinema.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\03. Oscars week in cinema\obj\Debug\_03.Oscars_week_in_cinema.exe
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\03. Oscars week in cinema\obj\Debug\_03.Oscars_week_in_cinema.pdb

@@ -1,0 +1,6 @@
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\greeting\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\greeting\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\greeting\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\greeting\ConsoleApp1\obj\Debug\Concatenate-Data.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\greeting\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\greeting\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

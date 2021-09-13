@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\16. Number 0_100 to Text\bin\Debug\netcoreapp2.1\16. Number 0_100 to Text.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\16. Number 0_100 to Text\bin\Debug\netcoreapp2.1\16. Number 0_100 to Text.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\16. Number 0_100 to Text\bin\Debug\netcoreapp2.1\16. Number 0_100 to Text.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\16. Number 0_100 to Text\bin\Debug\netcoreapp2.1\16. Number 0_100 to Text.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\16. Number 0_100 to Text\bin\Debug\netcoreapp2.1\16. Number 0_100 to Text.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\16. Number 0_100 to Text\obj\Debug\netcoreapp2.1\16. Number 0_100 to Text.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\16. Number 0_100 to Text\obj\Debug\netcoreapp2.1\16. Number 0_100 to Text.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\16. Number 0_100 to Text\obj\Debug\netcoreapp2.1\16. Number 0_100 to Text.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\16. Number 0_100 to Text\obj\Debug\netcoreapp2.1\16. Number 0_100 to Text.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\16. Number 0_100 to Text\obj\Debug\netcoreapp2.1\16. Number 0_100 to Text.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\16. Number 0_100 to Text\obj\Debug\netcoreapp2.1\16. Number 0_100 to Text.csprojAssemblyReference.cache

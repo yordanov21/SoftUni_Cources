@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\10. Animal Type\bin\Debug\netcoreapp2.1\10. Animal Type.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\10. Animal Type\bin\Debug\netcoreapp2.1\10. Animal Type.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\10. Animal Type\bin\Debug\netcoreapp2.1\10. Animal Type.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\10. Animal Type\bin\Debug\netcoreapp2.1\10. Animal Type.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\10. Animal Type\bin\Debug\netcoreapp2.1\10. Animal Type.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\10. Animal Type\obj\Debug\netcoreapp2.1\10. Animal Type.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\10. Animal Type\obj\Debug\netcoreapp2.1\10. Animal Type.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\10. Animal Type\obj\Debug\netcoreapp2.1\10. Animal Type.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\10. Animal Type\obj\Debug\netcoreapp2.1\10. Animal Type.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\10. Animal Type\obj\Debug\netcoreapp2.1\10. Animal Type.pdb

@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\09.Birthday\09.Birthday\09.Birthday\bin\Debug\09.Birthday.exe.config
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\09.Birthday\09.Birthday\09.Birthday\bin\Debug\09.Birthday.exe
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\09.Birthday\09.Birthday\09.Birthday\bin\Debug\09.Birthday.pdb
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\09.Birthday\09.Birthday\09.Birthday\obj\Debug\09.Birthday.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\09.Birthday\09.Birthday\09.Birthday\obj\Debug\09.Birthday.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\09.Birthday\09.Birthday\09.Birthday\obj\Debug\09.Birthday.exe
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\09.Birthday\09.Birthday\09.Birthday\obj\Debug\09.Birthday.pdb

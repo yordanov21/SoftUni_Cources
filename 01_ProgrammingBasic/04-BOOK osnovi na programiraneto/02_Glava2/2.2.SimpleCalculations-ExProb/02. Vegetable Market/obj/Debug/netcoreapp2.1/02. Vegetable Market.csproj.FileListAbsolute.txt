@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\02. Vegetable Market\bin\Debug\netcoreapp2.1\02. Vegetable Market.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\02. Vegetable Market\bin\Debug\netcoreapp2.1\02. Vegetable Market.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\02. Vegetable Market\bin\Debug\netcoreapp2.1\02. Vegetable Market.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\02. Vegetable Market\bin\Debug\netcoreapp2.1\02. Vegetable Market.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\02. Vegetable Market\bin\Debug\netcoreapp2.1\02. Vegetable Market.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\02. Vegetable Market\obj\Debug\netcoreapp2.1\02. Vegetable Market.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\02. Vegetable Market\obj\Debug\netcoreapp2.1\02. Vegetable Market.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\02. Vegetable Market\obj\Debug\netcoreapp2.1\02. Vegetable Market.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\02. Vegetable Market\obj\Debug\netcoreapp2.1\02. Vegetable Market.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\02. Vegetable Market\obj\Debug\netcoreapp2.1\02. Vegetable Market.pdb

@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\01. Oscars ceremony\bin\Debug\_01.Oscars_ceremony.exe.config
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\01. Oscars ceremony\bin\Debug\_01.Oscars_ceremony.exe
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\01. Oscars ceremony\bin\Debug\_01.Oscars_ceremony.pdb
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\01. Oscars ceremony\obj\Debug\01. Oscars ceremony.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\01. Oscars ceremony\obj\Debug\01. Oscars ceremony.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\01. Oscars ceremony\obj\Debug\_01.Oscars_ceremony.exe
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\01. Oscars ceremony\obj\Debug\_01.Oscars_ceremony.pdb

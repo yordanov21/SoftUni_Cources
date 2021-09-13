@@ -1,0 +1,11 @@
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\07. Left and Right Sum\bin\Debug\netcoreapp2.1\07. Left and Right Sum.deps.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\07. Left and Right Sum\bin\Debug\netcoreapp2.1\07. Left and Right Sum.runtimeconfig.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\07. Left and Right Sum\bin\Debug\netcoreapp2.1\07. Left and Right Sum.runtimeconfig.dev.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\07. Left and Right Sum\bin\Debug\netcoreapp2.1\07. Left and Right Sum.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\07. Left and Right Sum\bin\Debug\netcoreapp2.1\07. Left and Right Sum.pdb
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\07. Left and Right Sum\obj\Debug\netcoreapp2.1\07. Left and Right Sum.csprojAssemblyReference.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\07. Left and Right Sum\obj\Debug\netcoreapp2.1\07. Left and Right Sum.csproj.CoreCompileInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\07. Left and Right Sum\obj\Debug\netcoreapp2.1\07. Left and Right Sum.AssemblyInfoInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\07. Left and Right Sum\obj\Debug\netcoreapp2.1\07. Left and Right Sum.AssemblyInfo.cs
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\07. Left and Right Sum\obj\Debug\netcoreapp2.1\07. Left and Right Sum.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.1. Loops\07. Left and Right Sum\obj\Debug\netcoreapp2.1\07. Left and Right Sum.pdb

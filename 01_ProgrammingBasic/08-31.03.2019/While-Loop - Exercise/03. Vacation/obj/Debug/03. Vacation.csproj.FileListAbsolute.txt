@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\08-31.03.2019\While-Loop - Exercise\03. Vacation\bin\Debug\_03.Vacation.exe.config
+C:\Users\Biser-1\Desktop\programing basic\08-31.03.2019\While-Loop - Exercise\03. Vacation\bin\Debug\_03.Vacation.exe
+C:\Users\Biser-1\Desktop\programing basic\08-31.03.2019\While-Loop - Exercise\03. Vacation\bin\Debug\_03.Vacation.pdb
+C:\Users\Biser-1\Desktop\programing basic\08-31.03.2019\While-Loop - Exercise\03. Vacation\obj\Debug\03. Vacation.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\08-31.03.2019\While-Loop - Exercise\03. Vacation\obj\Debug\03. Vacation.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\08-31.03.2019\While-Loop - Exercise\03. Vacation\obj\Debug\_03.Vacation.exe
+C:\Users\Biser-1\Desktop\programing basic\08-31.03.2019\While-Loop - Exercise\03. Vacation\obj\Debug\_03.Vacation.pdb

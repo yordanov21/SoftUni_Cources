@@ -1,0 +1,10 @@
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\10. Diamond\bin\Debug\netcoreapp2.1\10. Diamond.deps.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\10. Diamond\bin\Debug\netcoreapp2.1\10. Diamond.runtimeconfig.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\10. Diamond\bin\Debug\netcoreapp2.1\10. Diamond.runtimeconfig.dev.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\10. Diamond\bin\Debug\netcoreapp2.1\10. Diamond.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\10. Diamond\bin\Debug\netcoreapp2.1\10. Diamond.pdb
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\10. Diamond\obj\Debug\netcoreapp2.1\10. Diamond.csproj.CoreCompileInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\10. Diamond\obj\Debug\netcoreapp2.1\10. Diamond.AssemblyInfoInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\10. Diamond\obj\Debug\netcoreapp2.1\10. Diamond.AssemblyInfo.cs
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\10. Diamond\obj\Debug\netcoreapp2.1\10. Diamond.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\10. Diamond\obj\Debug\netcoreapp2.1\10. Diamond.pdb

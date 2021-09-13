@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_13._Enter_Even_Number__with_Text_Input_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

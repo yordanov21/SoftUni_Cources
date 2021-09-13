@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\10. Rectangle with Stars\bin\Debug\netcoreapp2.1\10. Rectangle with Stars.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\10. Rectangle with Stars\bin\Debug\netcoreapp2.1\10. Rectangle with Stars.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\10. Rectangle with Stars\bin\Debug\netcoreapp2.1\10. Rectangle with Stars.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\10. Rectangle with Stars\bin\Debug\netcoreapp2.1\10. Rectangle with Stars.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\10. Rectangle with Stars\bin\Debug\netcoreapp2.1\10. Rectangle with Stars.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\10. Rectangle with Stars\obj\Debug\netcoreapp2.1\10. Rectangle with Stars.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\10. Rectangle with Stars\obj\Debug\netcoreapp2.1\10. Rectangle with Stars.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\10. Rectangle with Stars\obj\Debug\netcoreapp2.1\10. Rectangle with Stars.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\10. Rectangle with Stars\obj\Debug\netcoreapp2.1\10. Rectangle with Stars.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\10. Rectangle with Stars\obj\Debug\netcoreapp2.1\10. Rectangle with Stars.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\10. Rectangle with Stars\obj\Debug\netcoreapp2.1\10. Rectangle with Stars.csprojAssemblyReference.cache

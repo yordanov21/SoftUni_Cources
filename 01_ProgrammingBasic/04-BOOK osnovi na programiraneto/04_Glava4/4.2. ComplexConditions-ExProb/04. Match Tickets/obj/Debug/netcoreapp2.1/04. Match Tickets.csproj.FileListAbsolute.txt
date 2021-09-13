@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\04. Match Tickets\bin\Debug\netcoreapp2.1\04. Match Tickets.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\04. Match Tickets\bin\Debug\netcoreapp2.1\04. Match Tickets.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\04. Match Tickets\bin\Debug\netcoreapp2.1\04. Match Tickets.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\04. Match Tickets\bin\Debug\netcoreapp2.1\04. Match Tickets.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\04. Match Tickets\bin\Debug\netcoreapp2.1\04. Match Tickets.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\04. Match Tickets\obj\Debug\netcoreapp2.1\04. Match Tickets.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\04. Match Tickets\obj\Debug\netcoreapp2.1\04. Match Tickets.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\04. Match Tickets\obj\Debug\netcoreapp2.1\04. Match Tickets.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\04. Match Tickets\obj\Debug\netcoreapp2.1\04. Match Tickets.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\04. Match Tickets\obj\Debug\netcoreapp2.1\04. Match Tickets.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.2. ComplexConditions-ExProb\04. Match Tickets\obj\Debug\netcoreapp2.1\04. Match Tickets.pdb

@@ -1,0 +1,6 @@
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\05. Time + 15 Minutes\bin\Debug\_05.Time___15_Minutes.exe.config
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\05. Time + 15 Minutes\bin\Debug\_05.Time___15_Minutes.exe
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\05. Time + 15 Minutes\bin\Debug\_05.Time___15_Minutes.pdb
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\05. Time + 15 Minutes\obj\Debug\05. Time + 15 Minutes.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\05. Time + 15 Minutes\obj\Debug\_05.Time___15_Minutes.exe
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\05. Time + 15 Minutes\obj\Debug\_05.Time___15_Minutes.pdb

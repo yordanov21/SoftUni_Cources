@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\06. Travelling\bin\Debug\_06.Travelling.exe.config
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\06. Travelling\bin\Debug\_06.Travelling.exe
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\06. Travelling\bin\Debug\_06.Travelling.pdb
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\06. Travelling\obj\Debug\06. Travelling.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\06. Travelling\obj\Debug\06. Travelling.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\06. Travelling\obj\Debug\_06.Travelling.exe
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\06. Travelling\obj\Debug\_06.Travelling.pdb

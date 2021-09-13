@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Transport Price", "..\3.2. SimpleConditions-ExProbl\01. Transport Price\01. Transport Price.csproj", "{6F5FE199-CC12-4935-8216-51985B634151}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Pipes In Pool", "..\3.2. SimpleConditions-ExProbl\02. Pipes In Pool\02. Pipes In Pool.csproj", "{6A6FC79A-224E-425C-B3CB-0DCF4D8A3330}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Sleepy Tom Cat", "..\3.2. SimpleConditions-ExProbl\03. Sleepy Tom Cat\03. Sleepy Tom Cat.csproj", "{2424889B-746C-4596-A6A6-1AD151A6C23E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Harvest", "..\3.2. SimpleConditions-ExProbl\04. Harvest\04. Harvest.csproj", "{52B97FFC-6C38-464C-8A24-EB05241600BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Firm", "..\3.2. SimpleConditions-ExProbl\05. Firm\05. Firm.csproj", "{D5678B8D-5D29-44C9-B0C7-A066B2B22B3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F5FE199-CC12-4935-8216-51985B634151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F5FE199-CC12-4935-8216-51985B634151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F5FE199-CC12-4935-8216-51985B634151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F5FE199-CC12-4935-8216-51985B634151}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A6FC79A-224E-425C-B3CB-0DCF4D8A3330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A6FC79A-224E-425C-B3CB-0DCF4D8A3330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A6FC79A-224E-425C-B3CB-0DCF4D8A3330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A6FC79A-224E-425C-B3CB-0DCF4D8A3330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2424889B-746C-4596-A6A6-1AD151A6C23E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2424889B-746C-4596-A6A6-1AD151A6C23E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2424889B-746C-4596-A6A6-1AD151A6C23E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2424889B-746C-4596-A6A6-1AD151A6C23E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52B97FFC-6C38-464C-8A24-EB05241600BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52B97FFC-6C38-464C-8A24-EB05241600BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52B97FFC-6C38-464C-8A24-EB05241600BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52B97FFC-6C38-464C-8A24-EB05241600BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5678B8D-5D29-44C9-B0C7-A066B2B22B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5678B8D-5D29-44C9-B0C7-A066B2B22B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5678B8D-5D29-44C9-B0C7-A066B2B22B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5678B8D-5D29-44C9-B0C7-A066B2B22B3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F565CFA-D6B4-4354-8789-BE68366C019F}
+	EndGlobalSection
+EndGlobal

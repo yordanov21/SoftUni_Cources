@@ -1,0 +1,11 @@
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.2. Loops - Exam Problems\03. Back To The Past\bin\Debug\netcoreapp2.1\03. Back To The Past.deps.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.2. Loops - Exam Problems\03. Back To The Past\bin\Debug\netcoreapp2.1\03. Back To The Past.runtimeconfig.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.2. Loops - Exam Problems\03. Back To The Past\bin\Debug\netcoreapp2.1\03. Back To The Past.runtimeconfig.dev.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.2. Loops - Exam Problems\03. Back To The Past\bin\Debug\netcoreapp2.1\03. Back To The Past.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.2. Loops - Exam Problems\03. Back To The Past\bin\Debug\netcoreapp2.1\03. Back To The Past.pdb
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.2. Loops - Exam Problems\03. Back To The Past\obj\Debug\netcoreapp2.1\03. Back To The Past.csprojAssemblyReference.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.2. Loops - Exam Problems\03. Back To The Past\obj\Debug\netcoreapp2.1\03. Back To The Past.csproj.CoreCompileInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.2. Loops - Exam Problems\03. Back To The Past\obj\Debug\netcoreapp2.1\03. Back To The Past.AssemblyInfoInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.2. Loops - Exam Problems\03. Back To The Past\obj\Debug\netcoreapp2.1\03. Back To The Past.AssemblyInfo.cs
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.2. Loops - Exam Problems\03. Back To The Past\obj\Debug\netcoreapp2.1\03. Back To The Past.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\05_Glava5\5.2. Loops - Exam Problems\03. Back To The Past\obj\Debug\netcoreapp2.1\03. Back To The Past.pdb

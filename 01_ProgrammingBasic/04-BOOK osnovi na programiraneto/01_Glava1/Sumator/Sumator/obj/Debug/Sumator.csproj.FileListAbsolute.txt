@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\Sumator\Sumator\bin\Debug\Sumator.exe.config
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\Sumator\Sumator\bin\Debug\Sumator.exe
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\Sumator\Sumator\bin\Debug\Sumator.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\Sumator\Sumator\obj\Debug\Sumator.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\Sumator\Sumator\obj\Debug\Sumator.Sumator.resources
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\Sumator\Sumator\obj\Debug\Sumator.Properties.Resources.resources
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\Sumator\Sumator\obj\Debug\Sumator.csproj.GenerateResource.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\Sumator\Sumator\obj\Debug\Sumator.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\Sumator\Sumator\obj\Debug\Sumator.exe
+C:\Users\Dancho\Desktop\C# Fundamentals\04-BOOK osnovi na programiraneto\Sumator\Sumator\obj\Debug\Sumator.pdb

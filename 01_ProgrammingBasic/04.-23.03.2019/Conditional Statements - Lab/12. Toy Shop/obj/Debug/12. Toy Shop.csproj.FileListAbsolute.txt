@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\12. Toy Shop\bin\Debug\_12.Toy_Shop.exe.config
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\12. Toy Shop\bin\Debug\_12.Toy_Shop.exe
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\12. Toy Shop\bin\Debug\_12.Toy_Shop.pdb
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\12. Toy Shop\obj\Debug\12. Toy Shop.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\12. Toy Shop\obj\Debug\12. Toy Shop.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\12. Toy Shop\obj\Debug\_12.Toy_Shop.exe
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\12. Toy Shop\obj\Debug\_12.Toy_Shop.pdb

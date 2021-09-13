@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\03-17.03.2019\4.Tailoring Workshop\4.Tailoring Workshop\4.Tailoring Workshop\bin\Debug\4.Tailoring Workshop.exe.config
+C:\Users\Biser-1\Desktop\programing basic\03-17.03.2019\4.Tailoring Workshop\4.Tailoring Workshop\4.Tailoring Workshop\bin\Debug\4.Tailoring Workshop.exe
+C:\Users\Biser-1\Desktop\programing basic\03-17.03.2019\4.Tailoring Workshop\4.Tailoring Workshop\4.Tailoring Workshop\bin\Debug\4.Tailoring Workshop.pdb
+C:\Users\Biser-1\Desktop\programing basic\03-17.03.2019\4.Tailoring Workshop\4.Tailoring Workshop\4.Tailoring Workshop\obj\Debug\4.Tailoring Workshop.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\03-17.03.2019\4.Tailoring Workshop\4.Tailoring Workshop\4.Tailoring Workshop\obj\Debug\4.Tailoring Workshop.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\03-17.03.2019\4.Tailoring Workshop\4.Tailoring Workshop\4.Tailoring Workshop\obj\Debug\4.Tailoring Workshop.exe
+C:\Users\Biser-1\Desktop\programing basic\03-17.03.2019\4.Tailoring Workshop\4.Tailoring Workshop\4.Tailoring Workshop\obj\Debug\4.Tailoring Workshop.pdb

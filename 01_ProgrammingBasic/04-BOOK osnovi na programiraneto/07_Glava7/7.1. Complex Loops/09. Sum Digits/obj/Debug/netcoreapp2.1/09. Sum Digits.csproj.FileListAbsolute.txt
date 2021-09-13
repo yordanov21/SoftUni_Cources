@@ -1,0 +1,10 @@
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\09. Sum Digits\bin\Debug\netcoreapp2.1\09. Sum Digits.deps.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\09. Sum Digits\bin\Debug\netcoreapp2.1\09. Sum Digits.runtimeconfig.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\09. Sum Digits\bin\Debug\netcoreapp2.1\09. Sum Digits.runtimeconfig.dev.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\09. Sum Digits\bin\Debug\netcoreapp2.1\09. Sum Digits.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\09. Sum Digits\bin\Debug\netcoreapp2.1\09. Sum Digits.pdb
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\09. Sum Digits\obj\Debug\netcoreapp2.1\09. Sum Digits.csproj.CoreCompileInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\09. Sum Digits\obj\Debug\netcoreapp2.1\09. Sum Digits.AssemblyInfoInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\09. Sum Digits\obj\Debug\netcoreapp2.1\09. Sum Digits.AssemblyInfo.cs
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\09. Sum Digits\obj\Debug\netcoreapp2.1\09. Sum Digits.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\07_Glava7\7.1. Complex Loops\09. Sum Digits\obj\Debug\netcoreapp2.1\09. Sum Digits.pdb

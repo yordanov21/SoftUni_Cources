@@ -1,0 +1,6 @@
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\05. Invalid Number\bin\Debug\_05.Invalid_Number.exe.config
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\05. Invalid Number\bin\Debug\_05.Invalid_Number.exe
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\05. Invalid Number\bin\Debug\_05.Invalid_Number.pdb
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\05. Invalid Number\obj\Debug\05. Invalid Number.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\05. Invalid Number\obj\Debug\_05.Invalid_Number.exe
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\05. Invalid Number\obj\Debug\_05.Invalid_Number.pdb

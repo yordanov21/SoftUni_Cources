@@ -1,0 +1,10 @@
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\03. Square of Stars\bin\Debug\netcoreapp2.1\03. Square of Stars.deps.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\03. Square of Stars\bin\Debug\netcoreapp2.1\03. Square of Stars.runtimeconfig.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\03. Square of Stars\bin\Debug\netcoreapp2.1\03. Square of Stars.runtimeconfig.dev.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\03. Square of Stars\bin\Debug\netcoreapp2.1\03. Square of Stars.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\03. Square of Stars\bin\Debug\netcoreapp2.1\03. Square of Stars.pdb
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\03. Square of Stars\obj\Debug\netcoreapp2.1\03. Square of Stars.csproj.CoreCompileInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\03. Square of Stars\obj\Debug\netcoreapp2.1\03. Square of Stars.AssemblyInfoInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\03. Square of Stars\obj\Debug\netcoreapp2.1\03. Square of Stars.AssemblyInfo.cs
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\03. Square of Stars\obj\Debug\netcoreapp2.1\03. Square of Stars.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.1. Drawing on the Console\03. Square of Stars\obj\Debug\netcoreapp2.1\03. Square of Stars.pdb

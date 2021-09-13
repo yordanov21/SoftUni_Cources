@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\06. Circle Area and Perimeter\bin\Debug\netcoreapp2.1\06. Circle Area and Perimeter.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\06. Circle Area and Perimeter\bin\Debug\netcoreapp2.1\06. Circle Area and Perimeter.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\06. Circle Area and Perimeter\bin\Debug\netcoreapp2.1\06. Circle Area and Perimeter.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\06. Circle Area and Perimeter\bin\Debug\netcoreapp2.1\06. Circle Area and Perimeter.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\06. Circle Area and Perimeter\bin\Debug\netcoreapp2.1\06. Circle Area and Perimeter.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\06. Circle Area and Perimeter\obj\Debug\netcoreapp2.1\06. Circle Area and Perimeter.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\06. Circle Area and Perimeter\obj\Debug\netcoreapp2.1\06. Circle Area and Perimeter.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\06. Circle Area and Perimeter\obj\Debug\netcoreapp2.1\06. Circle Area and Perimeter.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\06. Circle Area and Perimeter\obj\Debug\netcoreapp2.1\06. Circle Area and Perimeter.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\06. Circle Area and Perimeter\obj\Debug\netcoreapp2.1\06. Circle Area and Perimeter.pdb

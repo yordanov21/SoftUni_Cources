@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\08. Triangle Area\bin\Debug\netcoreapp2.1\08. Triangle Area.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\08. Triangle Area\bin\Debug\netcoreapp2.1\08. Triangle Area.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\08. Triangle Area\bin\Debug\netcoreapp2.1\08. Triangle Area.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\08. Triangle Area\bin\Debug\netcoreapp2.1\08. Triangle Area.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\08. Triangle Area\bin\Debug\netcoreapp2.1\08. Triangle Area.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\08. Triangle Area\obj\Debug\netcoreapp2.1\08. Triangle Area.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\08. Triangle Area\obj\Debug\netcoreapp2.1\08. Triangle Area.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\08. Triangle Area\obj\Debug\netcoreapp2.1\08. Triangle Area.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\08. Triangle Area\obj\Debug\netcoreapp2.1\08. Triangle Area.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\08. Triangle Area\obj\Debug\netcoreapp2.1\08. Triangle Area.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\08. Triangle Area\obj\Debug\netcoreapp2.1\08. Triangle Area.pdb

@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\1-Stadion\bin\Debug\1-Stadion.exe.config
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\1-Stadion\bin\Debug\1-Stadion.exe
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\1-Stadion\bin\Debug\1-Stadion.pdb
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\1-Stadion\obj\Debug\1-Stadion.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\1-Stadion\obj\Debug\1-Stadion.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\1-Stadion\obj\Debug\1-Stadion.exe
+C:\Users\Biser-1\Desktop\programing basic\13-16.04.2019\ExamPreparation\1-Stadion\obj\Debug\1-Stadion.pdb

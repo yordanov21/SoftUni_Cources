@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\09-06.04.2019\For-Loop - Lab\08. Clever Lily\bin\Debug\_08.Clever_Lily.exe.config
+C:\Users\Biser-1\Desktop\programing basic\09-06.04.2019\For-Loop - Lab\08. Clever Lily\bin\Debug\_08.Clever_Lily.exe
+C:\Users\Biser-1\Desktop\programing basic\09-06.04.2019\For-Loop - Lab\08. Clever Lily\bin\Debug\_08.Clever_Lily.pdb
+C:\Users\Biser-1\Desktop\programing basic\09-06.04.2019\For-Loop - Lab\08. Clever Lily\obj\Debug\08. Clever Lily.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\09-06.04.2019\For-Loop - Lab\08. Clever Lily\obj\Debug\_08.Clever_Lily.exe
+C:\Users\Biser-1\Desktop\programing basic\09-06.04.2019\For-Loop - Lab\08. Clever Lily\obj\Debug\_08.Clever_Lily.pdb
+C:\Users\Biser-1\Desktop\programing basic\09-06.04.2019\For-Loop - Lab\08. Clever Lily\obj\Debug\08. Clever Lily.csprojAssemblyReference.cache

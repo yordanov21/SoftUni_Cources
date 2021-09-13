@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\06. Bonus Score\bin\Debug\netcoreapp2.1\06. Bonus Score.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\06. Bonus Score\bin\Debug\netcoreapp2.1\06. Bonus Score.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\06. Bonus Score\bin\Debug\netcoreapp2.1\06. Bonus Score.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\06. Bonus Score\bin\Debug\netcoreapp2.1\06. Bonus Score.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\06. Bonus Score\bin\Debug\netcoreapp2.1\06. Bonus Score.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\06. Bonus Score\obj\Debug\netcoreapp2.1\06. Bonus Score.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\06. Bonus Score\obj\Debug\netcoreapp2.1\06. Bonus Score.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\06. Bonus Score\obj\Debug\netcoreapp2.1\06. Bonus Score.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\06. Bonus Score\obj\Debug\netcoreapp2.1\06. Bonus Score.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\06. Bonus Score\obj\Debug\netcoreapp2.1\06. Bonus Score.pdb

@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\06. Point on Rectangle Border\bin\Debug\netcoreapp2.1\06. Point on Rectangle Border.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\06. Point on Rectangle Border\bin\Debug\netcoreapp2.1\06. Point on Rectangle Border.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\06. Point on Rectangle Border\bin\Debug\netcoreapp2.1\06. Point on Rectangle Border.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\06. Point on Rectangle Border\bin\Debug\netcoreapp2.1\06. Point on Rectangle Border.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\06. Point on Rectangle Border\bin\Debug\netcoreapp2.1\06. Point on Rectangle Border.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\06. Point on Rectangle Border\obj\Debug\netcoreapp2.1\06. Point on Rectangle Border.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\06. Point on Rectangle Border\obj\Debug\netcoreapp2.1\06. Point on Rectangle Border.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\06. Point on Rectangle Border\obj\Debug\netcoreapp2.1\06. Point on Rectangle Border.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\06. Point on Rectangle Border\obj\Debug\netcoreapp2.1\06. Point on Rectangle Border.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\06. Point on Rectangle Border\obj\Debug\netcoreapp2.1\06. Point on Rectangle Border.pdb

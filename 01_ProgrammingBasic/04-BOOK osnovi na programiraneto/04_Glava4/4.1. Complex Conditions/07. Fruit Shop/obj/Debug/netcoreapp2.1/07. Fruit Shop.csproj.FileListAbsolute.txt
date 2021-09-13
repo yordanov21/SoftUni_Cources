@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\07. Fruit Shop\bin\Debug\netcoreapp2.1\07. Fruit Shop.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\07. Fruit Shop\bin\Debug\netcoreapp2.1\07. Fruit Shop.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\07. Fruit Shop\bin\Debug\netcoreapp2.1\07. Fruit Shop.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\07. Fruit Shop\bin\Debug\netcoreapp2.1\07. Fruit Shop.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\07. Fruit Shop\bin\Debug\netcoreapp2.1\07. Fruit Shop.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\07. Fruit Shop\obj\Debug\netcoreapp2.1\07. Fruit Shop.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\07. Fruit Shop\obj\Debug\netcoreapp2.1\07. Fruit Shop.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\07. Fruit Shop\obj\Debug\netcoreapp2.1\07. Fruit Shop.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\07. Fruit Shop\obj\Debug\netcoreapp2.1\07. Fruit Shop.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\07. Fruit Shop\obj\Debug\netcoreapp2.1\07. Fruit Shop.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\07. Fruit Shop\obj\Debug\netcoreapp2.1\07. Fruit Shop.pdb

@@ -1,0 +1,6 @@
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\04. Number 1-9 to Text\obj\Debug\04. Number 1-9 to Text.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\04. Number 1-9 to Text\bin\Debug\_04.Number_1_9_to_Text.exe.config
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\04. Number 1-9 to Text\bin\Debug\_04.Number_1_9_to_Text.exe
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\04. Number 1-9 to Text\bin\Debug\_04.Number_1_9_to_Text.pdb
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\04. Number 1-9 to Text\obj\Debug\_04.Number_1_9_to_Text.exe
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\04. Number 1-9 to Text\obj\Debug\_04.Number_1_9_to_Text.pdb

@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\03-17.03.2019\5.Dance Hall\5.Dance Hall\5.Dance Hall\bin\Debug\5.Dance Hall.exe.config
+C:\Users\Biser-1\Desktop\programing basic\03-17.03.2019\5.Dance Hall\5.Dance Hall\5.Dance Hall\bin\Debug\5.Dance Hall.exe
+C:\Users\Biser-1\Desktop\programing basic\03-17.03.2019\5.Dance Hall\5.Dance Hall\5.Dance Hall\bin\Debug\5.Dance Hall.pdb
+C:\Users\Biser-1\Desktop\programing basic\03-17.03.2019\5.Dance Hall\5.Dance Hall\5.Dance Hall\obj\Debug\5.Dance Hall.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\03-17.03.2019\5.Dance Hall\5.Dance Hall\5.Dance Hall\obj\Debug\5.Dance Hall.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\03-17.03.2019\5.Dance Hall\5.Dance Hall\5.Dance Hall\obj\Debug\5.Dance Hall.exe
+C:\Users\Biser-1\Desktop\programing basic\03-17.03.2019\5.Dance Hall\5.Dance Hall\5.Dance Hall\obj\Debug\5.Dance Hall.pdb

@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\03. Point in Rectangle\bin\Debug\_03.Point_in_Rectangle.exe.config
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\03. Point in Rectangle\bin\Debug\_03.Point_in_Rectangle.exe
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\03. Point in Rectangle\bin\Debug\_03.Point_in_Rectangle.pdb
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\03. Point in Rectangle\obj\Debug\03. Point in Rectangle.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\03. Point in Rectangle\obj\Debug\03. Point in Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\03. Point in Rectangle\obj\Debug\_03.Point_in_Rectangle.exe
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\03. Point in Rectangle\obj\Debug\_03.Point_in_Rectangle.pdb

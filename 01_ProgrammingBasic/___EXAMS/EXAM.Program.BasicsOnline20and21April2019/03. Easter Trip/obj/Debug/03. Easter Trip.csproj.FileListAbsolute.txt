@@ -1,0 +1,6 @@
+C:\Users\Biser-1\source\repos\EXAM.Program.BasicsOnline20and21April2019\03. Easter Trip\bin\Debug\_03.Easter_Trip.exe.config
+C:\Users\Biser-1\source\repos\EXAM.Program.BasicsOnline20and21April2019\03. Easter Trip\bin\Debug\_03.Easter_Trip.exe
+C:\Users\Biser-1\source\repos\EXAM.Program.BasicsOnline20and21April2019\03. Easter Trip\bin\Debug\_03.Easter_Trip.pdb
+C:\Users\Biser-1\source\repos\EXAM.Program.BasicsOnline20and21April2019\03. Easter Trip\obj\Debug\03. Easter Trip.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\source\repos\EXAM.Program.BasicsOnline20and21April2019\03. Easter Trip\obj\Debug\_03.Easter_Trip.exe
+C:\Users\Biser-1\source\repos\EXAM.Program.BasicsOnline20and21April2019\03. Easter Trip\obj\Debug\_03.Easter_Trip.pdb

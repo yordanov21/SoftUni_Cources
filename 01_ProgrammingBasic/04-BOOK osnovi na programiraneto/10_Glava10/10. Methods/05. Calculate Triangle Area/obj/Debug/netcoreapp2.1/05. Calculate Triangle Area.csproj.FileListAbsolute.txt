@@ -1,0 +1,11 @@
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\05. Calculate Triangle Area\bin\Debug\netcoreapp2.1\05. Calculate Triangle Area.deps.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\05. Calculate Triangle Area\bin\Debug\netcoreapp2.1\05. Calculate Triangle Area.runtimeconfig.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\05. Calculate Triangle Area\bin\Debug\netcoreapp2.1\05. Calculate Triangle Area.runtimeconfig.dev.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\05. Calculate Triangle Area\bin\Debug\netcoreapp2.1\05. Calculate Triangle Area.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\05. Calculate Triangle Area\bin\Debug\netcoreapp2.1\05. Calculate Triangle Area.pdb
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\05. Calculate Triangle Area\obj\Debug\netcoreapp2.1\05. Calculate Triangle Area.csprojAssemblyReference.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\05. Calculate Triangle Area\obj\Debug\netcoreapp2.1\05. Calculate Triangle Area.csproj.CoreCompileInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\05. Calculate Triangle Area\obj\Debug\netcoreapp2.1\05. Calculate Triangle Area.AssemblyInfoInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\05. Calculate Triangle Area\obj\Debug\netcoreapp2.1\05. Calculate Triangle Area.AssemblyInfo.cs
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\05. Calculate Triangle Area\obj\Debug\netcoreapp2.1\05. Calculate Triangle Area.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\05. Calculate Triangle Area\obj\Debug\netcoreapp2.1\05. Calculate Triangle Area.pdb

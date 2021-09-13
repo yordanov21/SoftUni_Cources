@@ -1,0 +1,6 @@
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\04. Combination\bin\Debug\_04.Combination.exe.config
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\04. Combination\bin\Debug\_04.Combination.exe
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\04. Combination\bin\Debug\_04.Combination.pdb
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\04. Combination\obj\Debug\04. Combination.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\04. Combination\obj\Debug\_04.Combination.exe
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\04. Combination\obj\Debug\_04.Combination.pdb

@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\03. Change Tiles\bin\Debug\netcoreapp2.1\03. Change Tiles.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\03. Change Tiles\bin\Debug\netcoreapp2.1\03. Change Tiles.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\03. Change Tiles\bin\Debug\netcoreapp2.1\03. Change Tiles.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\03. Change Tiles\bin\Debug\netcoreapp2.1\03. Change Tiles.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\03. Change Tiles\bin\Debug\netcoreapp2.1\03. Change Tiles.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\03. Change Tiles\obj\Debug\netcoreapp2.1\03. Change Tiles.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\03. Change Tiles\obj\Debug\netcoreapp2.1\03. Change Tiles.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\03. Change Tiles\obj\Debug\netcoreapp2.1\03. Change Tiles.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\03. Change Tiles\obj\Debug\netcoreapp2.1\03. Change Tiles.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.2.SimpleCalculations-ExProb\03. Change Tiles\obj\Debug\netcoreapp2.1\03. Change Tiles.pdb

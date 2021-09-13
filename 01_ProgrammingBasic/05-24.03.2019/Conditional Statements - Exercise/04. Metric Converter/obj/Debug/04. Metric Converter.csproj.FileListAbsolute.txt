@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\04. Metric Converter\bin\Debug\_04.Metric_Converter.exe.config
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\04. Metric Converter\bin\Debug\_04.Metric_Converter.exe
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\04. Metric Converter\bin\Debug\_04.Metric_Converter.pdb
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\04. Metric Converter\obj\Debug\04. Metric Converter.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\04. Metric Converter\obj\Debug\04. Metric Converter.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\04. Metric Converter\obj\Debug\_04.Metric_Converter.exe
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\04. Metric Converter\obj\Debug\_04.Metric_Converter.pdb

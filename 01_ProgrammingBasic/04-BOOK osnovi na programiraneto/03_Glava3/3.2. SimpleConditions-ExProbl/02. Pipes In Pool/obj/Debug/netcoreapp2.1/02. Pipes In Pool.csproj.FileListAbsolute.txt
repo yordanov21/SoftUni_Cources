@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.2. SimpleConditions-ExProbl\02. Pipes In Pool\bin\Debug\netcoreapp2.1\02. Pipes In Pool.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.2. SimpleConditions-ExProbl\02. Pipes In Pool\bin\Debug\netcoreapp2.1\02. Pipes In Pool.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.2. SimpleConditions-ExProbl\02. Pipes In Pool\bin\Debug\netcoreapp2.1\02. Pipes In Pool.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.2. SimpleConditions-ExProbl\02. Pipes In Pool\bin\Debug\netcoreapp2.1\02. Pipes In Pool.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.2. SimpleConditions-ExProbl\02. Pipes In Pool\bin\Debug\netcoreapp2.1\02. Pipes In Pool.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.2. SimpleConditions-ExProbl\02. Pipes In Pool\obj\Debug\netcoreapp2.1\02. Pipes In Pool.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.2. SimpleConditions-ExProbl\02. Pipes In Pool\obj\Debug\netcoreapp2.1\02. Pipes In Pool.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.2. SimpleConditions-ExProbl\02. Pipes In Pool\obj\Debug\netcoreapp2.1\02. Pipes In Pool.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.2. SimpleConditions-ExProbl\02. Pipes In Pool\obj\Debug\netcoreapp2.1\02. Pipes In Pool.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.2. SimpleConditions-ExProbl\02. Pipes In Pool\obj\Debug\netcoreapp2.1\02. Pipes In Pool.pdb

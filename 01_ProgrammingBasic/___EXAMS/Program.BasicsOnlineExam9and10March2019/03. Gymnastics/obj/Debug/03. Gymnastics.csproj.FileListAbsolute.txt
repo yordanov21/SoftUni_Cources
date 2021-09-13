@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\Program.BasicsOnlineExam9and10March2019\03. Gymnastics\bin\Debug\_03.Gymnastics.exe.config
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\Program.BasicsOnlineExam9and10March2019\03. Gymnastics\bin\Debug\_03.Gymnastics.exe
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\Program.BasicsOnlineExam9and10March2019\03. Gymnastics\bin\Debug\_03.Gymnastics.pdb
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\Program.BasicsOnlineExam9and10March2019\03. Gymnastics\obj\Debug\03. Gymnastics.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\Program.BasicsOnlineExam9and10March2019\03. Gymnastics\obj\Debug\03. Gymnastics.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\Program.BasicsOnlineExam9and10March2019\03. Gymnastics\obj\Debug\_03.Gymnastics.exe
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\Program.BasicsOnlineExam9and10March2019\03. Gymnastics\obj\Debug\_03.Gymnastics.pdb

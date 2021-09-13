@@ -1,0 +1,6 @@
+C:\Users\Biser-1\Desktop\programing basic\07-30.03.2019\While-Loop - Lab\07. Graduation pt.2\bin\Debug\_07.Graduation_pt._2.exe.config
+C:\Users\Biser-1\Desktop\programing basic\07-30.03.2019\While-Loop - Lab\07. Graduation pt.2\bin\Debug\_07.Graduation_pt._2.exe
+C:\Users\Biser-1\Desktop\programing basic\07-30.03.2019\While-Loop - Lab\07. Graduation pt.2\bin\Debug\_07.Graduation_pt._2.pdb
+C:\Users\Biser-1\Desktop\programing basic\07-30.03.2019\While-Loop - Lab\07. Graduation pt.2\obj\Debug\07. Graduation pt.2.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\07-30.03.2019\While-Loop - Lab\07. Graduation pt.2\obj\Debug\_07.Graduation_pt._2.exe
+C:\Users\Biser-1\Desktop\programing basic\07-30.03.2019\While-Loop - Lab\07. Graduation pt.2\obj\Debug\_07.Graduation_pt._2.pdb

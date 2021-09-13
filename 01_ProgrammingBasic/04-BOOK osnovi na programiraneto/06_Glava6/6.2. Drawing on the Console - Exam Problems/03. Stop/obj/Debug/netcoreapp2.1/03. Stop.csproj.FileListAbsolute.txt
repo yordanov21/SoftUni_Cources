@@ -1,0 +1,10 @@
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\03. Stop\bin\Debug\netcoreapp2.1\03. Stop.deps.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\03. Stop\bin\Debug\netcoreapp2.1\03. Stop.runtimeconfig.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\03. Stop\bin\Debug\netcoreapp2.1\03. Stop.runtimeconfig.dev.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\03. Stop\bin\Debug\netcoreapp2.1\03. Stop.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\03. Stop\bin\Debug\netcoreapp2.1\03. Stop.pdb
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\03. Stop\obj\Debug\netcoreapp2.1\03. Stop.csproj.CoreCompileInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\03. Stop\obj\Debug\netcoreapp2.1\03. Stop.AssemblyInfoInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\03. Stop\obj\Debug\netcoreapp2.1\03. Stop.AssemblyInfo.cs
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\03. Stop\obj\Debug\netcoreapp2.1\03. Stop.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\03. Stop\obj\Debug\netcoreapp2.1\03. Stop.pdb

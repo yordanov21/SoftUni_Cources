@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\01. Numbers Nto1\bin\Debug\_01.Numbers_Nto1.exe.config
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\01. Numbers Nto1\bin\Debug\_01.Numbers_Nto1.exe
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\01. Numbers Nto1\bin\Debug\_01.Numbers_Nto1.pdb
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\01. Numbers Nto1\obj\Debug\01. Numbers Nto1.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\01. Numbers Nto1\obj\Debug\01. Numbers Nto1.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\01. Numbers Nto1\obj\Debug\_01.Numbers_Nto1.exe
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\01. Numbers Nto1\obj\Debug\_01.Numbers_Nto1.pdb

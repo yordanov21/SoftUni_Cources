@@ -1,0 +1,11 @@
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\09_Glava9\9.1. Problems for Champions - Part I\02. Magic Dates\bin\Debug\netcoreapp2.1\02. Magic Dates.deps.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\09_Glava9\9.1. Problems for Champions - Part I\02. Magic Dates\bin\Debug\netcoreapp2.1\02. Magic Dates.runtimeconfig.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\09_Glava9\9.1. Problems for Champions - Part I\02. Magic Dates\bin\Debug\netcoreapp2.1\02. Magic Dates.runtimeconfig.dev.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\09_Glava9\9.1. Problems for Champions - Part I\02. Magic Dates\bin\Debug\netcoreapp2.1\02. Magic Dates.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\09_Glava9\9.1. Problems for Champions - Part I\02. Magic Dates\bin\Debug\netcoreapp2.1\02. Magic Dates.pdb
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\09_Glava9\9.1. Problems for Champions - Part I\02. Magic Dates\obj\Debug\netcoreapp2.1\02. Magic Dates.csprojAssemblyReference.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\09_Glava9\9.1. Problems for Champions - Part I\02. Magic Dates\obj\Debug\netcoreapp2.1\02. Magic Dates.csproj.CoreCompileInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\09_Glava9\9.1. Problems for Champions - Part I\02. Magic Dates\obj\Debug\netcoreapp2.1\02. Magic Dates.AssemblyInfoInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\09_Glava9\9.1. Problems for Champions - Part I\02. Magic Dates\obj\Debug\netcoreapp2.1\02. Magic Dates.AssemblyInfo.cs
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\09_Glava9\9.1. Problems for Champions - Part I\02. Magic Dates\obj\Debug\netcoreapp2.1\02. Magic Dates.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\09_Glava9\9.1. Problems for Champions - Part I\02. Magic Dates\obj\Debug\netcoreapp2.1\02. Magic Dates.pdb

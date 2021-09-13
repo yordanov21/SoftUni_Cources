@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\06. Cinema Tickets\bin\Debug\_06.Cinema_Tickets.exe.config
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\06. Cinema Tickets\bin\Debug\_06.Cinema_Tickets.exe
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\06. Cinema Tickets\bin\Debug\_06.Cinema_Tickets.pdb
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\06. Cinema Tickets\obj\Debug\06. Cinema Tickets.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\06. Cinema Tickets\obj\Debug\06. Cinema Tickets.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\06. Cinema Tickets\obj\Debug\_06.Cinema_Tickets.exe
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\06. Cinema Tickets\obj\Debug\_06.Cinema_Tickets.pdb

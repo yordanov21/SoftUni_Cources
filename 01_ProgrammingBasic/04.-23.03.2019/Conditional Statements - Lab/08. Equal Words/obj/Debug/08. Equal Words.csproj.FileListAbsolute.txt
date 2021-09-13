@@ -1,0 +1,6 @@
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\08. Equal Words\bin\Debug\_08.Equal_Words.exe.config
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\08. Equal Words\bin\Debug\_08.Equal_Words.exe
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\08. Equal Words\bin\Debug\_08.Equal_Words.pdb
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\08. Equal Words\obj\Debug\08. Equal Words.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\08. Equal Words\obj\Debug\_08.Equal_Words.exe
+C:\Users\Biser-1\Desktop\programing basic\04.-23.03.2019\Conditional Statements - Lab\08. Equal Words\obj\Debug\_08.Equal_Words.pdb

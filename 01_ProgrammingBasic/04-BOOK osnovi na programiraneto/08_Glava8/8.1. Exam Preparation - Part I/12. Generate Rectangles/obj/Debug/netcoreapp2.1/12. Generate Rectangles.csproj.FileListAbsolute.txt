@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\12. Generate Rectangles\bin\Debug\netcoreapp2.1\12. Generate Rectangles.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\12. Generate Rectangles\bin\Debug\netcoreapp2.1\12. Generate Rectangles.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\12. Generate Rectangles\bin\Debug\netcoreapp2.1\12. Generate Rectangles.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\12. Generate Rectangles\bin\Debug\netcoreapp2.1\12. Generate Rectangles.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\12. Generate Rectangles\bin\Debug\netcoreapp2.1\12. Generate Rectangles.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\12. Generate Rectangles\obj\Debug\netcoreapp2.1\12. Generate Rectangles.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\12. Generate Rectangles\obj\Debug\netcoreapp2.1\12. Generate Rectangles.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\12. Generate Rectangles\obj\Debug\netcoreapp2.1\12. Generate Rectangles.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\12. Generate Rectangles\obj\Debug\netcoreapp2.1\12. Generate Rectangles.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\12. Generate Rectangles\obj\Debug\netcoreapp2.1\12. Generate Rectangles.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\12. Generate Rectangles\obj\Debug\netcoreapp2.1\12. Generate Rectangles.pdb

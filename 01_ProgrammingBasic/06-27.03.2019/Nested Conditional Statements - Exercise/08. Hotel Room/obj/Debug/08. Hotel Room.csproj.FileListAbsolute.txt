@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\08. Hotel Room\obj\Debug\08. Hotel Room.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\08. Hotel Room\obj\Debug\08. Hotel Room.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\08. Hotel Room\bin\Debug\_08.Hotel_Room.exe.config
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\08. Hotel Room\bin\Debug\_08.Hotel_Room.exe
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\08. Hotel Room\bin\Debug\_08.Hotel_Room.pdb
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\08. Hotel Room\obj\Debug\_08.Hotel_Room.exe
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Exercise\08. Hotel Room\obj\Debug\_08.Hotel_Room.pdb

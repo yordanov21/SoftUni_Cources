@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\02. Small Shop\bin\Debug\netcoreapp2.1\02. Small Shop.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\02. Small Shop\bin\Debug\netcoreapp2.1\02. Small Shop.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\02. Small Shop\bin\Debug\netcoreapp2.1\02. Small Shop.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\02. Small Shop\bin\Debug\netcoreapp2.1\02. Small Shop.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\02. Small Shop\bin\Debug\netcoreapp2.1\02. Small Shop.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\02. Small Shop\obj\Debug\netcoreapp2.1\02. Small Shop.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\02. Small Shop\obj\Debug\netcoreapp2.1\02. Small Shop.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\02. Small Shop\obj\Debug\netcoreapp2.1\02. Small Shop.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\02. Small Shop\obj\Debug\netcoreapp2.1\02. Small Shop.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\02. Small Shop\obj\Debug\netcoreapp2.1\02. Small Shop.pdb

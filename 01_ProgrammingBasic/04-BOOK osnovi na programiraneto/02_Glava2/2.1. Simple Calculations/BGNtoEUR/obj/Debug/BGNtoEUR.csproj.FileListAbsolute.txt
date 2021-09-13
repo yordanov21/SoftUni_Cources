@@ -1,0 +1,9 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\BGNtoEUR\bin\Debug\BGNtoEUR.exe.config
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\BGNtoEUR\bin\Debug\BGNtoEUR.exe
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\BGNtoEUR\bin\Debug\BGNtoEUR.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\BGNtoEUR\obj\Debug\BGNtoEUR.Form1.resources
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\BGNtoEUR\obj\Debug\BGNtoEUR.Properties.Resources.resources
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\BGNtoEUR\obj\Debug\BGNtoEUR.csproj.GenerateResource.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\BGNtoEUR\obj\Debug\BGNtoEUR.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\BGNtoEUR\obj\Debug\BGNtoEUR.exe
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\BGNtoEUR\obj\Debug\BGNtoEUR.pdb

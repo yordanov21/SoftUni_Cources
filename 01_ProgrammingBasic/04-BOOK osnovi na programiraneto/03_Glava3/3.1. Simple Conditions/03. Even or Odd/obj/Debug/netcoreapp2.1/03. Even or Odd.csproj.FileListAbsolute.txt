@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\03. Even or Odd\bin\Debug\netcoreapp2.1\03. Even or Odd.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\03. Even or Odd\bin\Debug\netcoreapp2.1\03. Even or Odd.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\03. Even or Odd\bin\Debug\netcoreapp2.1\03. Even or Odd.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\03. Even or Odd\bin\Debug\netcoreapp2.1\03. Even or Odd.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\03. Even or Odd\bin\Debug\netcoreapp2.1\03. Even or Odd.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\03. Even or Odd\obj\Debug\netcoreapp2.1\03. Even or Odd.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\03. Even or Odd\obj\Debug\netcoreapp2.1\03. Even or Odd.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\03. Even or Odd\obj\Debug\netcoreapp2.1\03. Even or Odd.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\03. Even or Odd\obj\Debug\netcoreapp2.1\03. Even or Odd.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\03. Even or Odd\obj\Debug\netcoreapp2.1\03. Even or Odd.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\03_Glava3\3.1. Simple Conditions\03. Even or Odd\obj\Debug\netcoreapp2.1\03. Even or Odd.pdb

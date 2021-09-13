@@ -1,0 +1,6 @@
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\Program.BasicsOnlineExam9and10March2019\02. Football Results\bin\Debug\_02.Football_Results.exe.config
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\Program.BasicsOnlineExam9and10March2019\02. Football Results\bin\Debug\_02.Football_Results.exe
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\Program.BasicsOnlineExam9and10March2019\02. Football Results\bin\Debug\_02.Football_Results.pdb
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\Program.BasicsOnlineExam9and10March2019\02. Football Results\obj\Debug\02. Football Results.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\Program.BasicsOnlineExam9and10March2019\02. Football Results\obj\Debug\_02.Football_Results.exe
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\Program.BasicsOnlineExam9and10March2019\02. Football Results\obj\Debug\_02.Football_Results.pdb

@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\08.Celsium to fahrenheit\08.Celsium to fahrenheit\08.Celsium to fahrenheit\bin\Debug\08.Celsium to fahrenheit.exe.config
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\08.Celsium to fahrenheit\08.Celsium to fahrenheit\08.Celsium to fahrenheit\bin\Debug\08.Celsium to fahrenheit.exe
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\08.Celsium to fahrenheit\08.Celsium to fahrenheit\08.Celsium to fahrenheit\bin\Debug\08.Celsium to fahrenheit.pdb
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\08.Celsium to fahrenheit\08.Celsium to fahrenheit\08.Celsium to fahrenheit\obj\Debug\08.Celsium to fahrenheit.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\08.Celsium to fahrenheit\08.Celsium to fahrenheit\08.Celsium to fahrenheit\obj\Debug\08.Celsium to fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\08.Celsium to fahrenheit\08.Celsium to fahrenheit\08.Celsium to fahrenheit\obj\Debug\08.Celsium to fahrenheit.exe
+C:\Users\Biser-1\Desktop\programing basic\02-16.03.2019\08.Celsium to fahrenheit\08.Celsium to fahrenheit\08.Celsium to fahrenheit\obj\Debug\08.Celsium to fahrenheit.pdb

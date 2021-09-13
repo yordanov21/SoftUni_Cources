@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\Program.BasicsOnlineExam9and10March2019\01. Basketball Equipment\bin\Debug\_01.Basketball_Equipment.exe.config
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\Program.BasicsOnlineExam9and10March2019\01. Basketball Equipment\bin\Debug\_01.Basketball_Equipment.exe
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\Program.BasicsOnlineExam9and10March2019\01. Basketball Equipment\bin\Debug\_01.Basketball_Equipment.pdb
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\Program.BasicsOnlineExam9and10March2019\01. Basketball Equipment\obj\Debug\01. Basketball Equipment.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\Program.BasicsOnlineExam9and10March2019\01. Basketball Equipment\obj\Debug\01. Basketball Equipment.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\Program.BasicsOnlineExam9and10March2019\01. Basketball Equipment\obj\Debug\_01.Basketball_Equipment.exe
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\Program.BasicsOnlineExam9and10March2019\01. Basketball Equipment\obj\Debug\_01.Basketball_Equipment.pdb

@@ -1,0 +1,6 @@
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\09. Magic Numbers\bin\Debug\_09.Magic_Numbers.exe.config
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\09. Magic Numbers\bin\Debug\_09.Magic_Numbers.exe
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\09. Magic Numbers\bin\Debug\_09.Magic_Numbers.pdb
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\09. Magic Numbers\obj\Debug\09. Magic Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\09. Magic Numbers\obj\Debug\_09.Magic_Numbers.exe
+C:\Users\Biser-1\Desktop\programing basic\11-13.04.2019\Nested Loops - Lab\09. Magic Numbers\obj\Debug\_09.Magic_Numbers.pdb

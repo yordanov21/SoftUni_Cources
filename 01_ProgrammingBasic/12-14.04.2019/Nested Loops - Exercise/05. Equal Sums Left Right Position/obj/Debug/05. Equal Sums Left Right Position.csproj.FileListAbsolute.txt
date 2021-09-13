@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\12-14.04.2019\Nested Loops - Exercise\05. Equal Sums Left Right Position\bin\Debug\_05.Equal_Sums_Left_Right_Position.exe.config
+C:\Users\Biser-1\Desktop\programing basic\12-14.04.2019\Nested Loops - Exercise\05. Equal Sums Left Right Position\bin\Debug\_05.Equal_Sums_Left_Right_Position.exe
+C:\Users\Biser-1\Desktop\programing basic\12-14.04.2019\Nested Loops - Exercise\05. Equal Sums Left Right Position\bin\Debug\_05.Equal_Sums_Left_Right_Position.pdb
+C:\Users\Biser-1\Desktop\programing basic\12-14.04.2019\Nested Loops - Exercise\05. Equal Sums Left Right Position\obj\Debug\05. Equal Sums Left Right Position.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\12-14.04.2019\Nested Loops - Exercise\05. Equal Sums Left Right Position\obj\Debug\05. Equal Sums Left Right Position.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\12-14.04.2019\Nested Loops - Exercise\05. Equal Sums Left Right Position\obj\Debug\_05.Equal_Sums_Left_Right_Position.exe
+C:\Users\Biser-1\Desktop\programing basic\12-14.04.2019\Nested Loops - Exercise\05. Equal Sums Left Right Position\obj\Debug\_05.Equal_Sums_Left_Right_Position.pdb

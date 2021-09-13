@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\02. Godzilla vs. Kong\bin\Debug\_02.Godzilla_vs.Kong.exe.config
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\02. Godzilla vs. Kong\bin\Debug\_02.Godzilla_vs.Kong.exe
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\02. Godzilla vs. Kong\bin\Debug\_02.Godzilla_vs.Kong.pdb
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\02. Godzilla vs. Kong\obj\Debug\02. Godzilla vs. Kong.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\02. Godzilla vs. Kong\obj\Debug\02. Godzilla vs. Kong.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\02. Godzilla vs. Kong\obj\Debug\_02.Godzilla_vs.Kong.exe
+C:\Users\Biser-1\Desktop\programing basic\___EXAMS\ProgrammingBasicsOnlineExam6and7April2019\02. Godzilla vs. Kong\obj\Debug\_02.Godzilla_vs.Kong.pdb

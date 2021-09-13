@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\08-31.03.2019\While-Loop - Exercise\2. Exam Preparation\bin\Debug\_2.Exam_Preparation.exe.config
+C:\Users\Biser-1\Desktop\programing basic\08-31.03.2019\While-Loop - Exercise\2. Exam Preparation\bin\Debug\_2.Exam_Preparation.exe
+C:\Users\Biser-1\Desktop\programing basic\08-31.03.2019\While-Loop - Exercise\2. Exam Preparation\bin\Debug\_2.Exam_Preparation.pdb
+C:\Users\Biser-1\Desktop\programing basic\08-31.03.2019\While-Loop - Exercise\2. Exam Preparation\obj\Debug\2. Exam Preparation.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\08-31.03.2019\While-Loop - Exercise\2. Exam Preparation\obj\Debug\2. Exam Preparation.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\08-31.03.2019\While-Loop - Exercise\2. Exam Preparation\obj\Debug\_2.Exam_Preparation.exe
+C:\Users\Biser-1\Desktop\programing basic\08-31.03.2019\While-Loop - Exercise\2. Exam Preparation\obj\Debug\_2.Exam_Preparation.pdb

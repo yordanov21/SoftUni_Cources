@@ -1,0 +1,10 @@
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\10. String Repeater\bin\Debug\netcoreapp2.1\10. String Repeater.deps.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\10. String Repeater\bin\Debug\netcoreapp2.1\10. String Repeater.runtimeconfig.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\10. String Repeater\bin\Debug\netcoreapp2.1\10. String Repeater.runtimeconfig.dev.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\10. String Repeater\bin\Debug\netcoreapp2.1\10. String Repeater.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\10. String Repeater\bin\Debug\netcoreapp2.1\10. String Repeater.pdb
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\10. String Repeater\obj\Debug\netcoreapp2.1\10. String Repeater.csproj.CoreCompileInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\10. String Repeater\obj\Debug\netcoreapp2.1\10. String Repeater.AssemblyInfoInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\10. String Repeater\obj\Debug\netcoreapp2.1\10. String Repeater.AssemblyInfo.cs
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\10. String Repeater\obj\Debug\netcoreapp2.1\10. String Repeater.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\10. String Repeater\obj\Debug\netcoreapp2.1\10. String Repeater.pdb

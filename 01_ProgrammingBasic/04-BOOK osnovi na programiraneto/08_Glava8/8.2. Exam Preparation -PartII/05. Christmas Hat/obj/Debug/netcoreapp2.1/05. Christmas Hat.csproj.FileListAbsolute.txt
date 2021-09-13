@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\05. Christmas Hat\bin\Debug\netcoreapp2.1\05. Christmas Hat.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\05. Christmas Hat\bin\Debug\netcoreapp2.1\05. Christmas Hat.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\05. Christmas Hat\bin\Debug\netcoreapp2.1\05. Christmas Hat.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\05. Christmas Hat\bin\Debug\netcoreapp2.1\05. Christmas Hat.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\05. Christmas Hat\bin\Debug\netcoreapp2.1\05. Christmas Hat.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\05. Christmas Hat\obj\Debug\netcoreapp2.1\05. Christmas Hat.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\05. Christmas Hat\obj\Debug\netcoreapp2.1\05. Christmas Hat.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\05. Christmas Hat\obj\Debug\netcoreapp2.1\05. Christmas Hat.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\05. Christmas Hat\obj\Debug\netcoreapp2.1\05. Christmas Hat.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.2. Exam Preparation -PartII\05. Christmas Hat\obj\Debug\netcoreapp2.1\05. Christmas Hat.pdb

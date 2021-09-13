@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\12. Currency Converter\bin\Debug\netcoreapp2.1\12. Currency Converter.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\12. Currency Converter\bin\Debug\netcoreapp2.1\12. Currency Converter.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\12. Currency Converter\bin\Debug\netcoreapp2.1\12. Currency Converter.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\12. Currency Converter\bin\Debug\netcoreapp2.1\12. Currency Converter.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\12. Currency Converter\bin\Debug\netcoreapp2.1\12. Currency Converter.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\12. Currency Converter\obj\Debug\netcoreapp2.1\12. Currency Converter.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\12. Currency Converter\obj\Debug\netcoreapp2.1\12. Currency Converter.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\12. Currency Converter\obj\Debug\netcoreapp2.1\12. Currency Converter.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\12. Currency Converter\obj\Debug\netcoreapp2.1\12. Currency Converter.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\12. Currency Converter\obj\Debug\netcoreapp2.1\12. Currency Converter.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\12. Currency Converter\obj\Debug\netcoreapp2.1\12. Currency Converter.pdb

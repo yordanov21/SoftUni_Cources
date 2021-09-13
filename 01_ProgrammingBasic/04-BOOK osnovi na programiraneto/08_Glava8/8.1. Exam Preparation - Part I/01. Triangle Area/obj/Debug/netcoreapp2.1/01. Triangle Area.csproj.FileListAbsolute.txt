@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\01. Triangle Area\bin\Debug\netcoreapp2.1\01. Triangle Area.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\01. Triangle Area\bin\Debug\netcoreapp2.1\01. Triangle Area.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\01. Triangle Area\bin\Debug\netcoreapp2.1\01. Triangle Area.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\01. Triangle Area\bin\Debug\netcoreapp2.1\01. Triangle Area.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\01. Triangle Area\bin\Debug\netcoreapp2.1\01. Triangle Area.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\01. Triangle Area\obj\Debug\netcoreapp2.1\01. Triangle Area.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\01. Triangle Area\obj\Debug\netcoreapp2.1\01. Triangle Area.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\01. Triangle Area\obj\Debug\netcoreapp2.1\01. Triangle Area.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\01. Triangle Area\obj\Debug\netcoreapp2.1\01. Triangle Area.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\01. Triangle Area\obj\Debug\netcoreapp2.1\01. Triangle Area.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\08_Glava8\8.1. Exam Preparation - Part I\01. Triangle Area\obj\Debug\netcoreapp2.1\01. Triangle Area.pdb

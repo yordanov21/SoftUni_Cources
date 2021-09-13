@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\04. Fruit or Vegetable\bin\Debug\netcoreapp2.1\04. Fruit or Vegetable.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\04. Fruit or Vegetable\bin\Debug\netcoreapp2.1\04. Fruit or Vegetable.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\04. Fruit or Vegetable\bin\Debug\netcoreapp2.1\04. Fruit or Vegetable.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\04. Fruit or Vegetable\bin\Debug\netcoreapp2.1\04. Fruit or Vegetable.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\04. Fruit or Vegetable\bin\Debug\netcoreapp2.1\04. Fruit or Vegetable.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\04. Fruit or Vegetable\obj\Debug\netcoreapp2.1\04. Fruit or Vegetable.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\04. Fruit or Vegetable\obj\Debug\netcoreapp2.1\04. Fruit or Vegetable.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\04. Fruit or Vegetable\obj\Debug\netcoreapp2.1\04. Fruit or Vegetable.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\04. Fruit or Vegetable\obj\Debug\netcoreapp2.1\04. Fruit or Vegetable.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\04. Fruit or Vegetable\obj\Debug\netcoreapp2.1\04. Fruit or Vegetable.pdb

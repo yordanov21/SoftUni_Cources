@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\08. Ski Trip\bin\Debug\_08.Ski_Trip.exe.config
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\08. Ski Trip\bin\Debug\_08.Ski_Trip.exe
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\08. Ski Trip\bin\Debug\_08.Ski_Trip.pdb
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\08. Ski Trip\obj\Debug\08. Ski Trip.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\08. Ski Trip\obj\Debug\08. Ski Trip.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\08. Ski Trip\obj\Debug\_08.Ski_Trip.exe
+C:\Users\Biser-1\Desktop\programing basic\06-27.03.2019\Nested Conditional Statements - Lab\08. Ski Trip\obj\Debug\_08.Ski_Trip.pdb

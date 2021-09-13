@@ -1,0 +1,11 @@
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\13. Notifications\bin\Debug\netcoreapp2.1\13. Notifications.deps.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\13. Notifications\bin\Debug\netcoreapp2.1\13. Notifications.runtimeconfig.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\13. Notifications\bin\Debug\netcoreapp2.1\13. Notifications.runtimeconfig.dev.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\13. Notifications\bin\Debug\netcoreapp2.1\13. Notifications.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\13. Notifications\bin\Debug\netcoreapp2.1\13. Notifications.pdb
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\13. Notifications\obj\Debug\netcoreapp2.1\13. Notifications.csprojAssemblyReference.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\13. Notifications\obj\Debug\netcoreapp2.1\13. Notifications.csproj.CoreCompileInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\13. Notifications\obj\Debug\netcoreapp2.1\13. Notifications.AssemblyInfoInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\13. Notifications\obj\Debug\netcoreapp2.1\13. Notifications.AssemblyInfo.cs
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\13. Notifications\obj\Debug\netcoreapp2.1\13. Notifications.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\10_Glava10\10. Methods\13. Notifications\obj\Debug\netcoreapp2.1\13. Notifications.pdb

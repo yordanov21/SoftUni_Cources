@@ -1,0 +1,11 @@
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\02. Butterfly\obj\Debug\netcoreapp2.1\02. Butterfly.csprojAssemblyReference.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\02. Butterfly\obj\Debug\netcoreapp2.1\02. Butterfly.csproj.CoreCompileInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\02. Butterfly\obj\Debug\netcoreapp2.1\02. Butterfly.AssemblyInfoInputs.cache
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\02. Butterfly\obj\Debug\netcoreapp2.1\02. Butterfly.AssemblyInfo.cs
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\02. Butterfly\bin\Debug\netcoreapp2.1\02. Butterfly.deps.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\02. Butterfly\bin\Debug\netcoreapp2.1\02. Butterfly.runtimeconfig.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\02. Butterfly\bin\Debug\netcoreapp2.1\02. Butterfly.runtimeconfig.dev.json
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\02. Butterfly\bin\Debug\netcoreapp2.1\02. Butterfly.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\02. Butterfly\bin\Debug\netcoreapp2.1\02. Butterfly.pdb
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\02. Butterfly\obj\Debug\netcoreapp2.1\02. Butterfly.dll
+E:\01_SoftUni\01_ProgrammingBasic\04-BOOK osnovi na programiraneto\06_Glava6\6.2. Drawing on the Console - Exam Problems\02. Butterfly\obj\Debug\netcoreapp2.1\02. Butterfly.pdb

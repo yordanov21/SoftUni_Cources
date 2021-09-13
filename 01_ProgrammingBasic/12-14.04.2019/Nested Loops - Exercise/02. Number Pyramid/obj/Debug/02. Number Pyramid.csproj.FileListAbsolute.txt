@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\12-14.04.2019\Nested Loops - Exercise\02. Number Pyramid\bin\Debug\_02.Number_Pyramid.exe.config
+C:\Users\Biser-1\Desktop\programing basic\12-14.04.2019\Nested Loops - Exercise\02. Number Pyramid\bin\Debug\_02.Number_Pyramid.exe
+C:\Users\Biser-1\Desktop\programing basic\12-14.04.2019\Nested Loops - Exercise\02. Number Pyramid\bin\Debug\_02.Number_Pyramid.pdb
+C:\Users\Biser-1\Desktop\programing basic\12-14.04.2019\Nested Loops - Exercise\02. Number Pyramid\obj\Debug\02. Number Pyramid.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\12-14.04.2019\Nested Loops - Exercise\02. Number Pyramid\obj\Debug\02. Number Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\12-14.04.2019\Nested Loops - Exercise\02. Number Pyramid\obj\Debug\_02.Number_Pyramid.exe
+C:\Users\Biser-1\Desktop\programing basic\12-14.04.2019\Nested Loops - Exercise\02. Number Pyramid\obj\Debug\_02.Number_Pyramid.pdb

@@ -1,0 +1,6 @@
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\03. Speed Info\bin\Debug\_03.Speed_Info.exe.config
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\03. Speed Info\bin\Debug\_03.Speed_Info.exe
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\03. Speed Info\bin\Debug\_03.Speed_Info.pdb
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\03. Speed Info\obj\Debug\03. Speed Info.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\03. Speed Info\obj\Debug\_03.Speed_Info.exe
+C:\Users\Biser-1\Desktop\programing basic\05-24.03.2019\Conditional Statements - Exercise\03. Speed Info\obj\Debug\_03.Speed_Info.pdb

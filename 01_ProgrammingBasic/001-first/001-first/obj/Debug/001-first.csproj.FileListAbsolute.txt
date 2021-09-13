@@ -1,0 +1,15 @@
+C:\Users\Biser-1\Desktop\programing basic\001-first\001-first\bin\Debug\001-first.exe.config
+C:\Users\Biser-1\Desktop\programing basic\001-first\001-first\bin\Debug\001-first.exe
+C:\Users\Biser-1\Desktop\programing basic\001-first\001-first\bin\Debug\001-first.pdb
+C:\Users\Biser-1\Desktop\programing basic\001-first\001-first\obj\Debug\001-first.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\001-first\001-first\obj\Debug\MainWindow.g.cs
+C:\Users\Biser-1\Desktop\programing basic\001-first\001-first\obj\Debug\App.g.cs
+C:\Users\Biser-1\Desktop\programing basic\001-first\001-first\obj\Debug\001-first_MarkupCompile.cache
+C:\Users\Biser-1\Desktop\programing basic\001-first\001-first\obj\Debug\001-first_MarkupCompile.lref
+C:\Users\Biser-1\Desktop\programing basic\001-first\001-first\obj\Debug\MainWindow.baml
+C:\Users\Biser-1\Desktop\programing basic\001-first\001-first\obj\Debug\001-first.g.resources
+C:\Users\Biser-1\Desktop\programing basic\001-first\001-first\obj\Debug\_001_first.Properties.Resources.resources
+C:\Users\Biser-1\Desktop\programing basic\001-first\001-first\obj\Debug\001-first.csproj.GenerateResource.cache
+C:\Users\Biser-1\Desktop\programing basic\001-first\001-first\obj\Debug\001-first.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\001-first\001-first\obj\Debug\001-first.exe
+C:\Users\Biser-1\Desktop\programing basic\001-first\001-first\obj\Debug\001-first.pdb

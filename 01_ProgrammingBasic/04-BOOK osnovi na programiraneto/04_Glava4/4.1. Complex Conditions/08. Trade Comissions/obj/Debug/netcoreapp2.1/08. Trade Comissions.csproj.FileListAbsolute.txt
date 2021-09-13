@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\08. Trade Comissions\bin\Debug\netcoreapp2.1\08. Trade Comissions.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\08. Trade Comissions\bin\Debug\netcoreapp2.1\08. Trade Comissions.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\08. Trade Comissions\bin\Debug\netcoreapp2.1\08. Trade Comissions.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\08. Trade Comissions\bin\Debug\netcoreapp2.1\08. Trade Comissions.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\08. Trade Comissions\bin\Debug\netcoreapp2.1\08. Trade Comissions.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\08. Trade Comissions\obj\Debug\netcoreapp2.1\08. Trade Comissions.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\08. Trade Comissions\obj\Debug\netcoreapp2.1\08. Trade Comissions.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\08. Trade Comissions\obj\Debug\netcoreapp2.1\08. Trade Comissions.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\08. Trade Comissions\obj\Debug\netcoreapp2.1\08. Trade Comissions.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\04_Glava4\4.1. Complex Conditions\08. Trade Comissions\obj\Debug\netcoreapp2.1\08. Trade Comissions.pdb

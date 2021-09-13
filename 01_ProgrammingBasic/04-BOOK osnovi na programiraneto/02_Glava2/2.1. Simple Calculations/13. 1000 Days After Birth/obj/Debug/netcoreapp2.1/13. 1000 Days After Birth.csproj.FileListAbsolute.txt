@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\13. 1000 Days After Birth\bin\Debug\netcoreapp2.1\13. 1000 Days After Birth.deps.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\13. 1000 Days After Birth\bin\Debug\netcoreapp2.1\13. 1000 Days After Birth.runtimeconfig.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\13. 1000 Days After Birth\bin\Debug\netcoreapp2.1\13. 1000 Days After Birth.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\13. 1000 Days After Birth\bin\Debug\netcoreapp2.1\13. 1000 Days After Birth.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\13. 1000 Days After Birth\bin\Debug\netcoreapp2.1\13. 1000 Days After Birth.pdb
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\13. 1000 Days After Birth\obj\Debug\netcoreapp2.1\13. 1000 Days After Birth.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\13. 1000 Days After Birth\obj\Debug\netcoreapp2.1\13. 1000 Days After Birth.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\13. 1000 Days After Birth\obj\Debug\netcoreapp2.1\13. 1000 Days After Birth.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\13. 1000 Days After Birth\obj\Debug\netcoreapp2.1\13. 1000 Days After Birth.dll
+C:\Users\Dancho\Desktop\programmingBasic\04-BOOK osnovi na programiraneto\02_Glava2\2.1. Simple Calculations\13. 1000 Days After Birth\obj\Debug\netcoreapp2.1\13. 1000 Days After Birth.pdb

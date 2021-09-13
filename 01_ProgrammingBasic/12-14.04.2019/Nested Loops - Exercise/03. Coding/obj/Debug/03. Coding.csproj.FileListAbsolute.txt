@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\programing basic\12-14.04.2019\Nested Loops - Exercise\03. Coding\bin\Debug\_03.Coding.exe.config
+C:\Users\Biser-1\Desktop\programing basic\12-14.04.2019\Nested Loops - Exercise\03. Coding\bin\Debug\_03.Coding.exe
+C:\Users\Biser-1\Desktop\programing basic\12-14.04.2019\Nested Loops - Exercise\03. Coding\bin\Debug\_03.Coding.pdb
+C:\Users\Biser-1\Desktop\programing basic\12-14.04.2019\Nested Loops - Exercise\03. Coding\obj\Debug\03. Coding.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\programing basic\12-14.04.2019\Nested Loops - Exercise\03. Coding\obj\Debug\03. Coding.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\programing basic\12-14.04.2019\Nested Loops - Exercise\03. Coding\obj\Debug\_03.Coding.exe
+C:\Users\Biser-1\Desktop\programing basic\12-14.04.2019\Nested Loops - Exercise\03. Coding\obj\Debug\_03.Coding.pdb
