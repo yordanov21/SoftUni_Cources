@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\04. Text Filter\bin\Debug\netcoreapp2.1\04. Text Filter.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\04. Text Filter\bin\Debug\netcoreapp2.1\04. Text Filter.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\04. Text Filter\bin\Debug\netcoreapp2.1\04. Text Filter.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\04. Text Filter\bin\Debug\netcoreapp2.1\04. Text Filter.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\04. Text Filter\bin\Debug\netcoreapp2.1\04. Text Filter.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\04. Text Filter\obj\Debug\netcoreapp2.1\04. Text Filter.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\04. Text Filter\obj\Debug\netcoreapp2.1\04. Text Filter.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\04. Text Filter\obj\Debug\netcoreapp2.1\04. Text Filter.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\04. Text Filter\obj\Debug\netcoreapp2.1\04. Text Filter.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\04. Text Filter\obj\Debug\netcoreapp2.1\04. Text Filter.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\04. Text Filter\obj\Debug\netcoreapp2.1\04. Text Filter.pdb

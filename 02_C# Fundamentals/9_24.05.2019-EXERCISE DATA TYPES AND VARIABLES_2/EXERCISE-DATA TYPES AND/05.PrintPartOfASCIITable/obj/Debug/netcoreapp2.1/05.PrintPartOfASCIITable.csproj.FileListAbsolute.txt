@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\05.PrintPartOfASCIITable\bin\Debug\netcoreapp2.1\05.PrintPartOfASCIITable.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\05.PrintPartOfASCIITable\bin\Debug\netcoreapp2.1\05.PrintPartOfASCIITable.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\05.PrintPartOfASCIITable\bin\Debug\netcoreapp2.1\05.PrintPartOfASCIITable.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\05.PrintPartOfASCIITable\bin\Debug\netcoreapp2.1\05.PrintPartOfASCIITable.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\05.PrintPartOfASCIITable\bin\Debug\netcoreapp2.1\05.PrintPartOfASCIITable.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\05.PrintPartOfASCIITable\obj\Debug\netcoreapp2.1\05.PrintPartOfASCIITable.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\05.PrintPartOfASCIITable\obj\Debug\netcoreapp2.1\05.PrintPartOfASCIITable.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\05.PrintPartOfASCIITable\obj\Debug\netcoreapp2.1\05.PrintPartOfASCIITable.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\05.PrintPartOfASCIITable\obj\Debug\netcoreapp2.1\05.PrintPartOfASCIITable.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\05.PrintPartOfASCIITable\obj\Debug\netcoreapp2.1\05.PrintPartOfASCIITable.pdb

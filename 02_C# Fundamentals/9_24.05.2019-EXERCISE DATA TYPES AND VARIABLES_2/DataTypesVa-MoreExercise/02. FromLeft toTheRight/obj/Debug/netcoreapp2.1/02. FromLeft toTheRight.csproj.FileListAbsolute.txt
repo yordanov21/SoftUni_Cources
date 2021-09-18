@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\02. FromLeft toTheRight\bin\Debug\netcoreapp2.1\02. FromLeft toTheRight.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\02. FromLeft toTheRight\bin\Debug\netcoreapp2.1\02. FromLeft toTheRight.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\02. FromLeft toTheRight\bin\Debug\netcoreapp2.1\02. FromLeft toTheRight.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\02. FromLeft toTheRight\bin\Debug\netcoreapp2.1\02. FromLeft toTheRight.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\02. FromLeft toTheRight\bin\Debug\netcoreapp2.1\02. FromLeft toTheRight.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\02. FromLeft toTheRight\obj\Debug\netcoreapp2.1\02. FromLeft toTheRight.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\02. FromLeft toTheRight\obj\Debug\netcoreapp2.1\02. FromLeft toTheRight.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\02. FromLeft toTheRight\obj\Debug\netcoreapp2.1\02. FromLeft toTheRight.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\02. FromLeft toTheRight\obj\Debug\netcoreapp2.1\02. FromLeft toTheRight.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\02. FromLeft toTheRight\obj\Debug\netcoreapp2.1\02. FromLeft toTheRight.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\02. FromLeft toTheRight\obj\Debug\netcoreapp2.1\02. FromLeft toTheRight.csprojAssemblyReference.cache

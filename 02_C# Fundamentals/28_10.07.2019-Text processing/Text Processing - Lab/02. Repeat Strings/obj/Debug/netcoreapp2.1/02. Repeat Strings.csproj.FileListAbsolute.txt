@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\02. Repeat Strings\bin\Debug\netcoreapp2.1\02. Repeat Strings.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\02. Repeat Strings\bin\Debug\netcoreapp2.1\02. Repeat Strings.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\02. Repeat Strings\bin\Debug\netcoreapp2.1\02. Repeat Strings.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\02. Repeat Strings\bin\Debug\netcoreapp2.1\02. Repeat Strings.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\02. Repeat Strings\bin\Debug\netcoreapp2.1\02. Repeat Strings.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp2.1\02. Repeat Strings.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp2.1\02. Repeat Strings.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp2.1\02. Repeat Strings.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp2.1\02. Repeat Strings.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp2.1\02. Repeat Strings.pdb

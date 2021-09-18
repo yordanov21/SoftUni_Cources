@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\netcoreapp2.1\05. Digits, Letters and Other.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\netcoreapp2.1\05. Digits, Letters and Other.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\netcoreapp2.1\05. Digits, Letters and Other.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\netcoreapp2.1\05. Digits, Letters and Other.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\netcoreapp2.1\05. Digits, Letters and Other.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp2.1\05. Digits, Letters and Other.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp2.1\05. Digits, Letters and Other.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp2.1\05. Digits, Letters and Other.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp2.1\05. Digits, Letters and Other.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp2.1\05. Digits, Letters and Other.pdb

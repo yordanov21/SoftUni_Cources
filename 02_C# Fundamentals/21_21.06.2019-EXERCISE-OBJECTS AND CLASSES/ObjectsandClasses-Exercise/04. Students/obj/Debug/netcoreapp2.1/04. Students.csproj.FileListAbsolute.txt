@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\04. Students\bin\Debug\netcoreapp2.1\04. Students.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\04. Students\bin\Debug\netcoreapp2.1\04. Students.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\04. Students\bin\Debug\netcoreapp2.1\04. Students.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\04. Students\bin\Debug\netcoreapp2.1\04. Students.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\04. Students\bin\Debug\netcoreapp2.1\04. Students.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\04. Students\obj\Debug\netcoreapp2.1\04. Students.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\04. Students\obj\Debug\netcoreapp2.1\04. Students.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\04. Students\obj\Debug\netcoreapp2.1\04. Students.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\04. Students\obj\Debug\netcoreapp2.1\04. Students.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\04. Students\obj\Debug\netcoreapp2.1\04. Students.pdb

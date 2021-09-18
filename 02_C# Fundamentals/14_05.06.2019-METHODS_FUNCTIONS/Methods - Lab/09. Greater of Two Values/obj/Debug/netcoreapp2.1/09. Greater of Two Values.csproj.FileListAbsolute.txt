@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\09. Greater of Two Values\bin\Debug\netcoreapp2.1\09. Greater of Two Values.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\09. Greater of Two Values\bin\Debug\netcoreapp2.1\09. Greater of Two Values.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\09. Greater of Two Values\bin\Debug\netcoreapp2.1\09. Greater of Two Values.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\09. Greater of Two Values\bin\Debug\netcoreapp2.1\09. Greater of Two Values.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\09. Greater of Two Values\bin\Debug\netcoreapp2.1\09. Greater of Two Values.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp2.1\09. Greater of Two Values.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp2.1\09. Greater of Two Values.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp2.1\09. Greater of Two Values.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp2.1\09. Greater of Two Values.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp2.1\09. Greater of Two Values.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp2.1\09. Greater of Two Values.pdb

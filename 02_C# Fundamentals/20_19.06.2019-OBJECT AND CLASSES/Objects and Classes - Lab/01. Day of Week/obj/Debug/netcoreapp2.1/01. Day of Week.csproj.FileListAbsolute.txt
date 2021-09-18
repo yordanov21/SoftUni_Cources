@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\01. Day of Week\bin\Debug\netcoreapp2.1\01. Day of Week.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\01. Day of Week\bin\Debug\netcoreapp2.1\01. Day of Week.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\01. Day of Week\bin\Debug\netcoreapp2.1\01. Day of Week.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\01. Day of Week\bin\Debug\netcoreapp2.1\01. Day of Week.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\01. Day of Week\bin\Debug\netcoreapp2.1\01. Day of Week.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\01. Day of Week\obj\Debug\netcoreapp2.1\01. Day of Week.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\01. Day of Week\obj\Debug\netcoreapp2.1\01. Day of Week.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\01. Day of Week\obj\Debug\netcoreapp2.1\01. Day of Week.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\01. Day of Week\obj\Debug\netcoreapp2.1\01. Day of Week.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\01. Day of Week\obj\Debug\netcoreapp2.1\01. Day of Week.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\01. Day of Week\obj\Debug\netcoreapp2.1\01. Day of Week.pdb

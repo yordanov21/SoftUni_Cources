@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\12.07.2019-ExerciseStringsTextProcessing\Text Processing - Exercise\02. Character Multiplier\bin\Debug\netcoreapp2.1\02. Character Multiplier.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\12.07.2019-ExerciseStringsTextProcessing\Text Processing - Exercise\02. Character Multiplier\bin\Debug\netcoreapp2.1\02. Character Multiplier.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\12.07.2019-ExerciseStringsTextProcessing\Text Processing - Exercise\02. Character Multiplier\bin\Debug\netcoreapp2.1\02. Character Multiplier.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\12.07.2019-ExerciseStringsTextProcessing\Text Processing - Exercise\02. Character Multiplier\bin\Debug\netcoreapp2.1\02. Character Multiplier.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\12.07.2019-ExerciseStringsTextProcessing\Text Processing - Exercise\02. Character Multiplier\bin\Debug\netcoreapp2.1\02. Character Multiplier.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\12.07.2019-ExerciseStringsTextProcessing\Text Processing - Exercise\02. Character Multiplier\obj\Debug\netcoreapp2.1\02. Character Multiplier.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\12.07.2019-ExerciseStringsTextProcessing\Text Processing - Exercise\02. Character Multiplier\obj\Debug\netcoreapp2.1\02. Character Multiplier.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\12.07.2019-ExerciseStringsTextProcessing\Text Processing - Exercise\02. Character Multiplier\obj\Debug\netcoreapp2.1\02. Character Multiplier.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\12.07.2019-ExerciseStringsTextProcessing\Text Processing - Exercise\02. Character Multiplier\obj\Debug\netcoreapp2.1\02. Character Multiplier.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\12.07.2019-ExerciseStringsTextProcessing\Text Processing - Exercise\02. Character Multiplier\obj\Debug\netcoreapp2.1\02. Character Multiplier.pdb

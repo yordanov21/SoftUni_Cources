@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\03.07.2019-Associative Arrays\Associative Arrays - Lab\02. Odd Occurrences\bin\Debug\netcoreapp2.1\02. Odd Occurrences.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\03.07.2019-Associative Arrays\Associative Arrays - Lab\02. Odd Occurrences\bin\Debug\netcoreapp2.1\02. Odd Occurrences.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\03.07.2019-Associative Arrays\Associative Arrays - Lab\02. Odd Occurrences\bin\Debug\netcoreapp2.1\02. Odd Occurrences.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\03.07.2019-Associative Arrays\Associative Arrays - Lab\02. Odd Occurrences\bin\Debug\netcoreapp2.1\02. Odd Occurrences.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\03.07.2019-Associative Arrays\Associative Arrays - Lab\02. Odd Occurrences\bin\Debug\netcoreapp2.1\02. Odd Occurrences.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\03.07.2019-Associative Arrays\Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\netcoreapp2.1\02. Odd Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\03.07.2019-Associative Arrays\Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\netcoreapp2.1\02. Odd Occurrences.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\03.07.2019-Associative Arrays\Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\netcoreapp2.1\02. Odd Occurrences.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\03.07.2019-Associative Arrays\Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\netcoreapp2.1\02. Odd Occurrences.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\03.07.2019-Associative Arrays\Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\netcoreapp2.1\02. Odd Occurrences.pdb

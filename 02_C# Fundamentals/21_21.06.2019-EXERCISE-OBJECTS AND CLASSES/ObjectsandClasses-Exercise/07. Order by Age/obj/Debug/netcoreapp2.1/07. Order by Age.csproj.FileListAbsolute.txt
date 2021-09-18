@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\07. Order by Age\bin\Debug\netcoreapp2.1\07. Order by Age.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\07. Order by Age\bin\Debug\netcoreapp2.1\07. Order by Age.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\07. Order by Age\bin\Debug\netcoreapp2.1\07. Order by Age.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\07. Order by Age\bin\Debug\netcoreapp2.1\07. Order by Age.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\07. Order by Age\bin\Debug\netcoreapp2.1\07. Order by Age.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\07. Order by Age\obj\Debug\netcoreapp2.1\07. Order by Age.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\07. Order by Age\obj\Debug\netcoreapp2.1\07. Order by Age.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\07. Order by Age\obj\Debug\netcoreapp2.1\07. Order by Age.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\07. Order by Age\obj\Debug\netcoreapp2.1\07. Order by Age.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\07. Order by Age\obj\Debug\netcoreapp2.1\07. Order by Age.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\07. Order by Age\obj\Debug\netcoreapp2.1\07. Order by Age.pdb

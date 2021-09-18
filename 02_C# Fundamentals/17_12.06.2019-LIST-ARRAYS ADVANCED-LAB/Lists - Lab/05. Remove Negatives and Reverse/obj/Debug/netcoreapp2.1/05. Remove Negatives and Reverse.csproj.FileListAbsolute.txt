@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\netcoreapp2.1\05. Remove Negatives and Reverse.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\netcoreapp2.1\05. Remove Negatives and Reverse.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\netcoreapp2.1\05. Remove Negatives and Reverse.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\netcoreapp2.1\05. Remove Negatives and Reverse.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\netcoreapp2.1\05. Remove Negatives and Reverse.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\netcoreapp2.1\05. Remove Negatives and Reverse.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\netcoreapp2.1\05. Remove Negatives and Reverse.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\netcoreapp2.1\05. Remove Negatives and Reverse.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\netcoreapp2.1\05. Remove Negatives and Reverse.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\netcoreapp2.1\05. Remove Negatives and Reverse.pdb

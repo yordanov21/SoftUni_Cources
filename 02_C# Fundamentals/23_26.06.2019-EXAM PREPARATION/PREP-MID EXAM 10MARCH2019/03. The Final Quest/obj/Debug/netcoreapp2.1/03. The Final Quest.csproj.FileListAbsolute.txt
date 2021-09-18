@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\PREP-MID EXAM 10MARCH2019\03. The Final Quest\bin\Debug\netcoreapp2.1\03. The Final Quest.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\PREP-MID EXAM 10MARCH2019\03. The Final Quest\bin\Debug\netcoreapp2.1\03. The Final Quest.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\PREP-MID EXAM 10MARCH2019\03. The Final Quest\bin\Debug\netcoreapp2.1\03. The Final Quest.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\PREP-MID EXAM 10MARCH2019\03. The Final Quest\bin\Debug\netcoreapp2.1\03. The Final Quest.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\PREP-MID EXAM 10MARCH2019\03. The Final Quest\bin\Debug\netcoreapp2.1\03. The Final Quest.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\PREP-MID EXAM 10MARCH2019\03. The Final Quest\obj\Debug\netcoreapp2.1\03. The Final Quest.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\PREP-MID EXAM 10MARCH2019\03. The Final Quest\obj\Debug\netcoreapp2.1\03. The Final Quest.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\PREP-MID EXAM 10MARCH2019\03. The Final Quest\obj\Debug\netcoreapp2.1\03. The Final Quest.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\PREP-MID EXAM 10MARCH2019\03. The Final Quest\obj\Debug\netcoreapp2.1\03. The Final Quest.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\PREP-MID EXAM 10MARCH2019\03. The Final Quest\obj\Debug\netcoreapp2.1\03. The Final Quest.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\PREP-MID EXAM 10MARCH2019\03. The Final Quest\obj\Debug\netcoreapp2.1\03. The Final Quest.pdb

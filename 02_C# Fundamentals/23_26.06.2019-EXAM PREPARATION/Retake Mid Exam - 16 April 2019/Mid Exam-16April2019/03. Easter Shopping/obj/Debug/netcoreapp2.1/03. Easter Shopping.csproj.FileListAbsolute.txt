@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\Retake Mid Exam - 16 April 2019\Mid Exam-16April2019\03. Easter Shopping\bin\Debug\netcoreapp2.1\03. Easter Shopping.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\Retake Mid Exam - 16 April 2019\Mid Exam-16April2019\03. Easter Shopping\bin\Debug\netcoreapp2.1\03. Easter Shopping.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\Retake Mid Exam - 16 April 2019\Mid Exam-16April2019\03. Easter Shopping\bin\Debug\netcoreapp2.1\03. Easter Shopping.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\Retake Mid Exam - 16 April 2019\Mid Exam-16April2019\03. Easter Shopping\bin\Debug\netcoreapp2.1\03. Easter Shopping.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\Retake Mid Exam - 16 April 2019\Mid Exam-16April2019\03. Easter Shopping\bin\Debug\netcoreapp2.1\03. Easter Shopping.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\Retake Mid Exam - 16 April 2019\Mid Exam-16April2019\03. Easter Shopping\obj\Debug\netcoreapp2.1\03. Easter Shopping.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\Retake Mid Exam - 16 April 2019\Mid Exam-16April2019\03. Easter Shopping\obj\Debug\netcoreapp2.1\03. Easter Shopping.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\Retake Mid Exam - 16 April 2019\Mid Exam-16April2019\03. Easter Shopping\obj\Debug\netcoreapp2.1\03. Easter Shopping.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\Retake Mid Exam - 16 April 2019\Mid Exam-16April2019\03. Easter Shopping\obj\Debug\netcoreapp2.1\03. Easter Shopping.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\Retake Mid Exam - 16 April 2019\Mid Exam-16April2019\03. Easter Shopping\obj\Debug\netcoreapp2.1\03. Easter Shopping.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\Retake Mid Exam - 16 April 2019\Mid Exam-16April2019\03. Easter Shopping\obj\Debug\netcoreapp2.1\03. Easter Shopping.pdb

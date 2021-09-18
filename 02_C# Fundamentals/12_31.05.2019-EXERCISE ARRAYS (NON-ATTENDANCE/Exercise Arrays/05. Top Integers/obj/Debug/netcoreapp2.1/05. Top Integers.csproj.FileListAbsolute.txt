@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\05. Top Integers\bin\Debug\netcoreapp2.1\05. Top Integers.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\05. Top Integers\bin\Debug\netcoreapp2.1\05. Top Integers.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\05. Top Integers\bin\Debug\netcoreapp2.1\05. Top Integers.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\05. Top Integers\bin\Debug\netcoreapp2.1\05. Top Integers.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\05. Top Integers\bin\Debug\netcoreapp2.1\05. Top Integers.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\05. Top Integers\obj\Debug\netcoreapp2.1\05. Top Integers.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\05. Top Integers\obj\Debug\netcoreapp2.1\05. Top Integers.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\05. Top Integers\obj\Debug\netcoreapp2.1\05. Top Integers.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\05. Top Integers\obj\Debug\netcoreapp2.1\05. Top Integers.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\05. Top Integers\obj\Debug\netcoreapp2.1\05. Top Integers.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\05. Top Integers\obj\Debug\netcoreapp2.1\05. Top Integers.pdb

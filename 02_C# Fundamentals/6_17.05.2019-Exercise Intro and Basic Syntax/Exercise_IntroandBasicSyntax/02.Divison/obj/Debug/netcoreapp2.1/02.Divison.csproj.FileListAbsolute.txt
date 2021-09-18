@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\02.Divison\bin\Debug\netcoreapp2.1\02.Divison.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\02.Divison\bin\Debug\netcoreapp2.1\02.Divison.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\02.Divison\bin\Debug\netcoreapp2.1\02.Divison.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\02.Divison\bin\Debug\netcoreapp2.1\02.Divison.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\02.Divison\bin\Debug\netcoreapp2.1\02.Divison.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\02.Divison\obj\Debug\netcoreapp2.1\02.Divison.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\02.Divison\obj\Debug\netcoreapp2.1\02.Divison.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\02.Divison\obj\Debug\netcoreapp2.1\02.Divison.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\02.Divison\obj\Debug\netcoreapp2.1\02.Divison.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\02.Divison\obj\Debug\netcoreapp2.1\02.Divison.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\02.Divison\obj\Debug\netcoreapp2.1\02.Divison.pdb

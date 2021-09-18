@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\04. Songs\bin\Debug\netcoreapp2.1\04. Songs.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\04. Songs\bin\Debug\netcoreapp2.1\04. Songs.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\04. Songs\bin\Debug\netcoreapp2.1\04. Songs.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\04. Songs\bin\Debug\netcoreapp2.1\04. Songs.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\04. Songs\bin\Debug\netcoreapp2.1\04. Songs.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\04. Songs\obj\Debug\netcoreapp2.1\04. Songs.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\04. Songs\obj\Debug\netcoreapp2.1\04. Songs.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\04. Songs\obj\Debug\netcoreapp2.1\04. Songs.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\04. Songs\obj\Debug\netcoreapp2.1\04. Songs.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\04. Songs\obj\Debug\netcoreapp2.1\04. Songs.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\04. Songs\obj\Debug\netcoreapp2.1\04. Songs.pdb

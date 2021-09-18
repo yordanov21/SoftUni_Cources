@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\06.TriplesLatinLett\obj\Debug\netcoreapp2.1\06.TriplesLatinLett.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\06.TriplesLatinLett\obj\Debug\netcoreapp2.1\06.TriplesLatinLett.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\06.TriplesLatinLett\obj\Debug\netcoreapp2.1\06.TriplesLatinLett.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\06.TriplesLatinLett\bin\Debug\netcoreapp2.1\06.TriplesLatinLett.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\06.TriplesLatinLett\bin\Debug\netcoreapp2.1\06.TriplesLatinLett.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\06.TriplesLatinLett\bin\Debug\netcoreapp2.1\06.TriplesLatinLett.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\06.TriplesLatinLett\bin\Debug\netcoreapp2.1\06.TriplesLatinLett.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\06.TriplesLatinLett\bin\Debug\netcoreapp2.1\06.TriplesLatinLett.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\06.TriplesLatinLett\obj\Debug\netcoreapp2.1\06.TriplesLatinLett.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\06.TriplesLatinLett\obj\Debug\netcoreapp2.1\06.TriplesLatinLett.pdb

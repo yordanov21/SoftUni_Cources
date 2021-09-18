@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\07. Concat Names\bin\Debug\netcoreapp2.1\07. Concat Names.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\07. Concat Names\bin\Debug\netcoreapp2.1\07. Concat Names.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\07. Concat Names\bin\Debug\netcoreapp2.1\07. Concat Names.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\07. Concat Names\bin\Debug\netcoreapp2.1\07. Concat Names.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\07. Concat Names\bin\Debug\netcoreapp2.1\07. Concat Names.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\07. Concat Names\obj\Debug\netcoreapp2.1\07. Concat Names.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\07. Concat Names\obj\Debug\netcoreapp2.1\07. Concat Names.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\07. Concat Names\obj\Debug\netcoreapp2.1\07. Concat Names.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\07. Concat Names\obj\Debug\netcoreapp2.1\07. Concat Names.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\07. Concat Names\obj\Debug\netcoreapp2.1\07. Concat Names.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\07. Concat Names\obj\Debug\netcoreapp2.1\07. Concat Names.pdb

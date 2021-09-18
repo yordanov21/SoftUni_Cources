@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\Retake Mid Exam - 16 April 2019\Mid Exam-16April2019\02. Easter Gifts\bin\Debug\netcoreapp2.1\02. Easter Gifts.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\Retake Mid Exam - 16 April 2019\Mid Exam-16April2019\02. Easter Gifts\bin\Debug\netcoreapp2.1\02. Easter Gifts.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\Retake Mid Exam - 16 April 2019\Mid Exam-16April2019\02. Easter Gifts\bin\Debug\netcoreapp2.1\02. Easter Gifts.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\Retake Mid Exam - 16 April 2019\Mid Exam-16April2019\02. Easter Gifts\bin\Debug\netcoreapp2.1\02. Easter Gifts.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\Retake Mid Exam - 16 April 2019\Mid Exam-16April2019\02. Easter Gifts\bin\Debug\netcoreapp2.1\02. Easter Gifts.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\Retake Mid Exam - 16 April 2019\Mid Exam-16April2019\02. Easter Gifts\obj\Debug\netcoreapp2.1\02. Easter Gifts.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\Retake Mid Exam - 16 April 2019\Mid Exam-16April2019\02. Easter Gifts\obj\Debug\netcoreapp2.1\02. Easter Gifts.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\Retake Mid Exam - 16 April 2019\Mid Exam-16April2019\02. Easter Gifts\obj\Debug\netcoreapp2.1\02. Easter Gifts.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\Retake Mid Exam - 16 April 2019\Mid Exam-16April2019\02. Easter Gifts\obj\Debug\netcoreapp2.1\02. Easter Gifts.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\Retake Mid Exam - 16 April 2019\Mid Exam-16April2019\02. Easter Gifts\obj\Debug\netcoreapp2.1\02. Easter Gifts.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\Retake Mid Exam - 16 April 2019\Mid Exam-16April2019\02. Easter Gifts\obj\Debug\netcoreapp2.1\02. Easter Gifts.csprojAssemblyReference.cache

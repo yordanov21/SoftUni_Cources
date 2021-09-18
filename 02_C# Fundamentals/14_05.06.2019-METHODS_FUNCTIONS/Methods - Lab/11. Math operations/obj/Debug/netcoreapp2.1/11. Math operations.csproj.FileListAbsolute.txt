@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\11. Math operations\bin\Debug\netcoreapp2.1\11. Math operations.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\11. Math operations\bin\Debug\netcoreapp2.1\11. Math operations.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\11. Math operations\bin\Debug\netcoreapp2.1\11. Math operations.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\11. Math operations\bin\Debug\netcoreapp2.1\11. Math operations.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\11. Math operations\bin\Debug\netcoreapp2.1\11. Math operations.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\11. Math operations\obj\Debug\netcoreapp2.1\11. Math operations.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\11. Math operations\obj\Debug\netcoreapp2.1\11. Math operations.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\11. Math operations\obj\Debug\netcoreapp2.1\11. Math operations.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\11. Math operations\obj\Debug\netcoreapp2.1\11. Math operations.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\11. Math operations\obj\Debug\netcoreapp2.1\11. Math operations.pdb

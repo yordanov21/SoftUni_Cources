@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\07.06.2019-EXERCISE METHODS FUNCTIONS\Exercise-Methods\06. Middle Characters\bin\Debug\netcoreapp2.1\06. Middle Characters.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\07.06.2019-EXERCISE METHODS FUNCTIONS\Exercise-Methods\06. Middle Characters\bin\Debug\netcoreapp2.1\06. Middle Characters.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\07.06.2019-EXERCISE METHODS FUNCTIONS\Exercise-Methods\06. Middle Characters\bin\Debug\netcoreapp2.1\06. Middle Characters.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\07.06.2019-EXERCISE METHODS FUNCTIONS\Exercise-Methods\06. Middle Characters\bin\Debug\netcoreapp2.1\06. Middle Characters.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\07.06.2019-EXERCISE METHODS FUNCTIONS\Exercise-Methods\06. Middle Characters\bin\Debug\netcoreapp2.1\06. Middle Characters.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\07.06.2019-EXERCISE METHODS FUNCTIONS\Exercise-Methods\06. Middle Characters\obj\Debug\netcoreapp2.1\06. Middle Characters.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\07.06.2019-EXERCISE METHODS FUNCTIONS\Exercise-Methods\06. Middle Characters\obj\Debug\netcoreapp2.1\06. Middle Characters.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\07.06.2019-EXERCISE METHODS FUNCTIONS\Exercise-Methods\06. Middle Characters\obj\Debug\netcoreapp2.1\06. Middle Characters.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\07.06.2019-EXERCISE METHODS FUNCTIONS\Exercise-Methods\06. Middle Characters\obj\Debug\netcoreapp2.1\06. Middle Characters.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\07.06.2019-EXERCISE METHODS FUNCTIONS\Exercise-Methods\06. Middle Characters\obj\Debug\netcoreapp2.1\06. Middle Characters.pdb

@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\04. Centuries to Minutes\bin\Debug\netcoreapp2.1\04. Centuries to Minutes.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\04. Centuries to Minutes\bin\Debug\netcoreapp2.1\04. Centuries to Minutes.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\04. Centuries to Minutes\bin\Debug\netcoreapp2.1\04. Centuries to Minutes.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\04. Centuries to Minutes\bin\Debug\netcoreapp2.1\04. Centuries to Minutes.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\04. Centuries to Minutes\bin\Debug\netcoreapp2.1\04. Centuries to Minutes.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\04. Centuries to Minutes\obj\Debug\netcoreapp2.1\04. Centuries to Minutes.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\04. Centuries to Minutes\obj\Debug\netcoreapp2.1\04. Centuries to Minutes.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\04. Centuries to Minutes\obj\Debug\netcoreapp2.1\04. Centuries to Minutes.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\04. Centuries to Minutes\obj\Debug\netcoreapp2.1\04. Centuries to Minutes.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\04. Centuries to Minutes\obj\Debug\netcoreapp2.1\04. Centuries to Minutes.pdb

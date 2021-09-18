@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp2.1\06. List Manipulation Basics.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp2.1\06. List Manipulation Basics.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp2.1\06. List Manipulation Basics.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp2.1\06. List Manipulation Basics.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp2.1\06. List Manipulation Basics.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp2.1\06. List Manipulation Basics.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp2.1\06. List Manipulation Basics.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp2.1\06. List Manipulation Basics.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp2.1\06. List Manipulation Basics.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp2.1\06. List Manipulation Basics.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp2.1\06. List Manipulation Basics.pdb

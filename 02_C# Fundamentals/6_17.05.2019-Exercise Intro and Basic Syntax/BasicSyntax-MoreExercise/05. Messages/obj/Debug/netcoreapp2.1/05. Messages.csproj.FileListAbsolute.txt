@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\BasicSyntax-MoreExercise\05. Messages\bin\Debug\netcoreapp2.1\05. Messages.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\BasicSyntax-MoreExercise\05. Messages\bin\Debug\netcoreapp2.1\05. Messages.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\BasicSyntax-MoreExercise\05. Messages\bin\Debug\netcoreapp2.1\05. Messages.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\BasicSyntax-MoreExercise\05. Messages\bin\Debug\netcoreapp2.1\05. Messages.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\BasicSyntax-MoreExercise\05. Messages\bin\Debug\netcoreapp2.1\05. Messages.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\BasicSyntax-MoreExercise\05. Messages\obj\Debug\netcoreapp2.1\05. Messages.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\BasicSyntax-MoreExercise\05. Messages\obj\Debug\netcoreapp2.1\05. Messages.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\BasicSyntax-MoreExercise\05. Messages\obj\Debug\netcoreapp2.1\05. Messages.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\BasicSyntax-MoreExercise\05. Messages\obj\Debug\netcoreapp2.1\05. Messages.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\BasicSyntax-MoreExercise\05. Messages\obj\Debug\netcoreapp2.1\05. Messages.pdb

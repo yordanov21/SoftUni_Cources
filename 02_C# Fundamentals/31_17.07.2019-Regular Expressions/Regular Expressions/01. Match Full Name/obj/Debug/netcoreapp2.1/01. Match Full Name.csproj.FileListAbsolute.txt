@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\17.07.2019-Regular Expressions\Regular Expressions\01. Match Full Name\bin\Debug\netcoreapp2.1\01. Match Full Name.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\17.07.2019-Regular Expressions\Regular Expressions\01. Match Full Name\bin\Debug\netcoreapp2.1\01. Match Full Name.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\17.07.2019-Regular Expressions\Regular Expressions\01. Match Full Name\bin\Debug\netcoreapp2.1\01. Match Full Name.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\17.07.2019-Regular Expressions\Regular Expressions\01. Match Full Name\bin\Debug\netcoreapp2.1\01. Match Full Name.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\17.07.2019-Regular Expressions\Regular Expressions\01. Match Full Name\bin\Debug\netcoreapp2.1\01. Match Full Name.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\17.07.2019-Regular Expressions\Regular Expressions\01. Match Full Name\obj\Debug\netcoreapp2.1\01. Match Full Name.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\17.07.2019-Regular Expressions\Regular Expressions\01. Match Full Name\obj\Debug\netcoreapp2.1\01. Match Full Name.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\17.07.2019-Regular Expressions\Regular Expressions\01. Match Full Name\obj\Debug\netcoreapp2.1\01. Match Full Name.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\17.07.2019-Regular Expressions\Regular Expressions\01. Match Full Name\obj\Debug\netcoreapp2.1\01. Match Full Name.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\17.07.2019-Regular Expressions\Regular Expressions\01. Match Full Name\obj\Debug\netcoreapp2.1\01. Match Full Name.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\17.07.2019-Regular Expressions\Regular Expressions\01. Match Full Name\obj\Debug\netcoreapp2.1\01. Match Full Name.pdb

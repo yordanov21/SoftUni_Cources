@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\05.PrintPartASCIITab\bin\Debug\netcoreapp2.1\05.PrintPartASCIITab.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\05.PrintPartASCIITab\bin\Debug\netcoreapp2.1\05.PrintPartASCIITab.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\05.PrintPartASCIITab\bin\Debug\netcoreapp2.1\05.PrintPartASCIITab.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\05.PrintPartASCIITab\bin\Debug\netcoreapp2.1\05.PrintPartASCIITab.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\05.PrintPartASCIITab\bin\Debug\netcoreapp2.1\05.PrintPartASCIITab.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\05.PrintPartASCIITab\obj\Debug\netcoreapp2.1\05.PrintPartASCIITab.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\05.PrintPartASCIITab\obj\Debug\netcoreapp2.1\05.PrintPartASCIITab.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\05.PrintPartASCIITab\obj\Debug\netcoreapp2.1\05.PrintPartASCIITab.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\05.PrintPartASCIITab\obj\Debug\netcoreapp2.1\05.PrintPartASCIITab.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\05.PrintPartASCIITab\obj\Debug\netcoreapp2.1\05.PrintPartASCIITab.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ArrivinginKathm", "01.ArrivinginKathm\01.ArrivinginKathm.csproj", "{0BE7451F-4934-4A97-8848-7B64C838602A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. OnWayAnnapurna", "02. OnWayAnnapurna\02. OnWayAnnapurna.csproj", "{0849C31A-0E66-4F92-B77A-0BB689181BC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BE7451F-4934-4A97-8848-7B64C838602A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BE7451F-4934-4A97-8848-7B64C838602A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BE7451F-4934-4A97-8848-7B64C838602A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BE7451F-4934-4A97-8848-7B64C838602A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0849C31A-0E66-4F92-B77A-0BB689181BC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0849C31A-0E66-4F92-B77A-0BB689181BC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0849C31A-0E66-4F92-B77A-0BB689181BC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0849C31A-0E66-4F92-B77A-0BB689181BC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E712721-DBD2-40CD-9D90-824139E84BD7}
+	EndGlobalSection
+EndGlobal

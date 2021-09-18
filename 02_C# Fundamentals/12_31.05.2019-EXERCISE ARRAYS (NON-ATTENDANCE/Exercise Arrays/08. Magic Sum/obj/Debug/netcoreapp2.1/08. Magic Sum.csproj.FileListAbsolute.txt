@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\08. Magic Sum\bin\Debug\netcoreapp2.1\08. Magic Sum.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\08. Magic Sum\bin\Debug\netcoreapp2.1\08. Magic Sum.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\08. Magic Sum\bin\Debug\netcoreapp2.1\08. Magic Sum.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\08. Magic Sum\bin\Debug\netcoreapp2.1\08. Magic Sum.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\08. Magic Sum\bin\Debug\netcoreapp2.1\08. Magic Sum.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\08. Magic Sum\obj\Debug\netcoreapp2.1\08. Magic Sum.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\08. Magic Sum\obj\Debug\netcoreapp2.1\08. Magic Sum.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\08. Magic Sum\obj\Debug\netcoreapp2.1\08. Magic Sum.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\08. Magic Sum\obj\Debug\netcoreapp2.1\08. Magic Sum.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\08. Magic Sum\obj\Debug\netcoreapp2.1\08. Magic Sum.pdb

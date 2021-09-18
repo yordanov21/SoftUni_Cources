@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\03. SoftUni Bar Income\bin\Debug\netcoreapp2.1\03. SoftUni Bar Income.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\03. SoftUni Bar Income\bin\Debug\netcoreapp2.1\03. SoftUni Bar Income.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\03. SoftUni Bar Income\bin\Debug\netcoreapp2.1\03. SoftUni Bar Income.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\03. SoftUni Bar Income\bin\Debug\netcoreapp2.1\03. SoftUni Bar Income.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\03. SoftUni Bar Income\bin\Debug\netcoreapp2.1\03. SoftUni Bar Income.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\03. SoftUni Bar Income\obj\Debug\netcoreapp2.1\03. SoftUni Bar Income.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\03. SoftUni Bar Income\obj\Debug\netcoreapp2.1\03. SoftUni Bar Income.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\03. SoftUni Bar Income\obj\Debug\netcoreapp2.1\03. SoftUni Bar Income.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\03. SoftUni Bar Income\obj\Debug\netcoreapp2.1\03. SoftUni Bar Income.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\03. SoftUni Bar Income\obj\Debug\netcoreapp2.1\03. SoftUni Bar Income.pdb

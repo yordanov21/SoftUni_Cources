@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\07. Water Overflow\bin\Debug\netcoreapp2.1\07. Water Overflow.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\07. Water Overflow\bin\Debug\netcoreapp2.1\07. Water Overflow.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\07. Water Overflow\bin\Debug\netcoreapp2.1\07. Water Overflow.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\07. Water Overflow\bin\Debug\netcoreapp2.1\07. Water Overflow.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\07. Water Overflow\bin\Debug\netcoreapp2.1\07. Water Overflow.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\07. Water Overflow\obj\Debug\netcoreapp2.1\07. Water Overflow.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\07. Water Overflow\obj\Debug\netcoreapp2.1\07. Water Overflow.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\07. Water Overflow\obj\Debug\netcoreapp2.1\07. Water Overflow.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\07. Water Overflow\obj\Debug\netcoreapp2.1\07. Water Overflow.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\07. Water Overflow\obj\Debug\netcoreapp2.1\07. Water Overflow.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\07. Water Overflow\obj\Debug\netcoreapp2.1\07. Water Overflow.pdb

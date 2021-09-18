@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\09.Padawan Equipment\bin\Debug\netcoreapp2.1\09.Padawan Equipment.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\09.Padawan Equipment\bin\Debug\netcoreapp2.1\09.Padawan Equipment.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\09.Padawan Equipment\bin\Debug\netcoreapp2.1\09.Padawan Equipment.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\09.Padawan Equipment\bin\Debug\netcoreapp2.1\09.Padawan Equipment.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\09.Padawan Equipment\bin\Debug\netcoreapp2.1\09.Padawan Equipment.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\09.Padawan Equipment\obj\Debug\netcoreapp2.1\09.Padawan Equipment.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\09.Padawan Equipment\obj\Debug\netcoreapp2.1\09.Padawan Equipment.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\09.Padawan Equipment\obj\Debug\netcoreapp2.1\09.Padawan Equipment.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\09.Padawan Equipment\obj\Debug\netcoreapp2.1\09.Padawan Equipment.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\09.Padawan Equipment\obj\Debug\netcoreapp2.1\09.Padawan Equipment.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\09.Padawan Equipment\obj\Debug\netcoreapp2.1\09.Padawan Equipment.pdb

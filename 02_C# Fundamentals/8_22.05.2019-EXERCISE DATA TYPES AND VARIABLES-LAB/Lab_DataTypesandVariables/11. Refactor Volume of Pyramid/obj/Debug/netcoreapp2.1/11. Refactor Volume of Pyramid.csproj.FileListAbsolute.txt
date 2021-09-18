@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp2.1\11. Refactor Volume of Pyramid.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp2.1\11. Refactor Volume of Pyramid.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp2.1\11. Refactor Volume of Pyramid.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp2.1\11. Refactor Volume of Pyramid.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp2.1\11. Refactor Volume of Pyramid.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp2.1\11. Refactor Volume of Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp2.1\11. Refactor Volume of Pyramid.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp2.1\11. Refactor Volume of Pyramid.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp2.1\11. Refactor Volume of Pyramid.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp2.1\11. Refactor Volume of Pyramid.pdb

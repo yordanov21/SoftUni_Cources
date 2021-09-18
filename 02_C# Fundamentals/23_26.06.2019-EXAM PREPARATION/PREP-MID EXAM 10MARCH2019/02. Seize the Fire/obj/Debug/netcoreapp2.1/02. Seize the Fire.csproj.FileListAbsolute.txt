@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\PREP-MID EXAM 10MARCH2019\02. Seize the Fire\bin\Debug\netcoreapp2.1\02. Seize the Fire.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\PREP-MID EXAM 10MARCH2019\02. Seize the Fire\bin\Debug\netcoreapp2.1\02. Seize the Fire.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\PREP-MID EXAM 10MARCH2019\02. Seize the Fire\bin\Debug\netcoreapp2.1\02. Seize the Fire.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\PREP-MID EXAM 10MARCH2019\02. Seize the Fire\bin\Debug\netcoreapp2.1\02. Seize the Fire.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\PREP-MID EXAM 10MARCH2019\02. Seize the Fire\bin\Debug\netcoreapp2.1\02. Seize the Fire.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\PREP-MID EXAM 10MARCH2019\02. Seize the Fire\obj\Debug\netcoreapp2.1\02. Seize the Fire.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\PREP-MID EXAM 10MARCH2019\02. Seize the Fire\obj\Debug\netcoreapp2.1\02. Seize the Fire.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\PREP-MID EXAM 10MARCH2019\02. Seize the Fire\obj\Debug\netcoreapp2.1\02. Seize the Fire.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\PREP-MID EXAM 10MARCH2019\02. Seize the Fire\obj\Debug\netcoreapp2.1\02. Seize the Fire.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\PREP-MID EXAM 10MARCH2019\02. Seize the Fire\obj\Debug\netcoreapp2.1\02. Seize the Fire.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\PREP-MID EXAM 10MARCH2019\02. Seize the Fire\obj\Debug\netcoreapp2.1\02. Seize the Fire.pdb

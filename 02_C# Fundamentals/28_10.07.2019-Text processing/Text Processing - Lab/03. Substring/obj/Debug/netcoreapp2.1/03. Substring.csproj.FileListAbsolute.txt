@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp2.1\03. Substring.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp2.1\03. Substring.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp2.1\03. Substring.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp2.1\03. Substring.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp2.1\03. Substring.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp2.1\03. Substring.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp2.1\03. Substring.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp2.1\03. Substring.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp2.1\03. Substring.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp2.1\03. Substring.pdb

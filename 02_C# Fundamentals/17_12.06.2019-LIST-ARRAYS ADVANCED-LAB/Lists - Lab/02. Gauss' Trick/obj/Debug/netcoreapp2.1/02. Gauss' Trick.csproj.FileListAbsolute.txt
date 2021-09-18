@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp2.1\02. Gauss' Trick.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp2.1\02. Gauss' Trick.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp2.1\02. Gauss' Trick.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp2.1\02. Gauss' Trick.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp2.1\02. Gauss' Trick.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp2.1\02. Gauss' Trick.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp2.1\02. Gauss' Trick.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp2.1\02. Gauss' Trick.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp2.1\02. Gauss' Trick.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp2.1\02. Gauss' Trick.pdb

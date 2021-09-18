@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\03. Floating Equality\bin\Debug\netcoreapp2.1\03. Floating Equality.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\03. Floating Equality\bin\Debug\netcoreapp2.1\03. Floating Equality.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\03. Floating Equality\bin\Debug\netcoreapp2.1\03. Floating Equality.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\03. Floating Equality\bin\Debug\netcoreapp2.1\03. Floating Equality.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\03. Floating Equality\bin\Debug\netcoreapp2.1\03. Floating Equality.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\03. Floating Equality\obj\Debug\netcoreapp2.1\03. Floating Equality.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\03. Floating Equality\obj\Debug\netcoreapp2.1\03. Floating Equality.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\03. Floating Equality\obj\Debug\netcoreapp2.1\03. Floating Equality.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\03. Floating Equality\obj\Debug\netcoreapp2.1\03. Floating Equality.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\03. Floating Equality\obj\Debug\netcoreapp2.1\03. Floating Equality.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\03. Floating Equality\obj\Debug\netcoreapp2.1\03. Floating Equality.pdb

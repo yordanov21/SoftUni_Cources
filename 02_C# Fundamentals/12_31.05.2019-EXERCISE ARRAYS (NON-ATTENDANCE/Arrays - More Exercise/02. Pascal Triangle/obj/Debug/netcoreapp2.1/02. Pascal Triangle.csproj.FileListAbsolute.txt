@@ -1,0 +1,11 @@
+C:\Users\Dancho\source\repos\Arrays - More Exercise\02. Pascal Triangle\bin\Debug\netcoreapp2.1\02. Pascal Triangle.deps.json
+C:\Users\Dancho\source\repos\Arrays - More Exercise\02. Pascal Triangle\bin\Debug\netcoreapp2.1\02. Pascal Triangle.runtimeconfig.json
+C:\Users\Dancho\source\repos\Arrays - More Exercise\02. Pascal Triangle\bin\Debug\netcoreapp2.1\02. Pascal Triangle.runtimeconfig.dev.json
+C:\Users\Dancho\source\repos\Arrays - More Exercise\02. Pascal Triangle\bin\Debug\netcoreapp2.1\02. Pascal Triangle.dll
+C:\Users\Dancho\source\repos\Arrays - More Exercise\02. Pascal Triangle\bin\Debug\netcoreapp2.1\02. Pascal Triangle.pdb
+C:\Users\Dancho\source\repos\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\netcoreapp2.1\02. Pascal Triangle.csprojAssemblyReference.cache
+C:\Users\Dancho\source\repos\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\netcoreapp2.1\02. Pascal Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\source\repos\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\netcoreapp2.1\02. Pascal Triangle.AssemblyInfoInputs.cache
+C:\Users\Dancho\source\repos\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\netcoreapp2.1\02. Pascal Triangle.AssemblyInfo.cs
+C:\Users\Dancho\source\repos\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\netcoreapp2.1\02. Pascal Triangle.dll
+C:\Users\Dancho\source\repos\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\netcoreapp2.1\02. Pascal Triangle.pdb

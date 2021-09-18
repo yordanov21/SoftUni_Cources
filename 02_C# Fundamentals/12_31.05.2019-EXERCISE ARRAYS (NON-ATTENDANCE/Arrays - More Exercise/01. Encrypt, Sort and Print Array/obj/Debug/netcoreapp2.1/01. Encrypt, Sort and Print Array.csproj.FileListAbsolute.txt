@@ -1,0 +1,11 @@
+C:\Users\Dancho\source\repos\Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\netcoreapp2.1\01. Encrypt, Sort and Print Array.csprojAssemblyReference.cache
+C:\Users\Dancho\source\repos\Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\netcoreapp2.1\01. Encrypt, Sort and Print Array.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\source\repos\Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\netcoreapp2.1\01. Encrypt, Sort and Print Array.AssemblyInfoInputs.cache
+C:\Users\Dancho\source\repos\Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\netcoreapp2.1\01. Encrypt, Sort and Print Array.AssemblyInfo.cs
+C:\Users\Dancho\source\repos\Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\netcoreapp2.1\01. Encrypt, Sort and Print Array.deps.json
+C:\Users\Dancho\source\repos\Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\netcoreapp2.1\01. Encrypt, Sort and Print Array.runtimeconfig.json
+C:\Users\Dancho\source\repos\Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\netcoreapp2.1\01. Encrypt, Sort and Print Array.runtimeconfig.dev.json
+C:\Users\Dancho\source\repos\Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\netcoreapp2.1\01. Encrypt, Sort and Print Array.dll
+C:\Users\Dancho\source\repos\Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\netcoreapp2.1\01. Encrypt, Sort and Print Array.pdb
+C:\Users\Dancho\source\repos\Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\netcoreapp2.1\01. Encrypt, Sort and Print Array.dll
+C:\Users\Dancho\source\repos\Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\netcoreapp2.1\01. Encrypt, Sort and Print Array.pdb

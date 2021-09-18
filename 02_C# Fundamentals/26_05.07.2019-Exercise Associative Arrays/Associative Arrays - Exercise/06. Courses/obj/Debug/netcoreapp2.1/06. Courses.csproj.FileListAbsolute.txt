@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\06. Courses\bin\Debug\netcoreapp2.1\06. Courses.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\06. Courses\bin\Debug\netcoreapp2.1\06. Courses.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\06. Courses\bin\Debug\netcoreapp2.1\06. Courses.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\06. Courses\bin\Debug\netcoreapp2.1\06. Courses.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\06. Courses\bin\Debug\netcoreapp2.1\06. Courses.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp2.1\06. Courses.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp2.1\06. Courses.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp2.1\06. Courses.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp2.1\06. Courses.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp2.1\06. Courses.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\06. Courses\obj\Debug\netcoreapp2.1\06. Courses.csprojAssemblyReference.cache

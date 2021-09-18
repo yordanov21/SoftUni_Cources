@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\07.06.2019-EXERCISE METHODS FUNCTIONS\More Exercise-Methods\01. Data Types\bin\Debug\netcoreapp2.1\01. Data Types.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\07.06.2019-EXERCISE METHODS FUNCTIONS\More Exercise-Methods\01. Data Types\bin\Debug\netcoreapp2.1\01. Data Types.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\07.06.2019-EXERCISE METHODS FUNCTIONS\More Exercise-Methods\01. Data Types\bin\Debug\netcoreapp2.1\01. Data Types.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\07.06.2019-EXERCISE METHODS FUNCTIONS\More Exercise-Methods\01. Data Types\bin\Debug\netcoreapp2.1\01. Data Types.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\07.06.2019-EXERCISE METHODS FUNCTIONS\More Exercise-Methods\01. Data Types\bin\Debug\netcoreapp2.1\01. Data Types.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\07.06.2019-EXERCISE METHODS FUNCTIONS\More Exercise-Methods\01. Data Types\obj\Debug\netcoreapp2.1\01. Data Types.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\07.06.2019-EXERCISE METHODS FUNCTIONS\More Exercise-Methods\01. Data Types\obj\Debug\netcoreapp2.1\01. Data Types.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\07.06.2019-EXERCISE METHODS FUNCTIONS\More Exercise-Methods\01. Data Types\obj\Debug\netcoreapp2.1\01. Data Types.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\07.06.2019-EXERCISE METHODS FUNCTIONS\More Exercise-Methods\01. Data Types\obj\Debug\netcoreapp2.1\01. Data Types.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\07.06.2019-EXERCISE METHODS FUNCTIONS\More Exercise-Methods\01. Data Types\obj\Debug\netcoreapp2.1\01. Data Types.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\07.06.2019-EXERCISE METHODS FUNCTIONS\More Exercise-Methods\01. Data Types\obj\Debug\netcoreapp2.1\01. Data Types.pdb

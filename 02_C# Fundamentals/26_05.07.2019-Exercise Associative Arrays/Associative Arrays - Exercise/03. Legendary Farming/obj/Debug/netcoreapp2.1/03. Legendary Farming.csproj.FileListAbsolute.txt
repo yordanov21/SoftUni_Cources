@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\netcoreapp2.1\03. Legendary Farming.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\netcoreapp2.1\03. Legendary Farming.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\netcoreapp2.1\03. Legendary Farming.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\netcoreapp2.1\03. Legendary Farming.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\netcoreapp2.1\03. Legendary Farming.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\netcoreapp2.1\03. Legendary Farming.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\netcoreapp2.1\03. Legendary Farming.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\netcoreapp2.1\03. Legendary Farming.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\netcoreapp2.1\03. Legendary Farming.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\netcoreapp2.1\03. Legendary Farming.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\netcoreapp2.1\03. Legendary Farming.pdb

@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\32_19.07.2019-Regular Expressions - Exercise\RegularExpressions-More Ex\1. Winning Ticket\bin\Debug\netcoreapp2.1\1. Winning Ticket.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\32_19.07.2019-Regular Expressions - Exercise\RegularExpressions-More Ex\1. Winning Ticket\bin\Debug\netcoreapp2.1\1. Winning Ticket.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\32_19.07.2019-Regular Expressions - Exercise\RegularExpressions-More Ex\1. Winning Ticket\bin\Debug\netcoreapp2.1\1. Winning Ticket.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\32_19.07.2019-Regular Expressions - Exercise\RegularExpressions-More Ex\1. Winning Ticket\bin\Debug\netcoreapp2.1\1. Winning Ticket.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\32_19.07.2019-Regular Expressions - Exercise\RegularExpressions-More Ex\1. Winning Ticket\bin\Debug\netcoreapp2.1\1. Winning Ticket.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\32_19.07.2019-Regular Expressions - Exercise\RegularExpressions-More Ex\1. Winning Ticket\obj\Debug\netcoreapp2.1\1. Winning Ticket.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\32_19.07.2019-Regular Expressions - Exercise\RegularExpressions-More Ex\1. Winning Ticket\obj\Debug\netcoreapp2.1\1. Winning Ticket.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\32_19.07.2019-Regular Expressions - Exercise\RegularExpressions-More Ex\1. Winning Ticket\obj\Debug\netcoreapp2.1\1. Winning Ticket.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\32_19.07.2019-Regular Expressions - Exercise\RegularExpressions-More Ex\1. Winning Ticket\obj\Debug\netcoreapp2.1\1. Winning Ticket.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\32_19.07.2019-Regular Expressions - Exercise\RegularExpressions-More Ex\1. Winning Ticket\obj\Debug\netcoreapp2.1\1. Winning Ticket.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\32_19.07.2019-Regular Expressions - Exercise\RegularExpressions-More Ex\1. Winning Ticket\obj\Debug\netcoreapp2.1\1. Winning Ticket.pdb

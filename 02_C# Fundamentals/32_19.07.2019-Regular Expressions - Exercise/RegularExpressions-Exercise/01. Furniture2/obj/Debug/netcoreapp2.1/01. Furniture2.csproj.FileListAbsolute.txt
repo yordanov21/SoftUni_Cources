@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\01. Furniture2\bin\Debug\netcoreapp2.1\01. Furniture2.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\01. Furniture2\bin\Debug\netcoreapp2.1\01. Furniture2.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\01. Furniture2\bin\Debug\netcoreapp2.1\01. Furniture2.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\01. Furniture2\bin\Debug\netcoreapp2.1\01. Furniture2.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\01. Furniture2\bin\Debug\netcoreapp2.1\01. Furniture2.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\01. Furniture2\obj\Debug\netcoreapp2.1\01. Furniture2.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\01. Furniture2\obj\Debug\netcoreapp2.1\01. Furniture2.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\01. Furniture2\obj\Debug\netcoreapp2.1\01. Furniture2.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\01. Furniture2\obj\Debug\netcoreapp2.1\01. Furniture2.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\01. Furniture2\obj\Debug\netcoreapp2.1\01. Furniture2.pdb

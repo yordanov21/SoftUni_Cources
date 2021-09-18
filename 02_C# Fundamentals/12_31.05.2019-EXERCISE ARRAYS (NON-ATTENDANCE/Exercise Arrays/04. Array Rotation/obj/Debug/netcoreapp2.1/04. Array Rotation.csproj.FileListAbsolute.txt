@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\04. Array Rotation\bin\Debug\netcoreapp2.1\04. Array Rotation.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\04. Array Rotation\bin\Debug\netcoreapp2.1\04. Array Rotation.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\04. Array Rotation\bin\Debug\netcoreapp2.1\04. Array Rotation.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\04. Array Rotation\bin\Debug\netcoreapp2.1\04. Array Rotation.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\04. Array Rotation\bin\Debug\netcoreapp2.1\04. Array Rotation.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\04. Array Rotation\obj\Debug\netcoreapp2.1\04. Array Rotation.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\04. Array Rotation\obj\Debug\netcoreapp2.1\04. Array Rotation.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\04. Array Rotation\obj\Debug\netcoreapp2.1\04. Array Rotation.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\04. Array Rotation\obj\Debug\netcoreapp2.1\04. Array Rotation.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\04. Array Rotation\obj\Debug\netcoreapp2.1\04. Array Rotation.pdb

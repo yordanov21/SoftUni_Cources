@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\Exam Preparation03-18.04.2019-Retake Final Exam\retake final\01 AnimalSanct\bin\Debug\netcoreapp2.1\01 AnimalSanct.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\Exam Preparation03-18.04.2019-Retake Final Exam\retake final\01 AnimalSanct\bin\Debug\netcoreapp2.1\01 AnimalSanct.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\Exam Preparation03-18.04.2019-Retake Final Exam\retake final\01 AnimalSanct\bin\Debug\netcoreapp2.1\01 AnimalSanct.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\Exam Preparation03-18.04.2019-Retake Final Exam\retake final\01 AnimalSanct\bin\Debug\netcoreapp2.1\01 AnimalSanct.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\Exam Preparation03-18.04.2019-Retake Final Exam\retake final\01 AnimalSanct\bin\Debug\netcoreapp2.1\01 AnimalSanct.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\Exam Preparation03-18.04.2019-Retake Final Exam\retake final\01 AnimalSanct\obj\Debug\netcoreapp2.1\01 AnimalSanct.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\Exam Preparation03-18.04.2019-Retake Final Exam\retake final\01 AnimalSanct\obj\Debug\netcoreapp2.1\01 AnimalSanct.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\Exam Preparation03-18.04.2019-Retake Final Exam\retake final\01 AnimalSanct\obj\Debug\netcoreapp2.1\01 AnimalSanct.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\Exam Preparation03-18.04.2019-Retake Final Exam\retake final\01 AnimalSanct\obj\Debug\netcoreapp2.1\01 AnimalSanct.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\Exam Preparation03-18.04.2019-Retake Final Exam\retake final\01 AnimalSanct\obj\Debug\netcoreapp2.1\01 AnimalSanct.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\Exam Preparation03-18.04.2019-Retake Final Exam\retake final\01 AnimalSanct\obj\Debug\netcoreapp2.1\01 AnimalSanct.pdb

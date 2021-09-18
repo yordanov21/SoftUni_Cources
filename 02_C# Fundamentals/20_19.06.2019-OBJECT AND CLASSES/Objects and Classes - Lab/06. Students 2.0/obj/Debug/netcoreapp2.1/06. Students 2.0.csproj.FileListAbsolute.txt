@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\06. Students 2.0\bin\Debug\netcoreapp2.1\06. Students 2.0.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\06. Students 2.0\bin\Debug\netcoreapp2.1\06. Students 2.0.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\06. Students 2.0\bin\Debug\netcoreapp2.1\06. Students 2.0.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\06. Students 2.0\bin\Debug\netcoreapp2.1\06. Students 2.0.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\06. Students 2.0\bin\Debug\netcoreapp2.1\06. Students 2.0.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\06. Students 2.0\obj\Debug\netcoreapp2.1\06. Students 2.0.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\06. Students 2.0\obj\Debug\netcoreapp2.1\06. Students 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\06. Students 2.0\obj\Debug\netcoreapp2.1\06. Students 2.0.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\06. Students 2.0\obj\Debug\netcoreapp2.1\06. Students 2.0.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\06. Students 2.0\obj\Debug\netcoreapp2.1\06. Students 2.0.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\06. Students 2.0\obj\Debug\netcoreapp2.1\06. Students 2.0.pdb

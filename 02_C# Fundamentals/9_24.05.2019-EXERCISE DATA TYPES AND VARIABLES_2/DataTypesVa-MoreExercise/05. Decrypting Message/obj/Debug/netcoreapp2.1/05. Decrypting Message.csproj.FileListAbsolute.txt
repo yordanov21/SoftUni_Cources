@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\05. Decrypting Message\obj\Debug\netcoreapp2.1\05. Decrypting Message.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\05. Decrypting Message\obj\Debug\netcoreapp2.1\05. Decrypting Message.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\05. Decrypting Message\obj\Debug\netcoreapp2.1\05. Decrypting Message.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\05. Decrypting Message\bin\Debug\netcoreapp2.1\05. Decrypting Message.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\05. Decrypting Message\bin\Debug\netcoreapp2.1\05. Decrypting Message.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\05. Decrypting Message\bin\Debug\netcoreapp2.1\05. Decrypting Message.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\05. Decrypting Message\bin\Debug\netcoreapp2.1\05. Decrypting Message.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\05. Decrypting Message\bin\Debug\netcoreapp2.1\05. Decrypting Message.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\05. Decrypting Message\obj\Debug\netcoreapp2.1\05. Decrypting Message.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\05. Decrypting Message\obj\Debug\netcoreapp2.1\05. Decrypting Message.pdb

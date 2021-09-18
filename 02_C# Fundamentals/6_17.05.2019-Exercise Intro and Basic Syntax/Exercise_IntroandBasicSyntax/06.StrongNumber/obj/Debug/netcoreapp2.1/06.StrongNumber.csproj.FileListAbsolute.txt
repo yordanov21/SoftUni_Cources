@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\06.StrongNumber\obj\Debug\netcoreapp2.1\06.StrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\06.StrongNumber\obj\Debug\netcoreapp2.1\06.StrongNumber.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\06.StrongNumber\obj\Debug\netcoreapp2.1\06.StrongNumber.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\06.StrongNumber\bin\Debug\netcoreapp2.1\06.StrongNumber.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\06.StrongNumber\bin\Debug\netcoreapp2.1\06.StrongNumber.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\06.StrongNumber\bin\Debug\netcoreapp2.1\06.StrongNumber.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\06.StrongNumber\bin\Debug\netcoreapp2.1\06.StrongNumber.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\06.StrongNumber\bin\Debug\netcoreapp2.1\06.StrongNumber.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\06.StrongNumber\obj\Debug\netcoreapp2.1\06.StrongNumber.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\06.StrongNumber\obj\Debug\netcoreapp2.1\06.StrongNumber.pdb

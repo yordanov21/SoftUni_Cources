@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Winning Ticket", "1. Winning Ticket\1. Winning Ticket.csproj", "{E0344E75-B272-4D6E-B876-59FB5136506D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0344E75-B272-4D6E-B876-59FB5136506D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0344E75-B272-4D6E-B876-59FB5136506D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0344E75-B272-4D6E-B876-59FB5136506D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0344E75-B272-4D6E-B876-59FB5136506D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5E7EED9-3ED1-448B-BD5B-DFB29B049ACE}
+	EndGlobalSection
+EndGlobal

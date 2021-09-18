@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\08. Vehicle Catalogue\bin\Debug\netcoreapp2.1\08. Vehicle Catalogue.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\08. Vehicle Catalogue\bin\Debug\netcoreapp2.1\08. Vehicle Catalogue.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\08. Vehicle Catalogue\bin\Debug\netcoreapp2.1\08. Vehicle Catalogue.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\08. Vehicle Catalogue\bin\Debug\netcoreapp2.1\08. Vehicle Catalogue.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\08. Vehicle Catalogue\bin\Debug\netcoreapp2.1\08. Vehicle Catalogue.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\08. Vehicle Catalogue\obj\Debug\netcoreapp2.1\08. Vehicle Catalogue.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\08. Vehicle Catalogue\obj\Debug\netcoreapp2.1\08. Vehicle Catalogue.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\08. Vehicle Catalogue\obj\Debug\netcoreapp2.1\08. Vehicle Catalogue.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\08. Vehicle Catalogue\obj\Debug\netcoreapp2.1\08. Vehicle Catalogue.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\08. Vehicle Catalogue\obj\Debug\netcoreapp2.1\08. Vehicle Catalogue.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\08. Vehicle Catalogue\obj\Debug\netcoreapp2.1\08. Vehicle Catalogue.pdb

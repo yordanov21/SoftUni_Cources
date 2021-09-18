@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Arrays - More Exercise\03. Recursive Fibonacci\bin\Debug\netcoreapp2.1\03. Recursive Fibonacci.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Arrays - More Exercise\03. Recursive Fibonacci\bin\Debug\netcoreapp2.1\03. Recursive Fibonacci.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Arrays - More Exercise\03. Recursive Fibonacci\bin\Debug\netcoreapp2.1\03. Recursive Fibonacci.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Arrays - More Exercise\03. Recursive Fibonacci\bin\Debug\netcoreapp2.1\03. Recursive Fibonacci.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Arrays - More Exercise\03. Recursive Fibonacci\bin\Debug\netcoreapp2.1\03. Recursive Fibonacci.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Arrays - More Exercise\03. Recursive Fibonacci\obj\Debug\netcoreapp2.1\03. Recursive Fibonacci.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Arrays - More Exercise\03. Recursive Fibonacci\obj\Debug\netcoreapp2.1\03. Recursive Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Arrays - More Exercise\03. Recursive Fibonacci\obj\Debug\netcoreapp2.1\03. Recursive Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Arrays - More Exercise\03. Recursive Fibonacci\obj\Debug\netcoreapp2.1\03. Recursive Fibonacci.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Arrays - More Exercise\03. Recursive Fibonacci\obj\Debug\netcoreapp2.1\03. Recursive Fibonacci.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Arrays - More Exercise\03. Recursive Fibonacci\obj\Debug\netcoreapp2.1\03. Recursive Fibonacci.pdb

@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\07. Store Boxes\bin\Debug\netcoreapp2.1\07. Store Boxes.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\07. Store Boxes\bin\Debug\netcoreapp2.1\07. Store Boxes.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\07. Store Boxes\bin\Debug\netcoreapp2.1\07. Store Boxes.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\07. Store Boxes\bin\Debug\netcoreapp2.1\07. Store Boxes.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\07. Store Boxes\bin\Debug\netcoreapp2.1\07. Store Boxes.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\07. Store Boxes\obj\Debug\netcoreapp2.1\07. Store Boxes.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\07. Store Boxes\obj\Debug\netcoreapp2.1\07. Store Boxes.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\07. Store Boxes\obj\Debug\netcoreapp2.1\07. Store Boxes.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\07. Store Boxes\obj\Debug\netcoreapp2.1\07. Store Boxes.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\07. Store Boxes\obj\Debug\netcoreapp2.1\07. Store Boxes.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\07. Store Boxes\obj\Debug\netcoreapp2.1\07. Store Boxes.pdb

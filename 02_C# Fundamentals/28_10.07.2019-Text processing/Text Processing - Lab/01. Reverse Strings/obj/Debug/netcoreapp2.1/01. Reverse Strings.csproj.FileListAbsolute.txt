@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp2.1\01. Reverse Strings.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp2.1\01. Reverse Strings.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp2.1\01. Reverse Strings.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp2.1\01. Reverse Strings.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp2.1\01. Reverse Strings.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp2.1\01. Reverse Strings.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp2.1\01. Reverse Strings.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp2.1\01. Reverse Strings.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp2.1\01. Reverse Strings.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp2.1\01. Reverse Strings.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\10.07.2019-Text processing\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp2.1\01. Reverse Strings.pdb

@@ -1,0 +1,10 @@
+C:\Users\Dancho\source\repos\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\netcoreapp2.1\04. Reverse Array of Strings.deps.json
+C:\Users\Dancho\source\repos\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\netcoreapp2.1\04. Reverse Array of Strings.runtimeconfig.json
+C:\Users\Dancho\source\repos\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\netcoreapp2.1\04. Reverse Array of Strings.runtimeconfig.dev.json
+C:\Users\Dancho\source\repos\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\netcoreapp2.1\04. Reverse Array of Strings.dll
+C:\Users\Dancho\source\repos\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\netcoreapp2.1\04. Reverse Array of Strings.pdb
+C:\Users\Dancho\source\repos\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\netcoreapp2.1\04. Reverse Array of Strings.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\source\repos\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\netcoreapp2.1\04. Reverse Array of Strings.AssemblyInfoInputs.cache
+C:\Users\Dancho\source\repos\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\netcoreapp2.1\04. Reverse Array of Strings.AssemblyInfo.cs
+C:\Users\Dancho\source\repos\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\netcoreapp2.1\04. Reverse Array of Strings.dll
+C:\Users\Dancho\source\repos\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\netcoreapp2.1\04. Reverse Array of Strings.pdb

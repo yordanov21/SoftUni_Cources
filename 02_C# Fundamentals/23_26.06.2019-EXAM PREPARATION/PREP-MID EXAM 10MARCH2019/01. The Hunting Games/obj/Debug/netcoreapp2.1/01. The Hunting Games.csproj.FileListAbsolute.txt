@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\PREP-MID EXAM 10MARCH2019\01. The Hunting Games\bin\Debug\netcoreapp2.1\01. The Hunting Games.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\PREP-MID EXAM 10MARCH2019\01. The Hunting Games\bin\Debug\netcoreapp2.1\01. The Hunting Games.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\PREP-MID EXAM 10MARCH2019\01. The Hunting Games\bin\Debug\netcoreapp2.1\01. The Hunting Games.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\PREP-MID EXAM 10MARCH2019\01. The Hunting Games\bin\Debug\netcoreapp2.1\01. The Hunting Games.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\PREP-MID EXAM 10MARCH2019\01. The Hunting Games\bin\Debug\netcoreapp2.1\01. The Hunting Games.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\PREP-MID EXAM 10MARCH2019\01. The Hunting Games\obj\Debug\netcoreapp2.1\01. The Hunting Games.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\PREP-MID EXAM 10MARCH2019\01. The Hunting Games\obj\Debug\netcoreapp2.1\01. The Hunting Games.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\PREP-MID EXAM 10MARCH2019\01. The Hunting Games\obj\Debug\netcoreapp2.1\01. The Hunting Games.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\PREP-MID EXAM 10MARCH2019\01. The Hunting Games\obj\Debug\netcoreapp2.1\01. The Hunting Games.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\PREP-MID EXAM 10MARCH2019\01. The Hunting Games\obj\Debug\netcoreapp2.1\01. The Hunting Games.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\PREP-MID EXAM 10MARCH2019\01. The Hunting Games\obj\Debug\netcoreapp2.1\01. The Hunting Games.pdb

@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\03. Elevator\bin\Debug\netcoreapp2.1\03. Elevator.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\03. Elevator\bin\Debug\netcoreapp2.1\03. Elevator.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\03. Elevator\bin\Debug\netcoreapp2.1\03. Elevator.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\03. Elevator\bin\Debug\netcoreapp2.1\03. Elevator.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\03. Elevator\bin\Debug\netcoreapp2.1\03. Elevator.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\03. Elevator\obj\Debug\netcoreapp2.1\03. Elevator.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\03. Elevator\obj\Debug\netcoreapp2.1\03. Elevator.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\03. Elevator\obj\Debug\netcoreapp2.1\03. Elevator.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\03. Elevator\obj\Debug\netcoreapp2.1\03. Elevator.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\03. Elevator\obj\Debug\netcoreapp2.1\03. Elevator.pdb

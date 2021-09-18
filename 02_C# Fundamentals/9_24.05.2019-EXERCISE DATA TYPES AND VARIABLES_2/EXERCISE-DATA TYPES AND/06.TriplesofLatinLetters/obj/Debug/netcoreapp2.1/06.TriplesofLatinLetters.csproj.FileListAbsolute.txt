@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\06.TriplesofLatinLetters\bin\Debug\netcoreapp2.1\06.TriplesofLatinLetters.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\06.TriplesofLatinLetters\bin\Debug\netcoreapp2.1\06.TriplesofLatinLetters.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\06.TriplesofLatinLetters\bin\Debug\netcoreapp2.1\06.TriplesofLatinLetters.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\06.TriplesofLatinLetters\bin\Debug\netcoreapp2.1\06.TriplesofLatinLetters.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\06.TriplesofLatinLetters\bin\Debug\netcoreapp2.1\06.TriplesofLatinLetters.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\06.TriplesofLatinLetters\obj\Debug\netcoreapp2.1\06.TriplesofLatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\06.TriplesofLatinLetters\obj\Debug\netcoreapp2.1\06.TriplesofLatinLetters.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\06.TriplesofLatinLetters\obj\Debug\netcoreapp2.1\06.TriplesofLatinLetters.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\06.TriplesofLatinLetters\obj\Debug\netcoreapp2.1\06.TriplesofLatinLetters.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\06.TriplesofLatinLetters\obj\Debug\netcoreapp2.1\06.TriplesofLatinLetters.pdb

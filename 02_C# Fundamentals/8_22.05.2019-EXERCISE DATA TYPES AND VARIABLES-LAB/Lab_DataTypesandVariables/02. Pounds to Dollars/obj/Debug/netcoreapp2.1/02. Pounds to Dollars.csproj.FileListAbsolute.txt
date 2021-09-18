@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\02. Pounds to Dollars\bin\Debug\netcoreapp2.1\02. Pounds to Dollars.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\02. Pounds to Dollars\bin\Debug\netcoreapp2.1\02. Pounds to Dollars.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\02. Pounds to Dollars\bin\Debug\netcoreapp2.1\02. Pounds to Dollars.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\02. Pounds to Dollars\bin\Debug\netcoreapp2.1\02. Pounds to Dollars.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\02. Pounds to Dollars\bin\Debug\netcoreapp2.1\02. Pounds to Dollars.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\02. Pounds to Dollars\obj\Debug\netcoreapp2.1\02. Pounds to Dollars.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\02. Pounds to Dollars\obj\Debug\netcoreapp2.1\02. Pounds to Dollars.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\02. Pounds to Dollars\obj\Debug\netcoreapp2.1\02. Pounds to Dollars.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\02. Pounds to Dollars\obj\Debug\netcoreapp2.1\02. Pounds to Dollars.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\02. Pounds to Dollars\obj\Debug\netcoreapp2.1\02. Pounds to Dollars.pdb

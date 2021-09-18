@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\06. Equal Sum\bin\Debug\netcoreapp2.1\06. Equal Sum.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\06. Equal Sum\bin\Debug\netcoreapp2.1\06. Equal Sum.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\06. Equal Sum\bin\Debug\netcoreapp2.1\06. Equal Sum.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\06. Equal Sum\bin\Debug\netcoreapp2.1\06. Equal Sum.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\06. Equal Sum\bin\Debug\netcoreapp2.1\06. Equal Sum.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\06. Equal Sum\obj\Debug\netcoreapp2.1\06. Equal Sum.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\06. Equal Sum\obj\Debug\netcoreapp2.1\06. Equal Sum.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\06. Equal Sum\obj\Debug\netcoreapp2.1\06. Equal Sum.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\06. Equal Sum\obj\Debug\netcoreapp2.1\06. Equal Sum.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\06. Equal Sum\obj\Debug\netcoreapp2.1\06. Equal Sum.pdb

@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\22.06.2019-DEMO-MID EXAM\DemoProgrammingFundamentaLSMidExam\03.Last Stop\bin\Debug\netcoreapp2.1\03.Last Stop.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\22.06.2019-DEMO-MID EXAM\DemoProgrammingFundamentaLSMidExam\03.Last Stop\bin\Debug\netcoreapp2.1\03.Last Stop.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\22.06.2019-DEMO-MID EXAM\DemoProgrammingFundamentaLSMidExam\03.Last Stop\bin\Debug\netcoreapp2.1\03.Last Stop.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\22.06.2019-DEMO-MID EXAM\DemoProgrammingFundamentaLSMidExam\03.Last Stop\bin\Debug\netcoreapp2.1\03.Last Stop.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\22.06.2019-DEMO-MID EXAM\DemoProgrammingFundamentaLSMidExam\03.Last Stop\bin\Debug\netcoreapp2.1\03.Last Stop.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\22.06.2019-DEMO-MID EXAM\DemoProgrammingFundamentaLSMidExam\03.Last Stop\obj\Debug\netcoreapp2.1\03.Last Stop.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\22.06.2019-DEMO-MID EXAM\DemoProgrammingFundamentaLSMidExam\03.Last Stop\obj\Debug\netcoreapp2.1\03.Last Stop.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\22.06.2019-DEMO-MID EXAM\DemoProgrammingFundamentaLSMidExam\03.Last Stop\obj\Debug\netcoreapp2.1\03.Last Stop.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\22.06.2019-DEMO-MID EXAM\DemoProgrammingFundamentaLSMidExam\03.Last Stop\obj\Debug\netcoreapp2.1\03.Last Stop.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\22.06.2019-DEMO-MID EXAM\DemoProgrammingFundamentaLSMidExam\03.Last Stop\obj\Debug\netcoreapp2.1\03.Last Stop.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\22.06.2019-DEMO-MID EXAM\DemoProgrammingFundamentaLSMidExam\03.Last Stop\obj\Debug\netcoreapp2.1\03.Last Stop.pdb

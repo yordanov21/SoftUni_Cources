@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp2.1\10. Multiply Evens by Odds.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp2.1\10. Multiply Evens by Odds.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp2.1\10. Multiply Evens by Odds.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp2.1\10. Multiply Evens by Odds.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\10. Multiply Evens by Odds\bin\Debug\netcoreapp2.1\10. Multiply Evens by Odds.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp2.1\10. Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp2.1\10. Multiply Evens by Odds.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp2.1\10. Multiply Evens by Odds.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp2.1\10. Multiply Evens by Odds.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp2.1\10. Multiply Evens by Odds.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\10. Multiply Evens by Odds\obj\Debug\netcoreapp2.1\10. Multiply Evens by Odds.csprojAssemblyReference.cache

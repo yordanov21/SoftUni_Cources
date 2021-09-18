@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\07. Repeat String\bin\Debug\netcoreapp2.1\07. Repeat String.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\07. Repeat String\bin\Debug\netcoreapp2.1\07. Repeat String.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\07. Repeat String\bin\Debug\netcoreapp2.1\07. Repeat String.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\07. Repeat String\bin\Debug\netcoreapp2.1\07. Repeat String.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\07. Repeat String\bin\Debug\netcoreapp2.1\07. Repeat String.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\07. Repeat String\obj\Debug\netcoreapp2.1\07. Repeat String.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\07. Repeat String\obj\Debug\netcoreapp2.1\07. Repeat String.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\07. Repeat String\obj\Debug\netcoreapp2.1\07. Repeat String.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\07. Repeat String\obj\Debug\netcoreapp2.1\07. Repeat String.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\07. Repeat String\obj\Debug\netcoreapp2.1\07. Repeat String.pdb

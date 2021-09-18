@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\09. Kamino Factory\bin\Debug\netcoreapp2.1\09. Kamino Factory.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\09. Kamino Factory\bin\Debug\netcoreapp2.1\09. Kamino Factory.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\09. Kamino Factory\bin\Debug\netcoreapp2.1\09. Kamino Factory.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\09. Kamino Factory\bin\Debug\netcoreapp2.1\09. Kamino Factory.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\09. Kamino Factory\bin\Debug\netcoreapp2.1\09. Kamino Factory.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\09. Kamino Factory\obj\Debug\netcoreapp2.1\09. Kamino Factory.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\09. Kamino Factory\obj\Debug\netcoreapp2.1\09. Kamino Factory.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\09. Kamino Factory\obj\Debug\netcoreapp2.1\09. Kamino Factory.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\09. Kamino Factory\obj\Debug\netcoreapp2.1\09. Kamino Factory.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\09. Kamino Factory\obj\Debug\netcoreapp2.1\09. Kamino Factory.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\09. Kamino Factory\obj\Debug\netcoreapp2.1\09. Kamino Factory.pdb

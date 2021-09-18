@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\14.06.2019-LIST-ARRAYS ADVANCED-EXERCISE\Lists - Exercise\03. House Party\bin\Debug\netcoreapp2.1\03. House Party.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\14.06.2019-LIST-ARRAYS ADVANCED-EXERCISE\Lists - Exercise\03. House Party\bin\Debug\netcoreapp2.1\03. House Party.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\14.06.2019-LIST-ARRAYS ADVANCED-EXERCISE\Lists - Exercise\03. House Party\bin\Debug\netcoreapp2.1\03. House Party.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\14.06.2019-LIST-ARRAYS ADVANCED-EXERCISE\Lists - Exercise\03. House Party\bin\Debug\netcoreapp2.1\03. House Party.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\14.06.2019-LIST-ARRAYS ADVANCED-EXERCISE\Lists - Exercise\03. House Party\bin\Debug\netcoreapp2.1\03. House Party.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\14.06.2019-LIST-ARRAYS ADVANCED-EXERCISE\Lists - Exercise\03. House Party\obj\Debug\netcoreapp2.1\03. House Party.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\14.06.2019-LIST-ARRAYS ADVANCED-EXERCISE\Lists - Exercise\03. House Party\obj\Debug\netcoreapp2.1\03. House Party.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\14.06.2019-LIST-ARRAYS ADVANCED-EXERCISE\Lists - Exercise\03. House Party\obj\Debug\netcoreapp2.1\03. House Party.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\14.06.2019-LIST-ARRAYS ADVANCED-EXERCISE\Lists - Exercise\03. House Party\obj\Debug\netcoreapp2.1\03. House Party.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\14.06.2019-LIST-ARRAYS ADVANCED-EXERCISE\Lists - Exercise\03. House Party\obj\Debug\netcoreapp2.1\03. House Party.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\14.06.2019-LIST-ARRAYS ADVANCED-EXERCISE\Lists - Exercise\03. House Party\obj\Debug\netcoreapp2.1\03. House Party.pdb

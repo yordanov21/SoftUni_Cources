@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\08. Beer Kegs\bin\Debug\netcoreapp2.1\08. Beer Kegs.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\08. Beer Kegs\bin\Debug\netcoreapp2.1\08. Beer Kegs.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\08. Beer Kegs\bin\Debug\netcoreapp2.1\08. Beer Kegs.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\08. Beer Kegs\bin\Debug\netcoreapp2.1\08. Beer Kegs.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\08. Beer Kegs\bin\Debug\netcoreapp2.1\08. Beer Kegs.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\08. Beer Kegs\obj\Debug\netcoreapp2.1\08. Beer Kegs.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\08. Beer Kegs\obj\Debug\netcoreapp2.1\08. Beer Kegs.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\08. Beer Kegs\obj\Debug\netcoreapp2.1\08. Beer Kegs.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\08. Beer Kegs\obj\Debug\netcoreapp2.1\08. Beer Kegs.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\08. Beer Kegs\obj\Debug\netcoreapp2.1\08. Beer Kegs.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\08. Beer Kegs\obj\Debug\netcoreapp2.1\08. Beer Kegs.pdb

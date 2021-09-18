@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\02. Grades\bin\Debug\netcoreapp2.1\02. Grades.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\02. Grades\bin\Debug\netcoreapp2.1\02. Grades.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\02. Grades\bin\Debug\netcoreapp2.1\02. Grades.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\02. Grades\bin\Debug\netcoreapp2.1\02. Grades.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\02. Grades\bin\Debug\netcoreapp2.1\02. Grades.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\02. Grades\obj\Debug\netcoreapp2.1\02. Grades.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\02. Grades\obj\Debug\netcoreapp2.1\02. Grades.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\02. Grades\obj\Debug\netcoreapp2.1\02. Grades.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\02. Grades\obj\Debug\netcoreapp2.1\02. Grades.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\02. Grades\obj\Debug\netcoreapp2.1\02. Grades.pdb

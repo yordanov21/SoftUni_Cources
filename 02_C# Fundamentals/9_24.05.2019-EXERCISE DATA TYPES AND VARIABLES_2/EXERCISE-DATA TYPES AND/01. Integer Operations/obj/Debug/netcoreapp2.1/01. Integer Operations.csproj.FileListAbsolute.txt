@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\01. Integer Operations\bin\Debug\netcoreapp2.1\01. Integer Operations.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\01. Integer Operations\bin\Debug\netcoreapp2.1\01. Integer Operations.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\01. Integer Operations\bin\Debug\netcoreapp2.1\01. Integer Operations.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\01. Integer Operations\bin\Debug\netcoreapp2.1\01. Integer Operations.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\01. Integer Operations\bin\Debug\netcoreapp2.1\01. Integer Operations.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\01. Integer Operations\obj\Debug\netcoreapp2.1\01. Integer Operations.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\01. Integer Operations\obj\Debug\netcoreapp2.1\01. Integer Operations.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\01. Integer Operations\obj\Debug\netcoreapp2.1\01. Integer Operations.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\01. Integer Operations\obj\Debug\netcoreapp2.1\01. Integer Operations.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\01. Integer Operations\obj\Debug\netcoreapp2.1\01. Integer Operations.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\EXERCISE-DATA TYPES AND\01. Integer Operations\obj\Debug\netcoreapp2.1\01. Integer Operations.pdb

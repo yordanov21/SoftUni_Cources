@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\10.RageExpenses\bin\Debug\netcoreapp2.1\10.RageExpenses.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\10.RageExpenses\bin\Debug\netcoreapp2.1\10.RageExpenses.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\10.RageExpenses\bin\Debug\netcoreapp2.1\10.RageExpenses.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\10.RageExpenses\bin\Debug\netcoreapp2.1\10.RageExpenses.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\10.RageExpenses\bin\Debug\netcoreapp2.1\10.RageExpenses.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\10.RageExpenses\obj\Debug\netcoreapp2.1\10.RageExpenses.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\10.RageExpenses\obj\Debug\netcoreapp2.1\10.RageExpenses.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\10.RageExpenses\obj\Debug\netcoreapp2.1\10.RageExpenses.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\10.RageExpenses\obj\Debug\netcoreapp2.1\10.RageExpenses.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\10.RageExpenses\obj\Debug\netcoreapp2.1\10.RageExpenses.pdb

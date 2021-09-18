@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\08. Company Users\bin\Debug\netcoreapp2.1\08. Company Users.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\08. Company Users\bin\Debug\netcoreapp2.1\08. Company Users.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\08. Company Users\bin\Debug\netcoreapp2.1\08. Company Users.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\08. Company Users\bin\Debug\netcoreapp2.1\08. Company Users.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\08. Company Users\bin\Debug\netcoreapp2.1\08. Company Users.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\08. Company Users\obj\Debug\netcoreapp2.1\08. Company Users.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\08. Company Users\obj\Debug\netcoreapp2.1\08. Company Users.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\08. Company Users\obj\Debug\netcoreapp2.1\08. Company Users.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\08. Company Users\obj\Debug\netcoreapp2.1\08. Company Users.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\08. Company Users\obj\Debug\netcoreapp2.1\08. Company Users.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\08. Company Users\obj\Debug\netcoreapp2.1\08. Company Users.pdb

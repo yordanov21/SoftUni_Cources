@@ -1,0 +1,10 @@
+C:\Users\Dancho\source\repos\Arrays - Lab\03. Rounding Numbers\bin\Debug\netcoreapp2.1\03. Rounding Numbers.deps.json
+C:\Users\Dancho\source\repos\Arrays - Lab\03. Rounding Numbers\bin\Debug\netcoreapp2.1\03. Rounding Numbers.runtimeconfig.json
+C:\Users\Dancho\source\repos\Arrays - Lab\03. Rounding Numbers\bin\Debug\netcoreapp2.1\03. Rounding Numbers.runtimeconfig.dev.json
+C:\Users\Dancho\source\repos\Arrays - Lab\03. Rounding Numbers\bin\Debug\netcoreapp2.1\03. Rounding Numbers.dll
+C:\Users\Dancho\source\repos\Arrays - Lab\03. Rounding Numbers\bin\Debug\netcoreapp2.1\03. Rounding Numbers.pdb
+C:\Users\Dancho\source\repos\Arrays - Lab\03. Rounding Numbers\obj\Debug\netcoreapp2.1\03. Rounding Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\source\repos\Arrays - Lab\03. Rounding Numbers\obj\Debug\netcoreapp2.1\03. Rounding Numbers.AssemblyInfoInputs.cache
+C:\Users\Dancho\source\repos\Arrays - Lab\03. Rounding Numbers\obj\Debug\netcoreapp2.1\03. Rounding Numbers.AssemblyInfo.cs
+C:\Users\Dancho\source\repos\Arrays - Lab\03. Rounding Numbers\obj\Debug\netcoreapp2.1\03. Rounding Numbers.dll
+C:\Users\Dancho\source\repos\Arrays - Lab\03. Rounding Numbers\obj\Debug\netcoreapp2.1\03. Rounding Numbers.pdb

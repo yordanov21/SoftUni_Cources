@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\34_24.07.2019-EXAM PREPARATION-1\Exam preparation-02\01. Concert\bin\Debug\netcoreapp2.1\01. Concert.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\34_24.07.2019-EXAM PREPARATION-1\Exam preparation-02\01. Concert\bin\Debug\netcoreapp2.1\01. Concert.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\34_24.07.2019-EXAM PREPARATION-1\Exam preparation-02\01. Concert\bin\Debug\netcoreapp2.1\01. Concert.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\34_24.07.2019-EXAM PREPARATION-1\Exam preparation-02\01. Concert\bin\Debug\netcoreapp2.1\01. Concert.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\34_24.07.2019-EXAM PREPARATION-1\Exam preparation-02\01. Concert\bin\Debug\netcoreapp2.1\01. Concert.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\34_24.07.2019-EXAM PREPARATION-1\Exam preparation-02\01. Concert\obj\Debug\netcoreapp2.1\01. Concert.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\34_24.07.2019-EXAM PREPARATION-1\Exam preparation-02\01. Concert\obj\Debug\netcoreapp2.1\01. Concert.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\34_24.07.2019-EXAM PREPARATION-1\Exam preparation-02\01. Concert\obj\Debug\netcoreapp2.1\01. Concert.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\34_24.07.2019-EXAM PREPARATION-1\Exam preparation-02\01. Concert\obj\Debug\netcoreapp2.1\01. Concert.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\34_24.07.2019-EXAM PREPARATION-1\Exam preparation-02\01. Concert\obj\Debug\netcoreapp2.1\01. Concert.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\34_24.07.2019-EXAM PREPARATION-1\Exam preparation-02\01. Concert\obj\Debug\netcoreapp2.1\01. Concert.pdb

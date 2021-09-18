@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\11. Snowballs\bin\Debug\netcoreapp2.1\11. Snowballs.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\11. Snowballs\bin\Debug\netcoreapp2.1\11. Snowballs.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\11. Snowballs\bin\Debug\netcoreapp2.1\11. Snowballs.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\11. Snowballs\bin\Debug\netcoreapp2.1\11. Snowballs.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\11. Snowballs\bin\Debug\netcoreapp2.1\11. Snowballs.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\11. Snowballs\obj\Debug\netcoreapp2.1\11. Snowballs.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\11. Snowballs\obj\Debug\netcoreapp2.1\11. Snowballs.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\11. Snowballs\obj\Debug\netcoreapp2.1\11. Snowballs.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\11. Snowballs\obj\Debug\netcoreapp2.1\11. Snowballs.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\02_Exercise_DataType andVariables2\11. Snowballs\obj\Debug\netcoreapp2.1\11. Snowballs.pdb

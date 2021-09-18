@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\09. Chars to String\bin\Debug\netcoreapp2.1\09. Chars to String.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\09. Chars to String\bin\Debug\netcoreapp2.1\09. Chars to String.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\09. Chars to String\bin\Debug\netcoreapp2.1\09. Chars to String.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\09. Chars to String\bin\Debug\netcoreapp2.1\09. Chars to String.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\09. Chars to String\bin\Debug\netcoreapp2.1\09. Chars to String.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\09. Chars to String\obj\Debug\netcoreapp2.1\09. Chars to String.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\09. Chars to String\obj\Debug\netcoreapp2.1\09. Chars to String.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\09. Chars to String\obj\Debug\netcoreapp2.1\09. Chars to String.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\09. Chars to String\obj\Debug\netcoreapp2.1\09. Chars to String.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\09. Chars to String\obj\Debug\netcoreapp2.1\09. Chars to String.pdb

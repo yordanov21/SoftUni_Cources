@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\14.06.2019-LIST-ARRAYS ADVANCED-EXERCISE\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp2.1\04. List Operations.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\14.06.2019-LIST-ARRAYS ADVANCED-EXERCISE\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp2.1\04. List Operations.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\14.06.2019-LIST-ARRAYS ADVANCED-EXERCISE\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp2.1\04. List Operations.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\14.06.2019-LIST-ARRAYS ADVANCED-EXERCISE\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp2.1\04. List Operations.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\14.06.2019-LIST-ARRAYS ADVANCED-EXERCISE\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp2.1\04. List Operations.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\14.06.2019-LIST-ARRAYS ADVANCED-EXERCISE\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp2.1\04. List Operations.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\14.06.2019-LIST-ARRAYS ADVANCED-EXERCISE\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp2.1\04. List Operations.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\14.06.2019-LIST-ARRAYS ADVANCED-EXERCISE\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp2.1\04. List Operations.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\14.06.2019-LIST-ARRAYS ADVANCED-EXERCISE\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp2.1\04. List Operations.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\14.06.2019-LIST-ARRAYS ADVANCED-EXERCISE\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp2.1\04. List Operations.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\14.06.2019-LIST-ARRAYS ADVANCED-EXERCISE\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp2.1\04. List Operations.pdb

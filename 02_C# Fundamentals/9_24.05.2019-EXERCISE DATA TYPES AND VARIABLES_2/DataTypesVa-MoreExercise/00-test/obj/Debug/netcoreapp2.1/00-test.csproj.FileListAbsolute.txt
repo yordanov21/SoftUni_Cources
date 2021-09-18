@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\00-test\bin\Debug\netcoreapp2.1\00-test.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\00-test\bin\Debug\netcoreapp2.1\00-test.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\00-test\bin\Debug\netcoreapp2.1\00-test.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\00-test\bin\Debug\netcoreapp2.1\00-test.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\00-test\bin\Debug\netcoreapp2.1\00-test.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\00-test\obj\Debug\netcoreapp2.1\00-test.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\00-test\obj\Debug\netcoreapp2.1\00-test.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\00-test\obj\Debug\netcoreapp2.1\00-test.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\00-test\obj\Debug\netcoreapp2.1\00-test.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\00-test\obj\Debug\netcoreapp2.1\00-test.pdb

@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\05. Teamwork projects\bin\Debug\netcoreapp2.1\05. Teamwork projects.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\05. Teamwork projects\bin\Debug\netcoreapp2.1\05. Teamwork projects.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\05. Teamwork projects\bin\Debug\netcoreapp2.1\05. Teamwork projects.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\05. Teamwork projects\bin\Debug\netcoreapp2.1\05. Teamwork projects.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\05. Teamwork projects\bin\Debug\netcoreapp2.1\05. Teamwork projects.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\05. Teamwork projects\obj\Debug\netcoreapp2.1\05. Teamwork projects.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\05. Teamwork projects\obj\Debug\netcoreapp2.1\05. Teamwork projects.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\05. Teamwork projects\obj\Debug\netcoreapp2.1\05. Teamwork projects.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\05. Teamwork projects\obj\Debug\netcoreapp2.1\05. Teamwork projects.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\05. Teamwork projects\obj\Debug\netcoreapp2.1\05. Teamwork projects.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\05. Teamwork projects\obj\Debug\netcoreapp2.1\05. Teamwork projects.pdb

@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\07. Student Academy\bin\Debug\netcoreapp2.1\07. Student Academy.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\07. Student Academy\bin\Debug\netcoreapp2.1\07. Student Academy.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\07. Student Academy\bin\Debug\netcoreapp2.1\07. Student Academy.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\07. Student Academy\bin\Debug\netcoreapp2.1\07. Student Academy.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\07. Student Academy\bin\Debug\netcoreapp2.1\07. Student Academy.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\07. Student Academy\obj\Debug\netcoreapp2.1\07. Student Academy.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\07. Student Academy\obj\Debug\netcoreapp2.1\07. Student Academy.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\07. Student Academy\obj\Debug\netcoreapp2.1\07. Student Academy.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\07. Student Academy\obj\Debug\netcoreapp2.1\07. Student Academy.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\07. Student Academy\obj\Debug\netcoreapp2.1\07. Student Academy.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\07. Student Academy\obj\Debug\netcoreapp2.1\07. Student Academy.pdb

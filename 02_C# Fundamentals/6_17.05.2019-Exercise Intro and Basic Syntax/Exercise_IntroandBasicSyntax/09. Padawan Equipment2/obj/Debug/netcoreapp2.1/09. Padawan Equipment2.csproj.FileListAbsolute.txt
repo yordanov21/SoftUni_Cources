@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\09. Padawan Equipment2\bin\Debug\netcoreapp2.1\09. Padawan Equipment2.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\09. Padawan Equipment2\bin\Debug\netcoreapp2.1\09. Padawan Equipment2.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\09. Padawan Equipment2\bin\Debug\netcoreapp2.1\09. Padawan Equipment2.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\09. Padawan Equipment2\bin\Debug\netcoreapp2.1\09. Padawan Equipment2.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\09. Padawan Equipment2\bin\Debug\netcoreapp2.1\09. Padawan Equipment2.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\09. Padawan Equipment2\obj\Debug\netcoreapp2.1\09. Padawan Equipment2.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\09. Padawan Equipment2\obj\Debug\netcoreapp2.1\09. Padawan Equipment2.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\09. Padawan Equipment2\obj\Debug\netcoreapp2.1\09. Padawan Equipment2.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\09. Padawan Equipment2\obj\Debug\netcoreapp2.1\09. Padawan Equipment2.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\09. Padawan Equipment2\obj\Debug\netcoreapp2.1\09. Padawan Equipment2.pdb

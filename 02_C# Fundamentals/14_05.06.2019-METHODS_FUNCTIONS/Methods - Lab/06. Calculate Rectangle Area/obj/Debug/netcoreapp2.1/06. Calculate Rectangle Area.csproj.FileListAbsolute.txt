@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\netcoreapp2.1\06. Calculate Rectangle Area.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\netcoreapp2.1\06. Calculate Rectangle Area.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\netcoreapp2.1\06. Calculate Rectangle Area.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\netcoreapp2.1\06. Calculate Rectangle Area.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\netcoreapp2.1\06. Calculate Rectangle Area.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\netcoreapp2.1\06. Calculate Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\netcoreapp2.1\06. Calculate Rectangle Area.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\netcoreapp2.1\06. Calculate Rectangle Area.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\netcoreapp2.1\06. Calculate Rectangle Area.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\netcoreapp2.1\06. Calculate Rectangle Area.pdb

@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\01. Count Chars in a String\bin\Debug\netcoreapp2.1\01. Count Chars in a String.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\01. Count Chars in a String\bin\Debug\netcoreapp2.1\01. Count Chars in a String.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\01. Count Chars in a String\bin\Debug\netcoreapp2.1\01. Count Chars in a String.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\01. Count Chars in a String\bin\Debug\netcoreapp2.1\01. Count Chars in a String.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\01. Count Chars in a String\bin\Debug\netcoreapp2.1\01. Count Chars in a String.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\01. Count Chars in a String\obj\Debug\netcoreapp2.1\01. Count Chars in a String.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\01. Count Chars in a String\obj\Debug\netcoreapp2.1\01. Count Chars in a String.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\01. Count Chars in a String\obj\Debug\netcoreapp2.1\01. Count Chars in a String.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\01. Count Chars in a String\obj\Debug\netcoreapp2.1\01. Count Chars in a String.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\01. Count Chars in a String\obj\Debug\netcoreapp2.1\01. Count Chars in a String.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\05.07.2019-Exercise Associative Arrays\Associative Arrays - Exercise\01. Count Chars in a String\obj\Debug\netcoreapp2.1\01. Count Chars in a String.pdb

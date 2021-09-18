@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\03. Big Factorial\bin\Debug\netcoreapp2.1\03. Big Factorial.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\03. Big Factorial\bin\Debug\netcoreapp2.1\03. Big Factorial.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\03. Big Factorial\bin\Debug\netcoreapp2.1\03. Big Factorial.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\03. Big Factorial\bin\Debug\netcoreapp2.1\03. Big Factorial.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\03. Big Factorial\bin\Debug\netcoreapp2.1\03. Big Factorial.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\03. Big Factorial\obj\Debug\netcoreapp2.1\03. Big Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\03. Big Factorial\obj\Debug\netcoreapp2.1\03. Big Factorial.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\03. Big Factorial\obj\Debug\netcoreapp2.1\03. Big Factorial.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\03. Big Factorial\obj\Debug\netcoreapp2.1\03. Big Factorial.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\19.06.2019-OBJECT AND CLASSES\Objects and Classes - Lab\03. Big Factorial\obj\Debug\netcoreapp2.1\03. Big Factorial.pdb

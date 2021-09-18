@@ -1,0 +1,7 @@
+C:\Users\Biser-1\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES\Exercise_DataType andVariables\01. Integer Operations\bin\Debug\_01.Integer_Operations.exe.config
+C:\Users\Biser-1\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES\Exercise_DataType andVariables\01. Integer Operations\bin\Debug\_01.Integer_Operations.exe
+C:\Users\Biser-1\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES\Exercise_DataType andVariables\01. Integer Operations\bin\Debug\_01.Integer_Operations.pdb
+C:\Users\Biser-1\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES\Exercise_DataType andVariables\01. Integer Operations\obj\Debug\01. Integer Operations.csprojAssemblyReference.cache
+C:\Users\Biser-1\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES\Exercise_DataType andVariables\01. Integer Operations\obj\Debug\01. Integer Operations.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES\Exercise_DataType andVariables\01. Integer Operations\obj\Debug\_01.Integer_Operations.exe
+C:\Users\Biser-1\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES\Exercise_DataType andVariables\01. Integer Operations\obj\Debug\_01.Integer_Operations.pdb

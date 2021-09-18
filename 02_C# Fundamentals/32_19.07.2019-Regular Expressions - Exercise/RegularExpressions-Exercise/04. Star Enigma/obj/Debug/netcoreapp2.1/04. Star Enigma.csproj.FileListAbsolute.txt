@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\04. Star Enigma\bin\Debug\netcoreapp2.1\04. Star Enigma.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\04. Star Enigma\bin\Debug\netcoreapp2.1\04. Star Enigma.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\04. Star Enigma\bin\Debug\netcoreapp2.1\04. Star Enigma.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\04. Star Enigma\bin\Debug\netcoreapp2.1\04. Star Enigma.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\04. Star Enigma\bin\Debug\netcoreapp2.1\04. Star Enigma.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\04. Star Enigma\obj\Debug\netcoreapp2.1\04. Star Enigma.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\04. Star Enigma\obj\Debug\netcoreapp2.1\04. Star Enigma.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\04. Star Enigma\obj\Debug\netcoreapp2.1\04. Star Enigma.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\04. Star Enigma\obj\Debug\netcoreapp2.1\04. Star Enigma.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\04. Star Enigma\obj\Debug\netcoreapp2.1\04. Star Enigma.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\04. Star Enigma\obj\Debug\netcoreapp2.1\04. Star Enigma.csprojAssemblyReference.cache

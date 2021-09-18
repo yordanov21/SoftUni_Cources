@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\EXAM PREPARATION-2\String Manipulator\bin\Debug\netcoreapp2.1\String Manipulator.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\EXAM PREPARATION-2\String Manipulator\bin\Debug\netcoreapp2.1\String Manipulator.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\EXAM PREPARATION-2\String Manipulator\bin\Debug\netcoreapp2.1\String Manipulator.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\EXAM PREPARATION-2\String Manipulator\bin\Debug\netcoreapp2.1\String Manipulator.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\EXAM PREPARATION-2\String Manipulator\bin\Debug\netcoreapp2.1\String Manipulator.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\EXAM PREPARATION-2\String Manipulator\obj\Debug\netcoreapp2.1\String Manipulator.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\EXAM PREPARATION-2\String Manipulator\obj\Debug\netcoreapp2.1\String Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\EXAM PREPARATION-2\String Manipulator\obj\Debug\netcoreapp2.1\String Manipulator.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\EXAM PREPARATION-2\String Manipulator\obj\Debug\netcoreapp2.1\String Manipulator.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\EXAM PREPARATION-2\String Manipulator\obj\Debug\netcoreapp2.1\String Manipulator.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\EXAM PREPARATION-2\String Manipulator\obj\Debug\netcoreapp2.1\String Manipulator.pdb

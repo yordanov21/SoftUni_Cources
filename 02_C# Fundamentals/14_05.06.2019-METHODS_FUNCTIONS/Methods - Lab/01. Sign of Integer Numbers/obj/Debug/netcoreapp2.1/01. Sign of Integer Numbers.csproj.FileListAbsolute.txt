@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\netcoreapp2.1\01. Sign of Integer Numbers.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\netcoreapp2.1\01. Sign of Integer Numbers.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\netcoreapp2.1\01. Sign of Integer Numbers.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\netcoreapp2.1\01. Sign of Integer Numbers.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\netcoreapp2.1\01. Sign of Integer Numbers.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp2.1\01. Sign of Integer Numbers.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp2.1\01. Sign of Integer Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp2.1\01. Sign of Integer Numbers.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp2.1\01. Sign of Integer Numbers.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp2.1\01. Sign of Integer Numbers.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\05.06.2019-METHODS_FUNCTIONS\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp2.1\01. Sign of Integer Numbers.pdb

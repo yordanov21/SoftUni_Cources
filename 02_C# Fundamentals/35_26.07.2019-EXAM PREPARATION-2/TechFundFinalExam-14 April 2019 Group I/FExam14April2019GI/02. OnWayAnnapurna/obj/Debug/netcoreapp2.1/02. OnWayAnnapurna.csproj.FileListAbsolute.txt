@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\TechFundFinalExam-14 April 2019 Group I\FExam14April2019GI\02. OnWayAnnapurna\bin\Debug\netcoreapp2.1\02. OnWayAnnapurna.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\TechFundFinalExam-14 April 2019 Group I\FExam14April2019GI\02. OnWayAnnapurna\bin\Debug\netcoreapp2.1\02. OnWayAnnapurna.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\TechFundFinalExam-14 April 2019 Group I\FExam14April2019GI\02. OnWayAnnapurna\bin\Debug\netcoreapp2.1\02. OnWayAnnapurna.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\TechFundFinalExam-14 April 2019 Group I\FExam14April2019GI\02. OnWayAnnapurna\bin\Debug\netcoreapp2.1\02. OnWayAnnapurna.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\TechFundFinalExam-14 April 2019 Group I\FExam14April2019GI\02. OnWayAnnapurna\bin\Debug\netcoreapp2.1\02. OnWayAnnapurna.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\TechFundFinalExam-14 April 2019 Group I\FExam14April2019GI\02. OnWayAnnapurna\obj\Debug\netcoreapp2.1\02. OnWayAnnapurna.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\TechFundFinalExam-14 April 2019 Group I\FExam14April2019GI\02. OnWayAnnapurna\obj\Debug\netcoreapp2.1\02. OnWayAnnapurna.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\TechFundFinalExam-14 April 2019 Group I\FExam14April2019GI\02. OnWayAnnapurna\obj\Debug\netcoreapp2.1\02. OnWayAnnapurna.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\TechFundFinalExam-14 April 2019 Group I\FExam14April2019GI\02. OnWayAnnapurna\obj\Debug\netcoreapp2.1\02. OnWayAnnapurna.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\TechFundFinalExam-14 April 2019 Group I\FExam14April2019GI\02. OnWayAnnapurna\obj\Debug\netcoreapp2.1\02. OnWayAnnapurna.pdb

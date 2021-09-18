@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\03. Vacation2\bin\Debug\netcoreapp2.1\03. Vacation2.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\03. Vacation2\bin\Debug\netcoreapp2.1\03. Vacation2.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\03. Vacation2\bin\Debug\netcoreapp2.1\03. Vacation2.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\03. Vacation2\bin\Debug\netcoreapp2.1\03. Vacation2.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\03. Vacation2\bin\Debug\netcoreapp2.1\03. Vacation2.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\03. Vacation2\obj\Debug\netcoreapp2.1\03. Vacation2.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\03. Vacation2\obj\Debug\netcoreapp2.1\03. Vacation2.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\03. Vacation2\obj\Debug\netcoreapp2.1\03. Vacation2.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\03. Vacation2\obj\Debug\netcoreapp2.1\03. Vacation2.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\03. Vacation2\obj\Debug\netcoreapp2.1\03. Vacation2.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\03. Vacation2\obj\Debug\netcoreapp2.1\03. Vacation2.pdb

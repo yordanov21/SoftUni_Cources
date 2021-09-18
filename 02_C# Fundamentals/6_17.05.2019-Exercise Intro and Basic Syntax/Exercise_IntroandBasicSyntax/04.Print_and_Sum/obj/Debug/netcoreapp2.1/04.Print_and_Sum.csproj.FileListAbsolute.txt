@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\04.Print_and_Sum\bin\Debug\netcoreapp2.1\04.Print_and_Sum.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\04.Print_and_Sum\bin\Debug\netcoreapp2.1\04.Print_and_Sum.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\04.Print_and_Sum\bin\Debug\netcoreapp2.1\04.Print_and_Sum.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\04.Print_and_Sum\bin\Debug\netcoreapp2.1\04.Print_and_Sum.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\04.Print_and_Sum\bin\Debug\netcoreapp2.1\04.Print_and_Sum.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\04.Print_and_Sum\obj\Debug\netcoreapp2.1\04.Print_and_Sum.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\04.Print_and_Sum\obj\Debug\netcoreapp2.1\04.Print_and_Sum.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\04.Print_and_Sum\obj\Debug\netcoreapp2.1\04.Print_and_Sum.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\04.Print_and_Sum\obj\Debug\netcoreapp2.1\04.Print_and_Sum.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\04.Print_and_Sum\obj\Debug\netcoreapp2.1\04.Print_and_Sum.pdb

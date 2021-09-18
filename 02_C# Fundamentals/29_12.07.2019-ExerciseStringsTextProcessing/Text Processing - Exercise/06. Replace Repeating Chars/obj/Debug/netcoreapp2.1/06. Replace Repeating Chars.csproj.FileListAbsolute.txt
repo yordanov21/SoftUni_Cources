@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\12.07.2019-ExerciseStringsTextProcessing\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp2.1\06. Replace Repeating Chars.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\12.07.2019-ExerciseStringsTextProcessing\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp2.1\06. Replace Repeating Chars.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\12.07.2019-ExerciseStringsTextProcessing\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp2.1\06. Replace Repeating Chars.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\12.07.2019-ExerciseStringsTextProcessing\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp2.1\06. Replace Repeating Chars.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\12.07.2019-ExerciseStringsTextProcessing\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp2.1\06. Replace Repeating Chars.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\12.07.2019-ExerciseStringsTextProcessing\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp2.1\06. Replace Repeating Chars.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\12.07.2019-ExerciseStringsTextProcessing\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp2.1\06. Replace Repeating Chars.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\12.07.2019-ExerciseStringsTextProcessing\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp2.1\06. Replace Repeating Chars.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\12.07.2019-ExerciseStringsTextProcessing\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp2.1\06. Replace Repeating Chars.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\12.07.2019-ExerciseStringsTextProcessing\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp2.1\06. Replace Repeating Chars.pdb

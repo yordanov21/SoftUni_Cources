@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\01. Advertisement Message\bin\Debug\netcoreapp2.1\01. Advertisement Message.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\01. Advertisement Message\bin\Debug\netcoreapp2.1\01. Advertisement Message.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\01. Advertisement Message\bin\Debug\netcoreapp2.1\01. Advertisement Message.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\01. Advertisement Message\bin\Debug\netcoreapp2.1\01. Advertisement Message.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\01. Advertisement Message\bin\Debug\netcoreapp2.1\01. Advertisement Message.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\01. Advertisement Message\obj\Debug\netcoreapp2.1\01. Advertisement Message.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\01. Advertisement Message\obj\Debug\netcoreapp2.1\01. Advertisement Message.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\01. Advertisement Message\obj\Debug\netcoreapp2.1\01. Advertisement Message.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\01. Advertisement Message\obj\Debug\netcoreapp2.1\01. Advertisement Message.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\01. Advertisement Message\obj\Debug\netcoreapp2.1\01. Advertisement Message.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\21.06.2019-EXERCISE-OBJECTS AND CLASSES\ObjectsandClasses-Exercise\01. Advertisement Message\obj\Debug\netcoreapp2.1\01. Advertisement Message.pdb

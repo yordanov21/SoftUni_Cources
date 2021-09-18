@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\EXAM PREPARATION-2\Emoji Sumator\bin\Debug\netcoreapp2.1\Emoji Sumator.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\EXAM PREPARATION-2\Emoji Sumator\bin\Debug\netcoreapp2.1\Emoji Sumator.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\EXAM PREPARATION-2\Emoji Sumator\bin\Debug\netcoreapp2.1\Emoji Sumator.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\EXAM PREPARATION-2\Emoji Sumator\bin\Debug\netcoreapp2.1\Emoji Sumator.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\EXAM PREPARATION-2\Emoji Sumator\bin\Debug\netcoreapp2.1\Emoji Sumator.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\EXAM PREPARATION-2\Emoji Sumator\obj\Debug\netcoreapp2.1\Emoji Sumator.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\EXAM PREPARATION-2\Emoji Sumator\obj\Debug\netcoreapp2.1\Emoji Sumator.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\EXAM PREPARATION-2\Emoji Sumator\obj\Debug\netcoreapp2.1\Emoji Sumator.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\EXAM PREPARATION-2\Emoji Sumator\obj\Debug\netcoreapp2.1\Emoji Sumator.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\EXAM PREPARATION-2\Emoji Sumator\obj\Debug\netcoreapp2.1\Emoji Sumator.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\EXAM PREPARATION-2\Emoji Sumator\obj\Debug\netcoreapp2.1\Emoji Sumator.pdb

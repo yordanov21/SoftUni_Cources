@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\17.07.2019-Regular Expressions\Regular Expressions\03. Match Dates\bin\Debug\netcoreapp2.1\03. Match Dates.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\17.07.2019-Regular Expressions\Regular Expressions\03. Match Dates\bin\Debug\netcoreapp2.1\03. Match Dates.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\17.07.2019-Regular Expressions\Regular Expressions\03. Match Dates\bin\Debug\netcoreapp2.1\03. Match Dates.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\17.07.2019-Regular Expressions\Regular Expressions\03. Match Dates\bin\Debug\netcoreapp2.1\03. Match Dates.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\17.07.2019-Regular Expressions\Regular Expressions\03. Match Dates\bin\Debug\netcoreapp2.1\03. Match Dates.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\17.07.2019-Regular Expressions\Regular Expressions\03. Match Dates\obj\Debug\netcoreapp2.1\03. Match Dates.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\17.07.2019-Regular Expressions\Regular Expressions\03. Match Dates\obj\Debug\netcoreapp2.1\03. Match Dates.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\17.07.2019-Regular Expressions\Regular Expressions\03. Match Dates\obj\Debug\netcoreapp2.1\03. Match Dates.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\17.07.2019-Regular Expressions\Regular Expressions\03. Match Dates\obj\Debug\netcoreapp2.1\03. Match Dates.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\17.07.2019-Regular Expressions\Regular Expressions\03. Match Dates\obj\Debug\netcoreapp2.1\03. Match Dates.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\17.07.2019-Regular Expressions\Regular Expressions\03. Match Dates\obj\Debug\netcoreapp2.1\03. Match Dates.pdb

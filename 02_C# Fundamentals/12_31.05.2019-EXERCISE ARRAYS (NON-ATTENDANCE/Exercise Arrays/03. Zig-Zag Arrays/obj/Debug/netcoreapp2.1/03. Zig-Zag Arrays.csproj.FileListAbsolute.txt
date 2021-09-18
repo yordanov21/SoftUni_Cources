@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\03. Zig-Zag Arrays\bin\Debug\netcoreapp2.1\03. Zig-Zag Arrays.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\03. Zig-Zag Arrays\bin\Debug\netcoreapp2.1\03. Zig-Zag Arrays.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\03. Zig-Zag Arrays\bin\Debug\netcoreapp2.1\03. Zig-Zag Arrays.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\03. Zig-Zag Arrays\bin\Debug\netcoreapp2.1\03. Zig-Zag Arrays.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\03. Zig-Zag Arrays\bin\Debug\netcoreapp2.1\03. Zig-Zag Arrays.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\03. Zig-Zag Arrays\obj\Debug\netcoreapp2.1\03. Zig-Zag Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\03. Zig-Zag Arrays\obj\Debug\netcoreapp2.1\03. Zig-Zag Arrays.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\03. Zig-Zag Arrays\obj\Debug\netcoreapp2.1\03. Zig-Zag Arrays.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\03. Zig-Zag Arrays\obj\Debug\netcoreapp2.1\03. Zig-Zag Arrays.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\03. Zig-Zag Arrays\obj\Debug\netcoreapp2.1\03. Zig-Zag Arrays.pdb

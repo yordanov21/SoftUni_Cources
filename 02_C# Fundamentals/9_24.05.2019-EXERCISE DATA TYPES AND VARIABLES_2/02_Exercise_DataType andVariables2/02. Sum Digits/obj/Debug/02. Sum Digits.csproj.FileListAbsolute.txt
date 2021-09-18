@@ -1,0 +1,6 @@
+C:\Users\Biser-1\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES\Exercise_DataType andVariables\02. Sum Digits\bin\Debug\_02.Sum_Digits.exe.config
+C:\Users\Biser-1\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES\Exercise_DataType andVariables\02. Sum Digits\bin\Debug\_02.Sum_Digits.exe
+C:\Users\Biser-1\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES\Exercise_DataType andVariables\02. Sum Digits\bin\Debug\_02.Sum_Digits.pdb
+C:\Users\Biser-1\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES\Exercise_DataType andVariables\02. Sum Digits\obj\Debug\02. Sum Digits.csproj.CoreCompileInputs.cache
+C:\Users\Biser-1\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES\Exercise_DataType andVariables\02. Sum Digits\obj\Debug\_02.Sum_Digits.exe
+C:\Users\Biser-1\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES\Exercise_DataType andVariables\02. Sum Digits\obj\Debug\_02.Sum_Digits.pdb

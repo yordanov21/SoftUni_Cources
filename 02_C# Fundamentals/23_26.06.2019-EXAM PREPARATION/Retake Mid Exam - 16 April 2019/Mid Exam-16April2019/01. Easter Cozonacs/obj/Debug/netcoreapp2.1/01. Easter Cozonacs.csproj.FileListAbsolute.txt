@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\Retake Mid Exam - 16 April 2019\Mid Exam-16April2019\01. Easter Cozonacs\bin\Debug\netcoreapp2.1\01. Easter Cozonacs.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\Retake Mid Exam - 16 April 2019\Mid Exam-16April2019\01. Easter Cozonacs\bin\Debug\netcoreapp2.1\01. Easter Cozonacs.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\Retake Mid Exam - 16 April 2019\Mid Exam-16April2019\01. Easter Cozonacs\bin\Debug\netcoreapp2.1\01. Easter Cozonacs.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\Retake Mid Exam - 16 April 2019\Mid Exam-16April2019\01. Easter Cozonacs\bin\Debug\netcoreapp2.1\01. Easter Cozonacs.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\Retake Mid Exam - 16 April 2019\Mid Exam-16April2019\01. Easter Cozonacs\bin\Debug\netcoreapp2.1\01. Easter Cozonacs.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\Retake Mid Exam - 16 April 2019\Mid Exam-16April2019\01. Easter Cozonacs\obj\Debug\netcoreapp2.1\01. Easter Cozonacs.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\Retake Mid Exam - 16 April 2019\Mid Exam-16April2019\01. Easter Cozonacs\obj\Debug\netcoreapp2.1\01. Easter Cozonacs.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\Retake Mid Exam - 16 April 2019\Mid Exam-16April2019\01. Easter Cozonacs\obj\Debug\netcoreapp2.1\01. Easter Cozonacs.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\Retake Mid Exam - 16 April 2019\Mid Exam-16April2019\01. Easter Cozonacs\obj\Debug\netcoreapp2.1\01. Easter Cozonacs.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\Retake Mid Exam - 16 April 2019\Mid Exam-16April2019\01. Easter Cozonacs\obj\Debug\netcoreapp2.1\01. Easter Cozonacs.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\26.06.2019-EXAM PREPARATION\Retake Mid Exam - 16 April 2019\Mid Exam-16April2019\01. Easter Cozonacs\obj\Debug\netcoreapp2.1\01. Easter Cozonacs.pdb

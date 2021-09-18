@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\06. Extract Emails\bin\Debug\netcoreapp2.1\06. Extract Emails.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\06. Extract Emails\bin\Debug\netcoreapp2.1\06. Extract Emails.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\06. Extract Emails\bin\Debug\netcoreapp2.1\06. Extract Emails.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\06. Extract Emails\bin\Debug\netcoreapp2.1\06. Extract Emails.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\06. Extract Emails\bin\Debug\netcoreapp2.1\06. Extract Emails.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\06. Extract Emails\obj\Debug\netcoreapp2.1\06. Extract Emails.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\06. Extract Emails\obj\Debug\netcoreapp2.1\06. Extract Emails.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\06. Extract Emails\obj\Debug\netcoreapp2.1\06. Extract Emails.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\06. Extract Emails\obj\Debug\netcoreapp2.1\06. Extract Emails.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\06. Extract Emails\obj\Debug\netcoreapp2.1\06. Extract Emails.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\19.07.2019-Regular Expressions - Exercise\RegularExpressions-Exercise\06. Extract Emails\obj\Debug\netcoreapp2.1\06. Extract Emails.pdb

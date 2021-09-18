@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\BasicSyntax-MoreExercise\03. Gaming Store\bin\Debug\netcoreapp2.1\03. Gaming Store.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\BasicSyntax-MoreExercise\03. Gaming Store\bin\Debug\netcoreapp2.1\03. Gaming Store.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\BasicSyntax-MoreExercise\03. Gaming Store\bin\Debug\netcoreapp2.1\03. Gaming Store.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\BasicSyntax-MoreExercise\03. Gaming Store\bin\Debug\netcoreapp2.1\03. Gaming Store.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\BasicSyntax-MoreExercise\03. Gaming Store\bin\Debug\netcoreapp2.1\03. Gaming Store.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\BasicSyntax-MoreExercise\03. Gaming Store\obj\Debug\netcoreapp2.1\03. Gaming Store.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\BasicSyntax-MoreExercise\03. Gaming Store\obj\Debug\netcoreapp2.1\03. Gaming Store.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\BasicSyntax-MoreExercise\03. Gaming Store\obj\Debug\netcoreapp2.1\03. Gaming Store.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\BasicSyntax-MoreExercise\03. Gaming Store\obj\Debug\netcoreapp2.1\03. Gaming Store.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\BasicSyntax-MoreExercise\03. Gaming Store\obj\Debug\netcoreapp2.1\03. Gaming Store.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\BasicSyntax-MoreExercise\03. Gaming Store\obj\Debug\netcoreapp2.1\03. Gaming Store.pdb

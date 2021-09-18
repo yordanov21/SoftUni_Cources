@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Arrays - More Exercise\04. Fold and Sum\bin\Debug\netcoreapp2.1\04. Fold and Sum.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Arrays - More Exercise\04. Fold and Sum\bin\Debug\netcoreapp2.1\04. Fold and Sum.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Arrays - More Exercise\04. Fold and Sum\bin\Debug\netcoreapp2.1\04. Fold and Sum.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Arrays - More Exercise\04. Fold and Sum\bin\Debug\netcoreapp2.1\04. Fold and Sum.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Arrays - More Exercise\04. Fold and Sum\bin\Debug\netcoreapp2.1\04. Fold and Sum.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Arrays - More Exercise\04. Fold and Sum\obj\Debug\netcoreapp2.1\04. Fold and Sum.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Arrays - More Exercise\04. Fold and Sum\obj\Debug\netcoreapp2.1\04. Fold and Sum.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Arrays - More Exercise\04. Fold and Sum\obj\Debug\netcoreapp2.1\04. Fold and Sum.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Arrays - More Exercise\04. Fold and Sum\obj\Debug\netcoreapp2.1\04. Fold and Sum.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Arrays - More Exercise\04. Fold and Sum\obj\Debug\netcoreapp2.1\04. Fold and Sum.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Arrays - More Exercise\04. Fold and Sum\obj\Debug\netcoreapp2.1\04. Fold and Sum.pdb

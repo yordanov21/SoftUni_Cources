@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\22.06.2019-DEMO-MID EXAM\DemoProgrammingFundamentaLSMidExam\01.Party Profit\bin\Debug\netcoreapp2.1\01.Party Profit.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\22.06.2019-DEMO-MID EXAM\DemoProgrammingFundamentaLSMidExam\01.Party Profit\bin\Debug\netcoreapp2.1\01.Party Profit.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\22.06.2019-DEMO-MID EXAM\DemoProgrammingFundamentaLSMidExam\01.Party Profit\bin\Debug\netcoreapp2.1\01.Party Profit.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\22.06.2019-DEMO-MID EXAM\DemoProgrammingFundamentaLSMidExam\01.Party Profit\bin\Debug\netcoreapp2.1\01.Party Profit.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\22.06.2019-DEMO-MID EXAM\DemoProgrammingFundamentaLSMidExam\01.Party Profit\bin\Debug\netcoreapp2.1\01.Party Profit.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\22.06.2019-DEMO-MID EXAM\DemoProgrammingFundamentaLSMidExam\01.Party Profit\obj\Debug\netcoreapp2.1\01.Party Profit.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\22.06.2019-DEMO-MID EXAM\DemoProgrammingFundamentaLSMidExam\01.Party Profit\obj\Debug\netcoreapp2.1\01.Party Profit.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\22.06.2019-DEMO-MID EXAM\DemoProgrammingFundamentaLSMidExam\01.Party Profit\obj\Debug\netcoreapp2.1\01.Party Profit.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\22.06.2019-DEMO-MID EXAM\DemoProgrammingFundamentaLSMidExam\01.Party Profit\obj\Debug\netcoreapp2.1\01.Party Profit.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\22.06.2019-DEMO-MID EXAM\DemoProgrammingFundamentaLSMidExam\01.Party Profit\obj\Debug\netcoreapp2.1\01.Party Profit.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\22.06.2019-DEMO-MID EXAM\DemoProgrammingFundamentaLSMidExam\01.Party Profit\obj\Debug\netcoreapp2.1\01.Party Profit.pdb

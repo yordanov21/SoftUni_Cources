@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\04.Refactor.-PrimeChecker\bin\Debug\netcoreapp2.1\04.Refactor.-PrimeChecker.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\04.Refactor.-PrimeChecker\bin\Debug\netcoreapp2.1\04.Refactor.-PrimeChecker.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\04.Refactor.-PrimeChecker\bin\Debug\netcoreapp2.1\04.Refactor.-PrimeChecker.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\04.Refactor.-PrimeChecker\bin\Debug\netcoreapp2.1\04.Refactor.-PrimeChecker.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\04.Refactor.-PrimeChecker\bin\Debug\netcoreapp2.1\04.Refactor.-PrimeChecker.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\04.Refactor.-PrimeChecker\obj\Debug\netcoreapp2.1\04.Refactor.-PrimeChecker.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\04.Refactor.-PrimeChecker\obj\Debug\netcoreapp2.1\04.Refactor.-PrimeChecker.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\04.Refactor.-PrimeChecker\obj\Debug\netcoreapp2.1\04.Refactor.-PrimeChecker.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\04.Refactor.-PrimeChecker\obj\Debug\netcoreapp2.1\04.Refactor.-PrimeChecker.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\24.05.2019-EXERCISE DATA TYPES AND VARIABLES (NON-ATTENDANCE)\DataTypesVa-MoreExercise\04.Refactor.-PrimeChecker\obj\Debug\netcoreapp2.1\04.Refactor.-PrimeChecker.pdb

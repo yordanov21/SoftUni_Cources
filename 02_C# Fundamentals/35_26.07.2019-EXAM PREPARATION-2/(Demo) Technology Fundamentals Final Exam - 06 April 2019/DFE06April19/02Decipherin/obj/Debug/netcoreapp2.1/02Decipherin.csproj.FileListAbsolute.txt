@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\(Demo) Technology Fundamentals Final Exam - 06 April 2019\DFE06April19\02Decipherin\bin\Debug\netcoreapp2.1\02Decipherin.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\(Demo) Technology Fundamentals Final Exam - 06 April 2019\DFE06April19\02Decipherin\bin\Debug\netcoreapp2.1\02Decipherin.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\(Demo) Technology Fundamentals Final Exam - 06 April 2019\DFE06April19\02Decipherin\bin\Debug\netcoreapp2.1\02Decipherin.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\(Demo) Technology Fundamentals Final Exam - 06 April 2019\DFE06April19\02Decipherin\bin\Debug\netcoreapp2.1\02Decipherin.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\(Demo) Technology Fundamentals Final Exam - 06 April 2019\DFE06April19\02Decipherin\bin\Debug\netcoreapp2.1\02Decipherin.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\(Demo) Technology Fundamentals Final Exam - 06 April 2019\DFE06April19\02Decipherin\obj\Debug\netcoreapp2.1\02Decipherin.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\(Demo) Technology Fundamentals Final Exam - 06 April 2019\DFE06April19\02Decipherin\obj\Debug\netcoreapp2.1\02Decipherin.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\(Demo) Technology Fundamentals Final Exam - 06 April 2019\DFE06April19\02Decipherin\obj\Debug\netcoreapp2.1\02Decipherin.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\(Demo) Technology Fundamentals Final Exam - 06 April 2019\DFE06April19\02Decipherin\obj\Debug\netcoreapp2.1\02Decipherin.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\03-July\35_26.07.2019-EXAM PREPARATION-2\(Demo) Technology Fundamentals Final Exam - 06 April 2019\DFE06April19\02Decipherin\obj\Debug\netcoreapp2.1\02Decipherin.pdb

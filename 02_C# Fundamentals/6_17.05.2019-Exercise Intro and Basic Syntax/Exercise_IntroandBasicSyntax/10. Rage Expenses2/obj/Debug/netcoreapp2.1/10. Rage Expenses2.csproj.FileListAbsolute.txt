@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\10. Rage Expenses2\bin\Debug\netcoreapp2.1\10. Rage Expenses2.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\10. Rage Expenses2\bin\Debug\netcoreapp2.1\10. Rage Expenses2.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\10. Rage Expenses2\bin\Debug\netcoreapp2.1\10. Rage Expenses2.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\10. Rage Expenses2\bin\Debug\netcoreapp2.1\10. Rage Expenses2.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\10. Rage Expenses2\bin\Debug\netcoreapp2.1\10. Rage Expenses2.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\10. Rage Expenses2\obj\Debug\netcoreapp2.1\10. Rage Expenses2.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\10. Rage Expenses2\obj\Debug\netcoreapp2.1\10. Rage Expenses2.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\10. Rage Expenses2\obj\Debug\netcoreapp2.1\10. Rage Expenses2.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\10. Rage Expenses2\obj\Debug\netcoreapp2.1\10. Rage Expenses2.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\10. Rage Expenses2\obj\Debug\netcoreapp2.1\10. Rage Expenses2.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\17.05.2019-Exercise Intro and Basic Syntax\Exercise_IntroandBasicSyntax\10. Rage Expenses2\obj\Debug\netcoreapp2.1\10. Rage Expenses2.pdb

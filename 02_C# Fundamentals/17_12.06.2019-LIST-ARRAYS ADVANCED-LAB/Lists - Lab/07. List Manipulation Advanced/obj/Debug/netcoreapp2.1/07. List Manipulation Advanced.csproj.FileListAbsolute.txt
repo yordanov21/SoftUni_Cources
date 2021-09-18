@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\07. List Manipulation Advanced\bin\Debug\netcoreapp2.1\07. List Manipulation Advanced.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\07. List Manipulation Advanced\bin\Debug\netcoreapp2.1\07. List Manipulation Advanced.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\07. List Manipulation Advanced\bin\Debug\netcoreapp2.1\07. List Manipulation Advanced.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\07. List Manipulation Advanced\bin\Debug\netcoreapp2.1\07. List Manipulation Advanced.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\07. List Manipulation Advanced\bin\Debug\netcoreapp2.1\07. List Manipulation Advanced.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\07. List Manipulation Advanced\obj\Debug\netcoreapp2.1\07. List Manipulation Advanced.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\07. List Manipulation Advanced\obj\Debug\netcoreapp2.1\07. List Manipulation Advanced.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\07. List Manipulation Advanced\obj\Debug\netcoreapp2.1\07. List Manipulation Advanced.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\07. List Manipulation Advanced\obj\Debug\netcoreapp2.1\07. List Manipulation Advanced.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\07. List Manipulation Advanced\obj\Debug\netcoreapp2.1\07. List Manipulation Advanced.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\07. List Manipulation Advanced\obj\Debug\netcoreapp2.1\07. List Manipulation Advanced.pdb

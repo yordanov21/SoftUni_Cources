@@ -1,0 +1,11 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\01. SumAdjacentEqualNumbers\bin\Debug\netcoreapp2.1\01. SumAdjacentEqualNumbers.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\01. SumAdjacentEqualNumbers\bin\Debug\netcoreapp2.1\01. SumAdjacentEqualNumbers.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\01. SumAdjacentEqualNumbers\bin\Debug\netcoreapp2.1\01. SumAdjacentEqualNumbers.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\01. SumAdjacentEqualNumbers\bin\Debug\netcoreapp2.1\01. SumAdjacentEqualNumbers.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\01. SumAdjacentEqualNumbers\bin\Debug\netcoreapp2.1\01. SumAdjacentEqualNumbers.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\01. SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.1\01. SumAdjacentEqualNumbers.csprojAssemblyReference.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\01. SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.1\01. SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\01. SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.1\01. SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\01. SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.1\01. SumAdjacentEqualNumbers.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\01. SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.1\01. SumAdjacentEqualNumbers.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\02-JUNE\12.06.2019-LIST-ARRAYS ADVANCED-LAB\Lists - Lab\01. SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.1\01. SumAdjacentEqualNumbers.pdb

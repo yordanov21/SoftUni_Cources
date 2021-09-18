@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\07. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.1\07. Max Sequence of Equal Elements.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\07. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.1\07. Max Sequence of Equal Elements.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\07. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.1\07. Max Sequence of Equal Elements.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\07. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.1\07. Max Sequence of Equal Elements.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\07. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.1\07. Max Sequence of Equal Elements.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.1\07. Max Sequence of Equal Elements.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.1\07. Max Sequence of Equal Elements.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.1\07. Max Sequence of Equal Elements.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.1\07. Max Sequence of Equal Elements.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\01-May\31.05.2019-EXERCISE ARRAYS\Exercise Arrays\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.1\07. Max Sequence of Equal Elements.pdb

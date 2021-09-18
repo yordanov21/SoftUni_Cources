@@ -1,0 +1,10 @@
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\10. Lower or Upper\bin\Debug\netcoreapp2.1\10. Lower or Upper.deps.json
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\10. Lower or Upper\bin\Debug\netcoreapp2.1\10. Lower or Upper.runtimeconfig.json
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\10. Lower or Upper\bin\Debug\netcoreapp2.1\10. Lower or Upper.runtimeconfig.dev.json
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\10. Lower or Upper\bin\Debug\netcoreapp2.1\10. Lower or Upper.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\10. Lower or Upper\bin\Debug\netcoreapp2.1\10. Lower or Upper.pdb
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\10. Lower or Upper\obj\Debug\netcoreapp2.1\10. Lower or Upper.csproj.CoreCompileInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\10. Lower or Upper\obj\Debug\netcoreapp2.1\10. Lower or Upper.AssemblyInfoInputs.cache
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\10. Lower or Upper\obj\Debug\netcoreapp2.1\10. Lower or Upper.AssemblyInfo.cs
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\10. Lower or Upper\obj\Debug\netcoreapp2.1\10. Lower or Upper.dll
+C:\Users\Dancho\Desktop\C# Fundamentals\22.05.2019-EXERCISE DATA TYPES AND VARIABLES-LAB\Lab_DataTypesandVariables\10. Lower or Upper\obj\Debug\netcoreapp2.1\10. Lower or Upper.pdb
