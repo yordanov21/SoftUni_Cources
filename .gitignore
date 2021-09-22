@@ -356,8 +356,10 @@ MigrationBackup/
 ~$*.doc*
 ~$*.docx*
 *.docx
+*.doc
 
 ~$*.pdf*
+*.pdf
 
 # Word Auto Backup File
 Backup of *.doc*
@@ -370,6 +372,8 @@ Backup of *.doc*
 
 # PowerPoint temporary
 ~$*.ppt*
+*.ppt
+*.pptx
 
 # Visio autosave temporary files
 *.~vsd*
