@@ -355,6 +355,7 @@ MigrationBackup/
 # Word temporary
 ~$*.doc*
 ~$*.docx*
+*.docx
 
 ~$*.pdf*
 
