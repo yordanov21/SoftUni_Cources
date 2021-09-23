@@ -151,8 +151,75 @@ const app = http.createServer((req, res) => {
                     res.write(img);
                     res.end();
                 }
-            } else if (false) {
+            } else if (pathname.includes('/cats-edit') && req.method === 'GET') {
+                res.writeHead(200, {
+                    'Content-Type': 'text/html'
+                });
+                console.log(pathname);
+                let temp = pathname.split('/')
+                console.log(temp);
+                fs.readFile('./views/editCat.html', (err, result) => {
+                    if (err) {
+                        res.statusCode = 404;
+                        return res.end();
+                    }
 
+                    let temp = pathname.split('/')
+                    let catId = temp[temp.length - 1];
+                    console.log(catId);
+                    let currentCat = db.cats.find(obj => {
+                        return obj.id === catId;
+                    });
+                    console.log(currentCat);
+
+
+                    console.log('result');
+                    console.log(result);
+                    console.log('-----------------------');
+
+                    let content = fs.readFileSync('./views/editCat.html', 'utf8');
+                    res.writeHead(200, {
+                        'Content-Type': 'text/html'
+                    });
+                    console.log('0');
+                    console.log(content);
+                    // let catsplaceHolder = db.cats.map((cat) => `<li>
+                    //  <img src="${'../images/' + cat.image}" alt="${cat.name}">
+                    //  <h3>${cat.name}</h3>
+                    //  <p><span>Breed: </span>${cat.breed}</p>
+                    //  <p><span>Description: </span>${cat.description}</p>
+                    //  <ul class="buttons">
+                    //      <li class="btn edit"><a href="/cats-edit/${cat.id}">Change Info</a></li>
+                    //      <li class="btn delete"><a href="/cats-find-new-home/${cat.id}">New Home</a></li>
+                    //  </ul>
+                    //  </li>`);
+                    // content = content.toString().replace('{{cats}}', catsplaceHolder);
+
+                    // res.write(content);
+                    // res.end();
+
+                    content = db.cats.toString().replace('{{id}}', catId);
+                    console.log('1');
+                    console.log(content);
+                    content = content.replace('{{name}}', currentCat.name);
+                    console.log('2');
+                    console.log(content);
+                    content = content.replace('{{description}}', currentCat.description);
+
+                    const breedsAsOptions = db.breeds.map((b) => `<option value="${b}">${b}</option>`)
+                    content = content.replace('catBreeds', breedsAsOptions.join('/'));
+
+                    content = content.replace('{{breed}}', currentCat.breed);
+
+                    // result = result.toString().replace('{{catBreeds}}', catbreedPlaceHolder);
+
+                    console.log('final');
+                    console.log(content);
+
+
+                    res.write(result);
+                    res.end();
+                });
             } else {
                 res.statusCode = 404;
                 res.end();
@@ -163,60 +230,6 @@ const app = http.createServer((req, res) => {
 
 });
 
-
 app.listen(4000);
 
 console.log('App is listening on port 4000...');
-
-////
-// case '/cats/add-cat':
-//     if (req.method == 'GET') {
-//         res.writeHead(200, {
-//             'Content-Type': 'text/html'
-//         });
-//         fs.readFile('./views/addCat.html', (err, result) => {
-//             if (err) {
-//                 res.statusCode = 404;
-//                 return res.end();
-//             }
-
-//             let catbreedPlaceHolder = db.breeds.map((breed) => `<option value="${breed.breed}">${breed.breed}</option>`);
-//             result = result.toString().replace('{{catBreeds}}', catbreedPlaceHolder);
-
-
-//             res.write(result);
-//             res.end();
-//         });
-//     } else if (req.method == 'POST') {
-//         console.log('POST');
-//         let form = new formidable.IncomingForm();
-
-//         form.parse(req, (err, fields, files) => {
-
-//             var oldpath = files.upload.path;
-//             var newpath = './images/' + files.upload.name;
-
-//             mv(oldpath, newpath, function(err) {
-//                 if (err) {
-//                     console.log('err');
-//                     console.log(err);
-//                 }
-//             })
-
-//             storageService.saveCat(fields)
-//                 .then(() => {
-//                     res.end();
-//                 })
-//                 .catch(err => {
-//                     console.log('err');
-//                     console.log(err);
-//                 });
-
-//             res.writeHead(302, {
-//                 'Location': '/'
-//             })
-
-//             res.end();
-//         });
-//     }
-//     break;

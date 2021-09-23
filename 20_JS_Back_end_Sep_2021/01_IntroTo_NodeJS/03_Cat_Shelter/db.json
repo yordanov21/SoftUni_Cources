@@ -1,0 +1,29 @@
+{
+  "cats": [
+    {
+      "name": "Macuranka",
+      "description": "My love",
+      "breed": "Persian",
+      "id": "yjnjrg4kktx5kar7",
+      "image": "funny-dancing-cats-fb3.png"
+    },
+    {
+      "name": "Macuran",
+      "description": "Big boss",
+      "breed": "Uluchna",
+      "id": "yjnjrh24ktx5t5au",
+      "image": "95142833-crate-training-cat-632x475.jpg"
+    }
+  ],
+  "breeds": [
+    {
+      "breed": "Persian"
+    },
+    {
+      "breed": "Siams"
+    },
+    {
+      "breed": "Uluchna"
+    }
+  ]
+}
