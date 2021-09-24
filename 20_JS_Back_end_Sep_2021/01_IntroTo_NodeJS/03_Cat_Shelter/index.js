@@ -152,75 +152,98 @@ const app = http.createServer((req, res) => {
                     res.end();
                 }
             } else if (pathname.includes('/cats-edit') && req.method === 'GET') {
-                res.writeHead(200, {
-                    'Content-Type': 'text/html'
-                });
-                console.log(pathname);
+
+
+                let filePath = path.normalize(path.join(__dirname, "./views/editCat.html"));
+                const input = fs.createReadStream(filePath); // fs.readFile() can be used as well
                 let temp = pathname.split('/')
-                console.log(temp);
-                fs.readFile('./views/editCat.html', (err, result) => {
-                    if (err) {
-                        res.statusCode = 404;
-                        return res.end();
+                let catId = temp[temp.length - 1];
+                console.log(catId);
+                let currentCat = db.cats.find(obj => {
+                    return obj.id === catId;
+                });
+                console.log(currentCat);
+                input.on("data", (data) => {
+                    let modifiedData = data.toString().replace('{{id}}', currentCat.id);
+                    console.log(currentCat.name);
+                    modifiedData = modifiedData.toString().replace('{{name}}', currentCat.name);
+                    modifiedData = modifiedData.toString().replace('{{description}}', currentCat.description);
+
+                    const breedsAsOptions = db.breeds.map((b) => `<option value="${b.breed}">${b.breed}</option>`)
+                    modifiedData = modifiedData.replace("{{catBreeds}}", breedsAsOptions.join("/"));
+
+                    modifiedData = modifiedData.replace("{{breed}}", currentCat.breed);
+                    res.write(modifiedData);
+                });
+                input.on("end", () => res.end());
+                input.on("error", (err) => console.log(err));
+            } else if (pathname.includes("/cats-edit") && req.method === "POST") {
+                // TODO: NOT finished yet
+                let temp = pathname.split('/')
+                let catId = temp[temp.length - 1];
+                console.log(catId);
+                let currentCat = db.cats.find(obj => {
+                    return obj.id === catId;
+                });
+                console.log(currentCat);
+
+                let form = new formidable.IncomingForm();
+
+                form.parse(req, (err, fields, files) => {
+                    if (err) throw err;
+
+                    let fileUploadName;
+                    if (!!files.upload.name) {
+                        let oldPath = files.upload.path;
+                        let newPath = path.normalize(path.join(__dirname, "../images/" + files.upload.name));
+
+                        mv(oldPath, newPath, function(err) {
+                                if (err) {
+                                    console.log('err');
+                                    console.log(err);
+                                }
+                            })
+                            // fs.rename(oldPath, newPath, (err) => {
+                            //     if (err) throw err;
+
+                        //     console.log('Files was uploaded succesfully!')
+                        // });
+                        fileUploadName = files.upload.name;
+                    } else {
+                        fileUploadName = undefined;
                     }
 
-                    let temp = pathname.split('/')
-                    let catId = temp[temp.length - 1];
-                    console.log(catId);
-                    let currentCat = db.cats.find(obj => {
-                        return obj.id === catId;
-                    });
-                    console.log(currentCat);
+                    // Add new object to db.json
+                    fs.readFile('db.json', 'utf8', (err, data) => {
+                        if (err) throw err;
+
+                        let allData = JSON.parse(data);
+                        console.log('---------------------');
+                        console.log(allData.cats);
+                        console.log('---------------------');
+                        console.log(catId);
+                        console.log(fields.description);
+                        console.log('---------------------');
+
+                        // "description": "Big boss",
+                        // "breed": "Uluchna",
+                        // "id": "yjnjrh24ktx5t5au",
+                        allData.cats[catId] = { id: catId, ...fields, image: fileUploadName };
+                        console.log('----------EDITED-----------');
+                        console.log(allData.cats);
+                        console.log('----------EDITED-----------');
+                        //let result = JSON.stringify(db, null, 2);
+                        let json = JSON.stringify(allData, null, 2);
+                        fs.writeFile('db.json', json, () => {
+                            res.writeHead(301, { location: '/' });
+                            res.end();
+                        })
+                    })
+                })
 
 
-                    console.log('result');
-                    console.log(result);
-                    console.log('-----------------------');
 
-                    let content = fs.readFileSync('./views/editCat.html', 'utf8');
-                    res.writeHead(200, {
-                        'Content-Type': 'text/html'
-                    });
-                    console.log('0');
-                    console.log(content);
-                    // let catsplaceHolder = db.cats.map((cat) => `<li>
-                    //  <img src="${'../images/' + cat.image}" alt="${cat.name}">
-                    //  <h3>${cat.name}</h3>
-                    //  <p><span>Breed: </span>${cat.breed}</p>
-                    //  <p><span>Description: </span>${cat.description}</p>
-                    //  <ul class="buttons">
-                    //      <li class="btn edit"><a href="/cats-edit/${cat.id}">Change Info</a></li>
-                    //      <li class="btn delete"><a href="/cats-find-new-home/${cat.id}">New Home</a></li>
-                    //  </ul>
-                    //  </li>`);
-                    // content = content.toString().replace('{{cats}}', catsplaceHolder);
-
-                    // res.write(content);
-                    // res.end();
-
-                    content = db.cats.toString().replace('{{id}}', catId);
-                    console.log('1');
-                    console.log(content);
-                    content = content.replace('{{name}}', currentCat.name);
-                    console.log('2');
-                    console.log(content);
-                    content = content.replace('{{description}}', currentCat.description);
-
-                    const breedsAsOptions = db.breeds.map((b) => `<option value="${b}">${b}</option>`)
-                    content = content.replace('catBreeds', breedsAsOptions.join('/'));
-
-                    content = content.replace('{{breed}}', currentCat.breed);
-
-                    // result = result.toString().replace('{{catBreeds}}', catbreedPlaceHolder);
-
-                    console.log('final');
-                    console.log(content);
-
-
-                    res.write(result);
-                    res.end();
-                });
-            } else {
+            } else { // similiar logic to Add Catelse {
                 res.statusCode = 404;
                 res.end();
             }
