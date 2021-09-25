@@ -189,57 +189,113 @@ const app = http.createServer((req, res) => {
 
                 let form = new formidable.IncomingForm();
 
-                form.parse(req, (err, fields, files) => {
+
+                form.parse(req, (err, fields, files) => { // fields - passing info from form fields, files - from preset formidable
                     if (err) throw err;
-
-                    let fileUploadName;
-                    if (!!files.upload.name) {
-                        let oldPath = files.upload.path;
-                        let newPath = path.normalize(path.join(__dirname, "../images/" + files.upload.name));
-
+                    let filesUploadName;
+                    if (!!files.upload.name) { // check if during edit there is a new picture file. If not - it will be empty
+                        // move of the uploaded file (in this case - picture)
+                        let oldPath = files.upload.path; // taking them from the default formidable folder
+                        var newPath = './images/' + files.upload.name;
                         mv(oldPath, newPath, function(err) {
-                                if (err) {
-                                    console.log('err');
-                                    console.log(err);
-                                }
-                            })
-                            // fs.rename(oldPath, newPath, (err) => {
-                            //     if (err) throw err;
-
-                        //     console.log('Files was uploaded succesfully!')
-                        // });
-                        fileUploadName = files.upload.name;
+                            if (err) {
+                                console.log('err');
+                                console.log(err);
+                            }
+                        })
+                        filesUploadName = files.upload.name;
                     } else {
-                        fileUploadName = undefined;
+                        filesUploadName = undefined;
                     }
 
-                    // Add new object to db.json
-                    fs.readFile('db.json', 'utf8', (err, data) => {
-                        if (err) throw err;
 
-                        let allData = JSON.parse(data);
-                        console.log('---------------------');
-                        console.log(allData.cats);
-                        console.log('---------------------');
-                        console.log(catId);
-                        console.log(fields.description);
-                        console.log('---------------------');
 
-                        // "description": "Big boss",
-                        // "breed": "Uluchna",
-                        // "id": "yjnjrh24ktx5t5au",
-                        allData.cats[catId] = { id: catId, ...fields, image: fileUploadName };
-                        console.log('----------EDITED-----------');
-                        console.log(allData.cats);
-                        console.log('----------EDITED-----------');
-                        //let result = JSON.stringify(db, null, 2);
-                        let json = JSON.stringify(allData, null, 2);
-                        fs.writeFile('db.json', json, () => {
-                            res.writeHead(301, { location: '/' });
+                    // fields.id = uniqid();
+                    fields.image = filesUploadName;
+                    console.log('////////////////////////');
+                    console.log(fields);
+                    console.log('////////////////////////');
+                    storageService.editCat(fields)
+                        .then(() => {
                             res.end();
                         })
-                    })
+                        .catch(err => {
+                            console.log('err');
+                            console.log(err);
+                        });
+
+
+                    res.writeHead(301, { location: "/" }); // redirect
+                    res.end();
+
+                    // // Add new object to cats.json
+                    // fs.readFile("./db.json", "utf8", (err, data) => {
+                    //     if (err) throw err;
+                    //     let allData = JSON.parse(data); // parsing to array of objects
+                    //     console.log(allData);
+                    //     console.log('////////////////////////');
+                    //     console.log(fields);
+                    //     console.log('////////////////////////');
+                    //     allData.cats[catId] = {...fields, id: catId, image: filesUploadName }; // constructing and replacing the object
+                    //     let json = JSON.stringify(allData, null, 2); // set back to JSON
+                    //     fs.writeFile("./db.json", json, () => { // rewrite the original file with the new cat info
+                    //         res.writeHead(301, { location: "/" }); // redirect
+                    //         res.end();
+                    //     })
+                    // })
                 })
+
+                // form.parse(req, (err, fields, files) => {
+                //     if (err) throw err;
+
+                //     let fileUploadName;
+                //     if (!!files.upload.name) {
+                //         let oldPath = files.upload.path;
+                //         let newPath = path.normalize(path.join(__dirname, "../images/" + files.upload.name));
+
+                //         mv(oldPath, newPath, function(err) {
+                //                 if (err) {
+                //                     console.log('err');
+                //                     console.log(err);
+                //                 }
+                //             })
+                //             // fs.rename(oldPath, newPath, (err) => {
+                //             //     if (err) throw err;
+
+                //         //     console.log('Files was uploaded succesfully!')
+                //         // });
+                //         fileUploadName = files.upload.name;
+                //     } else {
+                //         fileUploadName = undefined;
+                //     }
+
+                //     // Add new object to db.json
+                //     fs.readFile('db.json', 'utf8', (err, data) => {
+                //         if (err) throw err;
+
+                //         let allData = JSON.parse(data);
+                //         console.log('---------------------');
+                //         console.log(allData.cats);
+                //         console.log('---------------------');
+                //         console.log(catId);
+                //         console.log(fields.description);
+                //         console.log('---------------------');
+
+                //         // "description": "Big boss",
+                //         // "breed": "Uluchna",
+                //         // "id": "yjnjrh24ktx5t5au",
+                //         allData.cats[catId] = { id: catId, ...fields, image: fileUploadName };
+                //         console.log('----------EDITED-----------');
+                //         console.log(allData.cats);
+                //         console.log('----------EDITED-----------');
+                //         //let result = JSON.stringify(db, null, 2);
+                //         let json = JSON.stringify(allData, null, 2);
+                //         fs.writeFile('db.json', json, () => {
+                //             res.writeHead(301, { location: '/' });
+                //             res.end();
+                //         })
+                //     })
+                // })
 
 
 
