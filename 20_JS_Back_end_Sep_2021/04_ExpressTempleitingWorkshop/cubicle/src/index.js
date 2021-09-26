@@ -4,8 +4,10 @@ const routes = require('./routes');
 
 const initHandlebars = require('./config/handlebars');
 
-
 const app = express();
+
+// parser for data from form data
+app.use(express.urlencoded({ extended: true }));
 
 initHandlebars(app);
 // require('./config/handlebars')(app); // other way to invoke initHandlebars just with require
