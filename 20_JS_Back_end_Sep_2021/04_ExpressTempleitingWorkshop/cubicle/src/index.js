@@ -1,10 +1,17 @@
 const express = require('express');
+const handlebars = require('express-handlebars');
+const path = require('path')
 
 const app = express();
 
+app.set('views', path.resolve('./src/views')); // resove() take the relative path that we pass to resove and turns it to absolute path
+app.engine('hbs', handlebars({
+    extname: 'hbs'
+}));
+app.set('view engine', 'hbs');
+
 app.all('/', (req, res) => {
-    res.write('It\s working')
-    res.end();
+    res.render('index', { layout: false });
 });
 
 // with binding 
