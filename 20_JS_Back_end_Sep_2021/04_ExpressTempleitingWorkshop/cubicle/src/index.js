@@ -11,7 +11,7 @@ app.engine('hbs', handlebars({
 app.set('view engine', 'hbs');
 
 app.all('/', (req, res) => {
-    res.render('index', { layout: false });
+    res.render('index');
 });
 
 // with binding 
