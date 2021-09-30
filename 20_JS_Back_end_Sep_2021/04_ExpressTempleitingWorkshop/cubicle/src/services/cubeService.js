@@ -1,10 +1,11 @@
 const Cube = require('../models/Cube');
 
-const getAll = () => Cube.cubes;
+const getAll = () => Cube.getAllCubes;
 
 const create = (name, description, imageUrl, difficulty) => {
 
     let cube = new Cube(name, description, imageUrl, difficulty);
+    console.log(cube);
     Cube.add(cube);
 };
 

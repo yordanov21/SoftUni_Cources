@@ -18,6 +18,20 @@ class Cube {
         "https://cf.bstatic.com/data/xphoto/1182x887/554/55456733.jpg?size=S",
       difficulty: "5",
     },
+    {
+      id: 'yjnjrek4ku79cmla',
+      name: 'Just cube',
+      description: 'Cube simple cube for beginners',
+      imageUrl: 'https://www.rubiks.com/static/version1607342405/frontend/Bestresponse/rubiks/en_GB/images/error_rubiks_popup.png',
+      difficulty: '2'
+    },
+    {
+      id: 'yjnjrek4ku79cmls',
+      name: 'Simple Cube',
+      description: 'Simple cube :)',
+      imageUrl: 'https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/Rubiks_Cube_shutterstock_271810067.jpg',
+      difficulty: '1'
+    }
   ];
 
   constructor(name, description, imageUrl, difficulty) {
@@ -28,7 +42,7 @@ class Cube {
     this.difficulty = difficulty;
   }
 
-  static get cubes() {
+  static get getAllCubes() {
     return Cube.#pivatecubes.slice();
   }
 
