@@ -31,6 +31,13 @@ class Cube {
       description: 'Simple cube :)',
       imageUrl: 'https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/Rubiks_Cube_shutterstock_271810067.jpg',
       difficulty: '1'
+    },
+    {
+      id: 'yjnjr6zgku8q4pcy',
+      name: 'Wood Rubic Cube',
+      description: 'Simple Wood Rubic Cube',
+      imageUrl: 'https://img.freepik.com/free-photo/wooden-rubik-cube-isolated-white-background_62856-5203.jpg?size=626&ext=jpg',
+      difficulty: '1'
     }
   ];
 
