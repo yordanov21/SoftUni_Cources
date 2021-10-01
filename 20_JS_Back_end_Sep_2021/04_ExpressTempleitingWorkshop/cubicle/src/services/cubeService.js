@@ -11,10 +11,13 @@ const create = (name, description, imageUrl, difficulty) => {
     Cube.add(cube);
 };
 
+const search = (text, from, to) => Cube.getAllCubes.filter(x => x.name.toLowerCase().includes(text.toLowerCase()));
+
 const cubeService = {
     getAll,
     getOne,
     create,
+    search,
 };
 
 module.exports = cubeService;
