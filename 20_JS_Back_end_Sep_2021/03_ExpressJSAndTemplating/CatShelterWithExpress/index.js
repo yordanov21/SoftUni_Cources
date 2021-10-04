@@ -1,24 +1,34 @@
+const port = 3000;
+
 const express = require('express');
 const path = require('path');
 const fs = require('fs');
+const handlebars = require('express-handlebars');
 
 const app = express();
-const port = 3000;
+
+// setup handlebars
+app.engine('hbs', handlebars({
+    extname: 'hbs',
+}));
+app.set('view engine', 'hbs');
+
+
+app.use(express.static('./public'));
 
 app.get('/', (req, res) => {
+    // custom HTML response
+    // let absolutePath = path.join(__dirname, '/views/home/index.html');
+    // res.sendFile(absolutePath);
 
-    let absolutePath = path.join(__dirname, '/views/home/index.html');
-    res.sendFile(absolutePath);
+    // render with handlebars
+    // res.render('home', { layout: false }); // by default handlebars searsh main.hbs file (views/layouts/main.hbs) home=layouts in this case
+    res.render('home');
 });
 
 app.get('/addBreed', (req, res) => {
 
-    res.header({
-        'Content-Type': 'text/html'
-    });
-
-    res.write('<h1>ADD BREED</h1>')
-    res.end();
+    res.render('addBreed');
 })
 
 app.get('/addCat', (req, res) => {

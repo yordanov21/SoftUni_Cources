@@ -1,8 +1,20 @@
 const express = require('express');
 const fs = require('fs');
 
+const catController = require('./constrolers/catControler.js');
+const requestLogger = require('./middlewares/requestLoggerMiddleware.js');
+
 const app = express();
 const port = 3003;
+
+//Middlewares
+//app.use(requestLogger);   // aplication level
+//app.use('/cats', requestLogger); // route level.  it can work only for some route ('cats' for this example)
+app.use('/cats', requestLogger, catController); // controler level
+
+
+app.use('/cats', catController);
+
 
 app.get('/', (req, res) => {
     res.header({
@@ -39,20 +51,6 @@ app.get('/addCat', (req, res) => {
     res.end();
 })
 
-app.get('/cat/:catName', (req, res) => {
-    if (req.params.catName === 'gosho') {
-        res.redirect('/cat/chochko') // redirect doesn't need end() 
-        return;
-    }
-
-    res.header({
-        'Content-Type': 'text/html'
-    });
-
-    res.write(`<h1>CAT ${req.params.catName}</h1>`);
-    res.end();
-
-})
 
 app.get('/download', (req, res) => {
 
