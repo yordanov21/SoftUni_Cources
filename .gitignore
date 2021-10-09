@@ -386,3 +386,7 @@ node_modules/
 *.png
 *.jpg
 *.jpeg
+
+# zips, rars
+*.zip
+*.rar
