@@ -9,6 +9,12 @@ const userSchema = new mongoose.Schema({
         min: [2, 'Grade cannot be lower than 2'],
         max: [6, 'Grade cannot be bigger than 6, you got {VALUE}']
     },
+
+    pet: {
+        type: mongoose.Schema.Types.ObjectId,
+        ref: 'Pet',
+    }
+
 });
 
 
