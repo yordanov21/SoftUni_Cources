@@ -1,4 +1,5 @@
 const Cube = require("../models/Cube");
+const Accessory = require('../models/Accessory');
 
 const getAll = () => Cube.find({}).lean(); //lean() return array of objects, without lean will return array of models 
 
@@ -33,13 +34,23 @@ const search = (text, from, to) => {
     }
 
     return result;
-  };
+};
+
+const attachAccessory = async (cubeId, accessoryId) => {
+  let cube = await Cube.findById(cubeId);
+  let accessory = await Accessory.findById(accessoryId);
+
+  cube.accessories.push(accessory);
+
+  return cube.save();
+};
 
 const cubeService = {
   getAll,
   getOne,
   create,
   search,
+  attachAccessory,
 };
 
 module.exports = cubeService;
