@@ -40,9 +40,9 @@ const cubeSchema = new mongoose.Schema({
 // });
 
 // Not used only for demo
-// cubeSchema.statics.findByName = function(name) {
-//   return this.find({name});
-// };
+cubeSchema.statics.findByName = function(name) {
+  return this.find({name});
+};
 
 const Cube = mongoose.model('Cube', cubeSchema);
 

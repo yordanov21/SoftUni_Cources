@@ -1,10 +1,16 @@
 const express = require("express");
 const cubeService = require("../services/cubeService");
+const Cube = require('../models/Cube');
 
 const router = express.Router();
 
 const home = async (req, res) => {
   let cubes = await cubeService.getAll();
+
+  // Not used only for demo
+  // let test = await Cube.findByName('Building cube');
+  // console.log(test);
+
   res.render("index", { cubes });
 };
 
