@@ -10,7 +10,7 @@ const userSchema = new mongoose.Schema({
     //   "Username should consist of english letters and digits",
     // ],
     unique: true,
-    minlength: [5, "Username cannot be with less then 2 characters"],
+    minlength: [5, "Username cannot be with less then 5 characters"],
   },
   password: {
     type: String,
@@ -18,18 +18,19 @@ const userSchema = new mongoose.Schema({
     //   /^[a-zA-Z0-9]+$/,
     //   "Password should consist of english letters and digits",
     // ],
-    minlength: [8, "Your password should be at least 6 characters"],
+    minlength: [8, "Your password should be at least 8 characters"],
     required: true,
   },
 });
 
-// userSchema.pre("save", function (next) {
-//   bcrypt.hash(this.password, 10).then((hash) => {
-//     this.password = hash;
-
-//     next();
-//   });
-// });
+// hashing the password in the model or in the servise.
+// here use function expresion to now the contex of this. In arow function the contex of this will be lose
+userSchema.pre("save", function (next) {
+  bcrypt.hash(this.password, 10).then((hash) => {
+    this.password = hash;
+    next();
+  });
+});
 
 // userSchema.static("findByUsername", function (username) {
 //   return this.findOne({ username });
