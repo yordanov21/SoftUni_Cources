@@ -5,30 +5,30 @@ const Cube = require('../models/Cube');
 const router = express.Router();
 
 const home = async (req, res) => {
-  let cubes = await cubeService.getAll();
+    let cubes = await cubeService.getAll();
 
-  // Not used only for demo
-  // let test = await Cube.findByName('Building cube');
-  // console.log(test);
+    // Not used only for demo
+    // let test = await Cube.findByName('Building cube');
+    // console.log(test);
 
-  res.render("index", { cubes });
+    res.render("index", { cubes });
 };
 
 const about = (req, res) => {
-  res.render("about");
+    res.render("about");
 };
 
 const search = async (req, res) => {
-  console.log(req.query);
-  let { search, from, to } = req.query;
-  let cubes = await cubeService.search(search, from, to);
-  res.render("index", {
-    title: 'Search',
-    search,
-    from,
-    to,
-    cubes,
-  });
+    console.log(req.query);
+    let { search, from, to } = req.query;
+    let cubes = await cubeService.search(search, from, to);
+    res.render("index", {
+        title: 'Search',
+        search,
+        from,
+        to,
+        cubes,
+    });
 };
 
 router.get("/", home);
