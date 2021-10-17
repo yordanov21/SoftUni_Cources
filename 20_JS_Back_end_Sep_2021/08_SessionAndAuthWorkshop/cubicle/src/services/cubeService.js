@@ -46,12 +46,18 @@ const attachAccessory = async (cubeId, accessoryId) => {
   return cube.save();
 };
 
+const deleteOne = (cubeId) => Cube.findByIdAndDelete(cubeId);
+
+const updateOne = (cubeId, cube) => Cube.findByIdAndUpdate(cubeId, cube, { runValidators: true });
+
 const cubeService = {
   getAll,
   getOne,
   create,
   search,
   attachAccessory,
+  deleteOne,
+  updateOne,
 };
 
 module.exports = cubeService;
