@@ -5,6 +5,7 @@ const cookieParser = require('cookie-parser');
 
 const config = require('./config/config.json')[process.env.NODE_ENV];
 const initDatabase = require('./config/database');
+const { auth } = require('./middlewares/authMiddleware');
 
 const initHandlebars = require('./config/handlebars');
 
@@ -12,8 +13,9 @@ const app = express();
 
 // parser for data from form data
 app.use(express.urlencoded({ extended: true }));
-
 app.use(cookieParser());
+
+app.use(auth);
 
 initHandlebars(app);
 // require('./config/handlebars')(app); // other way to invoke initHandlebars just with require
