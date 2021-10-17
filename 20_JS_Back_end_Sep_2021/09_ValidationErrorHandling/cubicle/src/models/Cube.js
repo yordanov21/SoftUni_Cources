@@ -1,4 +1,5 @@
 const mongoose = require('mongoose');
+const validator = require('validator');
 
 const cubeSchema = new mongoose.Schema({
     name: {
@@ -10,6 +11,13 @@ const cubeSchema = new mongoose.Schema({
         required: true,
         maxlength: 100,
     },
+    // email: {
+    //     validate: {
+    //         validator: function(value) {
+    //             return validator.isEmail(value)
+    //         }
+    //     }
+    // },
     imageUrl: {
         type: String,
         required: true,
