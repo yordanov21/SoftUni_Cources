@@ -66,6 +66,7 @@ exports.createToken = function (user) {
 
     return jwtSign(payload, SECRET);
 
+    // transform a callback in a func that return promise
     // return new Promise((resolve, reject) => {
     //     jwt.sign(payload, SECRET, function(err, token) {
     //         if (err) {
