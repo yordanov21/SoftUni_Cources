@@ -35,7 +35,7 @@ router.get("/register", (req, res) => {
     res.render("auth/register");
 });
 
-router.post("/register", async (req, res) => {
+router.post("/register", async (req, res, next) => {
     let { username, password, repeatPassword } = req.body;
 
     try {
@@ -43,8 +43,8 @@ router.post("/register", async (req, res) => {
         res.redirect("/login");
     } catch (error) {
         res.locals.error = error.message;
-        // res.status(400).send(error.message);
         res.status(400).render('auth/register')
+        // next(error.message);
     }
 });
 
