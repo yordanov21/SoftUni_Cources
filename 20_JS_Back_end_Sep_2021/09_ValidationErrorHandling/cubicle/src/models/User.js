@@ -5,19 +5,19 @@ const userSchema = new mongoose.Schema({
   username: {
     type: String,
     required: true,
-    // validate: [
-    //   /^[a-zA-Z0-9]+$/,
-    //   "Username should consist of english letters and digits",
-    // ],
+    validate: [
+      /^[a-zA-Z0-9]+$/,
+      "Username should consist of english letters and digits",
+    ],
     unique: true,
     minlength: [5, "Username cannot be with less then 5 characters"],
   },
   password: {
     type: String,
-    // validate: [
-    //   /^[a-zA-Z0-9]+$/,
-    //   "Password should consist of english letters and digits",
-    // ],
+    validate: [
+      /^[a-zA-Z0-9]+$/,
+      "Password should consist of english letters and digits",
+    ],
     minlength: [8, "Your password should be at least 8 characters"],
     required: true,
   },
@@ -41,11 +41,11 @@ userSchema.method("validatePassword", function (password) {
   return bcrypt.compare(password, this.password);
 });
 
-// userSchema.virtual("repeatPassword").set(function (v) {
-//   if (v !== this.password) {
-//     throw new Error("Password MIssmatch");
-//   }
-// });
+userSchema.virtual("repeatPassword").set(function (v) {
+  if (v !== this.password) {
+    throw new Error("Password MIssmatch");
+  }
+});
 
 const User = mongoose.model("User", userSchema);
 

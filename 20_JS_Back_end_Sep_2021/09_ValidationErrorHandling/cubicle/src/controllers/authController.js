@@ -42,7 +42,9 @@ router.post("/register", async (req, res) => {
         await authService.register(username, password, repeatPassword);
         res.redirect("/login");
     } catch (error) {
-        res.status(400).send(error);
+        res.locals.error = error.message;
+        // res.status(400).send(error.message);
+        res.status(400).render('auth/register')
     }
 });
 

@@ -11,7 +11,7 @@ exports.register = function (username, password, repeatPassword) {
     //     .hash(password, 10)
     //     .then((hash) => User.create({ username, password: hash }));
 
-    return User.create({ username, password });
+    return User.create({ username, password, repeatPassword });
 };
 
 // check for valid user in the service with promise, but here is better to use async function

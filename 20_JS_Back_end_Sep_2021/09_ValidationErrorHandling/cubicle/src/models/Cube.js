@@ -5,11 +5,16 @@ const cubeSchema = new mongoose.Schema({
     name: {
         type: String,
         required: true,
+        validate: [
+            /^[a-zA-Z0-9 ]+$/,
+            "Cube name should consist of english letters, digits and spaces",
+        ],
     },
     description: {
         type: String,
         required: true,
         maxlength: 100,
+        minlength: 10,
     },
     // email: {
     //     validate: {
