@@ -5,12 +5,13 @@ const getAll = () => Cube.find({}).lean(); //lean() return array of objects, wit
 
 const getOne = (id) => Cube.findById(id).populate("accessories").lean();
 
-const create = (name, description, imageUrl, difficulty) => {
+const create = (name, description, imageUrl, difficulty, userId) => {
   let cube = new Cube({
     name,
     description,
     imageUrl,
     difficulty,
+    creator: userId,
   });
 
   console.log(cube);
