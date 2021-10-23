@@ -6,7 +6,7 @@ const courseController = require('./controllers/courseController');
 
 router.use(homeController);
 router.use('/auth', autController);
-router.use('/courses', courseController);
+router.use('/course', courseController);
 router.use('*', (req, res) => {
     res.render('404');
 });

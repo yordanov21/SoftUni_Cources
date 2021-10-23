@@ -3,11 +3,12 @@ const Course = require('../models/Course');
 
 exports.create = (courseData) => Course.create(courseData);
 
-exports.getOne = (housingId) => Course.findById(housingId).populate('tenants');
+exports.getOne = (courseId) => Course.findById(courseId).populate('usersEnrolled');
 
 exports.getAll = () => Course.find().lean();
 
-exports.getTopHouses = () => Course.find().sort({ createdAt: -1 }).limit(3).lean(); // dont forget the lean() to the end :), when return objects form the mongoose
+//exports.getTopHouses = () => Course.find().sort({ createdAt: -1 }).limit(3).lean(); // dont forget the lean() to the end :), when return objects form the mongoose
+
 
 exports.addTenant = (housingId, tenantId) => {
     // let housing = await housingService.getOne(req.params.housingId);

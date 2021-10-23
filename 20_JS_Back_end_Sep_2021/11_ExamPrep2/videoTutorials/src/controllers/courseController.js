@@ -41,19 +41,20 @@ function getErrorMessage(error) {
     }
 }
 
-// router.get('/:courseId/details', async (req, res) => {
-//     let housing = await housingService.getOne(req.params.housingId);
-//     let housingData = await housing.toObject();
+router.get('/:courseId/details', async (req, res) => {
+    let course = await courseService.getOne(req.params.courseId);
+    let courseData = await course.toObject();
 
-//     let isOwner = housingData.owner == req.user?._id;
-//     let tenants = housing.getTenants();
+    let isCreator = courseData.creator == req.user?._id;
+    //let tenants = housing.getTenants();
 
 
-//     let isAvailable = housing.availablePieces > 0;
-//     let isRentedByUser = housing.tenants.some(x => x._id == req.user?._id);
+    // let isAvailable = housing.availablePieces > 0;
+    //let isRentedByUser = housing.tenants.some(x => x._id == req.user?._id);
 
-//     res.render('course/details', { ...housingData, isOwner, tenants, isAvailable, isRentedByUser });
-// });
+    //res.render('course/details', { ...housingData, isCreator, tenants, isAvailable, isRentedByUser });
+    res.render('course/details', { ...courseData, isCreator });
+});
 
 // router.get('/:housingId/rent', isOwner, async (req, res) => {
 
