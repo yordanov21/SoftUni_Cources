@@ -4,10 +4,10 @@ const courseService = require('../services/courseService');
 
 router.get('/', async (req, res) => {
 
+    // all public course
+    //let courses = await courseService.getAllPublic();
+    // all courses
     let courses = await courseService.getAll();
-    console.log(req.user);
-    console.log(courses);
-
     res.render('home', { title: 'Home Page', courses });
 
 });

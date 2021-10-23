@@ -70,18 +70,19 @@ router.get('/:courseId/delete', isCreator, async (req, res) => {
     res.redirect('/');
 });
 
-// router.get('/:housingId/edit', isNotCreator, async (req, res) => {
-//     let housing = await housingService.getOne(req.params.housingId);
-//     let housingData = await housing.toObject();
+router.get('/:courseId/edit', isCreator, async (req, res) => {
+    let course = await courseService.getOne(req.params.courseId);
+    let courseData = await course.toObject();
 
-//     res.render('housing/edit', { ...housingData });
-// });
+    res.render('course/edit', { ...courseData });
+});
 
-// router.post('/:housingId/edit', isNotCreator, async (req, res) => {
-//     await housingService.updateOne(req.params.housingId, req.body)
-
-//     res.redirect(`/housing/${req.params.housingId}/details`);
-// });
+router.post('/:courseId/edit', isCreator, async (req, res) => {
+    console.log('asdasdsads');
+    await courseService.updateOne(req.params.courseId, req.body)
+    console.log('asdasdssdfsdfads');
+    res.redirect(`/course/${req.params.courseId}/details`);
+});
 
 // for security guards
 async function isNotCreator(req, res, next) {

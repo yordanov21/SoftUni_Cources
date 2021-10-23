@@ -7,7 +7,7 @@ exports.getOne = (courseId) => Course.findById(courseId).populate('usersEnrolled
 
 exports.getAll = () => Course.find().lean();
 
-//exports.getTopHouses = () => Course.find().sort({ createdAt: -1 }).limit(3).lean(); // dont forget the lean() to the end :), when return objects form the mongoose
+exports.getAllPublic = () => Course.find({ isPublic: true }).lean(); // dont forget the lean() to the end :), when return objects form the mongoose
 
 
 exports.addUserEnrolled = async (courseId, userId) => {
