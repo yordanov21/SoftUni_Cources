@@ -14,7 +14,13 @@ const userSchema = new mongoose.Schema({
         required: true,
         minlength: 5,
         validate: [/^[a-zA-Z0-9]+$/, "Password should consist of english letters and digits",],
-    }
+    },
+    enrolledCourses: [
+        {
+            type: mongoose.Types.ObjectId,
+            ref: 'Course',
+        }
+    ],
 });
 
 userSchema.pre('save', function (next) {
@@ -29,6 +35,12 @@ userSchema.pre('save', function (next) {
 userSchema.method('validatePassword', function (password) {
     return bcrypt.compare(password, this.password);
 })
+
+userSchema.method('getEnrolledCourses', function () {
+    return this.enrolledCourses.map(x => x.title).join(', ');
+})
+
+
 
 const User = mongoose.model('User', userSchema);
 

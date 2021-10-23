@@ -62,8 +62,10 @@ router.get('/logout', isAuth, (req, res) => {
 router.get('/:userId/profile', async (req, res) => {
     let user = await authService.getOne(req.params.userId);
     let userData = await user.toObject();
+    console.log('Profile');
     console.log(user);
 
+    let enrolledCourses = user.getEnrolledCourses();
     // let isOwner = housingData.owner == req.user?._id;
     // let tenants = housing.getTenants();
 
@@ -74,7 +76,7 @@ router.get('/:userId/profile', async (req, res) => {
     // res.render('auth/profile');
 
 
-    res.render('auth/profile', { ...userData });
+    res.render('auth/profile', { ...userData, enrolledCourses });
 })
 
 module.exports = router;

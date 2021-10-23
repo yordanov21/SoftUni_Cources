@@ -59,7 +59,7 @@ router.get('/:courseId/details', async (req, res) => {
 router.get('/:courseId/enroll', isNotCreator, async (req, res) => {
 
     await courseService.addUserEnrolled(req.params.courseId, req.user._id);
-
+    await courseService.enrolledCourse(req.params.courseId, req.user._id);
     res.redirect(`/course/${req.params.courseId}/details`);
 });
 

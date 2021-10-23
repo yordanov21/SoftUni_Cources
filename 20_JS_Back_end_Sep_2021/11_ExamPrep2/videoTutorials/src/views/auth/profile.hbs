@@ -10,7 +10,9 @@
         <div class="flex">
             <p>Enrolled Courses: </p>
             <p>
-                <span>Angular, React</span>
+                {{#if enrolledCourses}}
+                <span>{{enrolledCourses}}</span>
+                {{/if}}
             </p>
         </div>
     </div>
