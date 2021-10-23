@@ -18,10 +18,8 @@ router.post('/login', async (req, res) => {
 
         res.redirect('/');
     } catch (error) {
-        console.log(error);
-
-        // TODO: Yordan Yordanov (date: 2021-10-20) - return error
-        res.end();
+        res.locals.error = error;
+        return res.render('auth/login');
     }
 
 })
@@ -34,8 +32,9 @@ router.post('/register', isGuest, async (req, res) => {
     const { username, password, repeatPassword } = req.body;
 
     if (password !== repeatPassword) {
+
         res.locals.error = 'Password missmatch';
-        return res.render('/auth/register');
+        return res.render('auth/register');
     }
 
     try {
@@ -48,9 +47,8 @@ router.post('/register', isGuest, async (req, res) => {
         res.redirect('/')
 
     } catch (error) {
-        console.log(error);
-        // TODO: Yordan Yordanov (date: 2021-10-20) - return error
-
+        res.locals.error = error;
+        return res.render('auth/register');
     }
 });
 
@@ -59,5 +57,24 @@ router.get('/logout', isAuth, (req, res) => {
     res.redirect('/');
 
 });
+
+
+router.get('/:userId/profile', async (req, res) => {
+    let user = await authService.getOne(req.params.userId);
+    let userData = await user.toObject();
+    console.log(user);
+
+    // let isOwner = housingData.owner == req.user?._id;
+    // let tenants = housing.getTenants();
+
+
+    // let isAvailable = housing.availablePieces > 0;
+    // let isRentedByUser = housing.tenants.some(x => x._id == req.user?._id);
+
+    // res.render('auth/profile');
+
+
+    res.render('auth/profile', { ...userData });
+})
 
 module.exports = router;

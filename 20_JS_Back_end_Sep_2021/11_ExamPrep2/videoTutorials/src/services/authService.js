@@ -27,9 +27,6 @@ exports.login = async ({ username, password }) => {
     return token;
 };
 
-// exports.register = async (userData) => {
-//     User.create(userData);
-// };
-
-
 exports.register = (userData) => User.create(userData);
+
+exports.getOne = (userId) => User.findById(userId);

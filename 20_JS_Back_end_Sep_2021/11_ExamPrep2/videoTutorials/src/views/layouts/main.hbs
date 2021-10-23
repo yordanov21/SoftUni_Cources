@@ -28,11 +28,11 @@
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="/coursec/create">Create</a>
+                    <a class="nav-link" href="/courses/create">Create</a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="#">My Profile</a>
+                    <a class="nav-link" href="/auth/{{user._id}}/profile">My Profile</a>
                 </li>
 
                 <li class="nav-item">
@@ -55,10 +55,12 @@
 
         <!-- In case of error, you should display section with class "notifications" -->
         <!-- You can choose to display the first error or all of them (error message/s in your opinion) -->
-        <!--
+
+        {{#if error}}
         <section class="notifications">
-            <p class="notification-message">Message...</p>
-        </section>-->
+            <p class="notification-message">{{error}}</p>
+        </section>
+        {{/if}}
 
         {{{ body }}}
 
