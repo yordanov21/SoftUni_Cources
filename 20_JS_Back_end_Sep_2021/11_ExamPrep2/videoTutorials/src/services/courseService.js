@@ -10,22 +10,14 @@ exports.getAll = () => Course.find().lean();
 //exports.getTopHouses = () => Course.find().sort({ createdAt: -1 }).limit(3).lean(); // dont forget the lean() to the end :), when return objects form the mongoose
 
 
-exports.addTenant = (housingId, tenantId) => {
-    // let housing = await housingService.getOne(req.params.housingId);
-    // housing.tenants.push(req.user._id);
-    // return housing.save();
+exports.addUserEnrolled = async (courseId, userId) => {
+    let course = await Course.findById(courseId).populate('usersEnrolled');
+    course.usersEnrolled.push(userId);
+    return course.save();
+};
 
-    return Course.findOneAndUpdate(
-        { _id: housingId },
-        {
-            $push: { tenants: tenantId },
-            $inc: { availablePieces: -1 }
-        },
-        { runValidators: true });
-}
+exports.delete = (courseId) => Course.findByIdAndDelete(courseId);
 
-exports.delete = (housingId) => Course.findByIdAndDelete(housingId);
-
-exports.updateOne = (housingId, housingData) => Course.findByIdAndUpdate(housingId, housingData);
+exports.updateOne = (courseId, courseData) => Course.findByIdAndUpdate(courseId, courseData);
 
 exports.search = (searchText) => Housing.find({ type: { $regex: searchText, $options: 'i' } }).lean();

@@ -50,59 +50,63 @@ router.get('/:courseId/details', async (req, res) => {
 
 
     // let isAvailable = housing.availablePieces > 0;
-    //let isRentedByUser = housing.tenants.some(x => x._id == req.user?._id);
+    let isUserEnrolled = course.usersEnrolled.some(x => x._id == req.user?._id);
 
     //res.render('course/details', { ...housingData, isCreator, tenants, isAvailable, isRentedByUser });
-    res.render('course/details', { ...courseData, isCreator });
+    res.render('course/details', { ...courseData, isCreator, isUserEnrolled });
 });
 
-// router.get('/:housingId/rent', isOwner, async (req, res) => {
+router.get('/:courseId/enroll', isNotCreator, async (req, res) => {
 
-//     await housingService.addTenant(req.params.housingId, req.user._id);
+    await courseService.addUserEnrolled(req.params.courseId, req.user._id);
 
-//     res.redirect(`/housing/${req.params.housingId}/details`);
-// });
+    res.redirect(`/course/${req.params.courseId}/details`);
+});
 
-// router.get('/:housingId/delete', isNotOwner, async (req, res) => {
-//     await housingService.delete(req.params.housingId);
+router.get('/:courseId/delete', isCreator, async (req, res) => {
 
-//     res.redirect('/housing');
-// });
+    await courseService.delete(req.params.courseId);
 
-// router.get('/:housingId/edit', isNotOwner, async (req, res) => {
+    res.redirect('/');
+});
+
+// router.get('/:housingId/edit', isNotCreator, async (req, res) => {
 //     let housing = await housingService.getOne(req.params.housingId);
 //     let housingData = await housing.toObject();
 
 //     res.render('housing/edit', { ...housingData });
 // });
 
-// router.post('/:housingId/edit', isNotOwner, async (req, res) => {
+// router.post('/:housingId/edit', isNotCreator, async (req, res) => {
 //     await housingService.updateOne(req.params.housingId, req.body)
 
 //     res.redirect(`/housing/${req.params.housingId}/details`);
 // });
 
+// for security guards
+async function isNotCreator(req, res, next) {
+    let course = await courseService.getOne(req.params.courseId);
+    console.log(course);
+
+    if (course.creator == req.user._id) {
+        res.redirect(`/course/${req.params.courseId}/details`);
+    } else {
+        next();
+    }
+};
+
 // // for security guards
-// async function isOwner(req, res, next) {
-//     let housing = await housingService.getOne(req.params.housingId);
+async function isCreator(req, res, next) {
+    let course = await courseService.getOne(req.params.courseId);
 
-//     if (housing.owner == req.user._id) {
-//         res.redirect(`/housing/${req.params.housingId}/details`);
-//     } else {
-//         next();
-//     }
-// };
+    console.log(course);
+    if (course.creator == req.user._id) {
+        next();
+    } else {
+        console.log('nextsdfdss');
+        res.redirect(`/course/${req.params.courseId}/details`);
 
-// // for security guards
-// async function isNotOwner(req, res, next) {
-//     let housing = await housingService.getOne(req.params.housingId);
-
-//     if (housing.owner != req.user._id) {
-//         next();
-//     } else {
-//         res.redirect(`/housing/${req.params.housingId}/details`);
-
-//     }
-// };
+    }
+};
 
 module.exports = router;
