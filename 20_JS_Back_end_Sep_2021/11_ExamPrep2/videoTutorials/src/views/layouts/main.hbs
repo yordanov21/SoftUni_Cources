@@ -22,8 +22,9 @@
                 </li>
 
                 <!-- Logged users -->
+                {{#if user}}
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Welcome, {{username}}</a>
+                    <a class="nav-link" href="#">Welcome, {{user.username}}</a>
                 </li>
 
                 <li class="nav-item">
@@ -37,7 +38,7 @@
                 <li class="nav-item">
                     <a class="nav-link" href="/auth/logout">Logout</a>
                 </li>
-
+                {{else}}
                 <!-- Guest users -->
                 <li class="nav-item">
                     <a class="nav-link" href="/auth/login">Login</a>
@@ -46,6 +47,7 @@
                 <li class="nav-item">
                     <a class="nav-link" href="/auth/register">Register</a>
                 </li>
+                {{/if}}
 
             </ul>
         </nav>

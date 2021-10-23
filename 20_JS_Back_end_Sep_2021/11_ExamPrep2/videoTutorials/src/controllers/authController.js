@@ -18,6 +18,8 @@ router.post('/login', async (req, res) => {
 
         res.redirect('/');
     } catch (error) {
+        console.log(error);
+
         // TODO: Yordan Yordanov (date: 2021-10-20) - return error
         res.end();
     }
@@ -46,6 +48,7 @@ router.post('/register', isGuest, async (req, res) => {
         res.redirect('/')
 
     } catch (error) {
+        console.log(error);
         // TODO: Yordan Yordanov (date: 2021-10-20) - return error
 
     }
