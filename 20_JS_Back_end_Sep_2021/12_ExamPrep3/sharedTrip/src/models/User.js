@@ -7,7 +7,7 @@ const userSchema = new mongoose.Schema({
         type: String,
         required: true,
         minlength: 5,
-        validate: [/^[a-zA-Z0-9 ]+$/, "Course name should consist of english letters, digits and spaces",],
+        // validate: [/^[a-zA-Z0-9 ]+$/, "Email should consist of english letters, digits and spaces",],
     },
     password: {
         type: String,
@@ -17,7 +17,8 @@ const userSchema = new mongoose.Schema({
     },
     gender: {
         type: String,
-        
+        enum: ['male', 'female'],
+        required: true,
     },
     tripHistory: [
         {
