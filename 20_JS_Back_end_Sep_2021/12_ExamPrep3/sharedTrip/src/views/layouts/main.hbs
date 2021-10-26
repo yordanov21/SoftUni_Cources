@@ -1,8 +1,9 @@
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
     <!-- Do not forget to change the path to the css file -->
-    <link rel="stylesheet" href="../static/css/style.css">
+    <link rel="stylesheet" href="/static/css/style.css">
     <title>Home Page</title>
 </head>
 
@@ -37,7 +38,7 @@
                         <a class="nav-link" href="/trip/create">Offer Trip</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/auth/{{_id}}/profile">Profile</a>
+                        <a class="nav-link" href="/auth/{{user._id}}/profile">Profile</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/auth/logout">Logout as [ {{user.email}} ]</a>

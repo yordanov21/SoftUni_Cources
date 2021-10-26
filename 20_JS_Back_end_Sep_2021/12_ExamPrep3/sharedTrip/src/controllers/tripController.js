@@ -47,5 +47,21 @@ function getErrorMessage(error) {
     }
 }
 
+router.get('/:tripId/details', async (req, res) => {
+    let trip = await tripService.getOne(req.params.tripId);
+    let tripData = await trip.toObject();
+
+    let isCreator = tripData.creator == req.user?._id;
+    //let tenants = housing.getTenants();
+
+
+    // let isAvailable = housing.availablePieces > 0;
+    // let isUserEnrolled = course.usersEnrolled.some(x => x._id == req.user?._id);
+
+    //res.render('course/details', { ...housingData, isCreator, tenants, isAvailable, isRentedByUser });
+    //res.render('course/details', { ...courseData, isCreator, isUserEnrolled });
+    res.render('trip/details', { ...tripData, isCreator });
+});
+
 
 module.exports = router;
