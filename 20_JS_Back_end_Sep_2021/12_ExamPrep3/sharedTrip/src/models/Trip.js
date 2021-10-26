@@ -13,6 +13,10 @@ let tripSchema = new mongoose.Schema({
         type: String,
         required: true,
     },
+    time: {
+        type: String,
+        required: true,
+    },
     carImage: {
         type: String,
         required: true,

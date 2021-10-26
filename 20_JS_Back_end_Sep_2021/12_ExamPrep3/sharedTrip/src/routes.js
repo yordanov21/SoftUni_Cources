@@ -2,11 +2,11 @@ const router = require('express').Router();
 
 const homeController = require('./controllers/homeController');
 const autController = require('./controllers/authController');
-const sharedTripsController = require('./controllers/sharedTripsController');
+const tripsController = require('./controllers/tripController');
 
 router.use(homeController);
 router.use('/auth', autController);
-router.use('/sharedTrips', sharedTripsController);
+router.use('/trip', tripsController);
 router.use('*', (req, res) => {
     res.render('404');
 });
