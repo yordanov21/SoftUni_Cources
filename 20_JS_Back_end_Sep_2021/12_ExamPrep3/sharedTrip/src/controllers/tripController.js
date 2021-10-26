@@ -10,7 +10,9 @@ router.get('/', async (req, res) => {
     // all courses
     // let courses = await courseService.getAll();
     // res.render('home', { title: 'Home Page', courses });
-    res.render('trip', { title: 'Shared Trips' });
+
+    let trips = await tripService.getAll();
+    res.render('trip', { title: 'Shared Trips', trips });
 
 });
 
