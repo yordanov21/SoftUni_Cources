@@ -2,6 +2,7 @@ const router = require('express').Router();
 
 const { isAuth } = require('../middlewares/authMiddleware');
 const tripService = require('../services/tripService');
+const authService = require('../services/authService');
 
 router.get('/', async (req, res) => {
 
@@ -50,6 +51,9 @@ function getErrorMessage(error) {
 router.get('/:tripId/details', async (req, res) => {
     let trip = await tripService.getOne(req.params.tripId);
     let tripData = await trip.toObject();
+    let creator = await authService.getOne(tripData.creator);
+    let emailCreator = creator.email
+    console.log(emailCreator);
 
     let isCreator = tripData.creator == req.user?._id;
     //let tenants = housing.getTenants();
@@ -60,7 +64,7 @@ router.get('/:tripId/details', async (req, res) => {
 
     //res.render('course/details', { ...housingData, isCreator, tenants, isAvailable, isRentedByUser });
     //res.render('course/details', { ...courseData, isCreator, isUserEnrolled });
-    res.render('trip/details', { ...tripData, isCreator });
+    res.render('trip/details', { ...tripData, isCreator, emailCreator });
 });
 
 
