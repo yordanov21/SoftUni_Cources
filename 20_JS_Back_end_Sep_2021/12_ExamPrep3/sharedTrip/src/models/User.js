@@ -41,9 +41,9 @@ userSchema.method('validatePassword', function (password) {
     return bcrypt.compare(password, this.password);
 })
 
-// userSchema.method('getTripHistory', function () {
-//     return this.tripHistory.map(x => x.title).join(', ');
-// })
+userSchema.method('getTripHistory', function () {
+    return this.tripHistory;
+})
 
 
 

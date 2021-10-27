@@ -71,7 +71,8 @@ router.get('/:userId/profile', async (req, res) => {
     console.log(user);
     console.log(userData);
 
-    // let enrolledCourses = user.getEnrolledCourses();
+    let tripsHistory = user.getTripHistory();
+    console.log(tripsHistory);
     // let isOwner = housingData.owner == req.user?._id;
     // let tenants = housing.getTenants();
 
@@ -83,8 +84,8 @@ router.get('/:userId/profile', async (req, res) => {
 
 
     //res.render('auth/profile', { ...userData, enrolledCourses });
-
-    res.render('auth/profile', { ...userData });
+    //todo not fineshed , there is a bug with populate teh trip history in the profile page
+    res.render('auth/profile', { ...userData, tripsHistory });
 })
 
 module.exports = router;
