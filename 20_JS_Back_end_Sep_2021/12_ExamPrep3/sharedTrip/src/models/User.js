@@ -7,12 +7,12 @@ const userSchema = new mongoose.Schema({
         type: String,
         required: true,
         minlength: 5,
-        // validate: [/^[a-zA-Z0-9 ]+$/, "Email should consist of english letters, digits and spaces",],
+        validate: [/(.+)@(.+){2,}\.(.+){2,}/, "Email should be in proper format (mailboxname @ domainname) - username@domain.bg"],
     },
     password: {
         type: String,
         required: true,
-        minlength: 5,
+        minlength: 4,
         validate: [/^[a-zA-Z0-9]+$/, "Password should consist of english letters and digits",],
     },
     gender: {

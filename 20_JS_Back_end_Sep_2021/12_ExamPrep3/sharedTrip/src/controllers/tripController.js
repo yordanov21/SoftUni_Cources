@@ -29,6 +29,12 @@ router.post('/create', isAuth, async (req, res) => {
         console.log(req.body);
         console.log(req.user._id);
         await tripService.create({ startPoint, endPoint, date, time, carImage, carBrand, seats, price, description, creator: req.user._id });
+        let createdTrip = tripService.getLastAddedTrip();
+        console.log('*****************************');
+
+        console.log(createdTrip);
+
+        await tripService.addTripToTripHistory(req.user._id, createdTrip._id)
         res.redirect('/trip');
     } catch (error) {
         console.log(error);
