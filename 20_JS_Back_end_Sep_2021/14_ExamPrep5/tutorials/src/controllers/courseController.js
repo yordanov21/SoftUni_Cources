@@ -38,7 +38,7 @@ function getErrorMessage(error) {
     }
 }
 
-router.get('/:courseId/details', async (req, res) => {
+router.get('/:courseId/details', isAuth, async (req, res) => {
     let course = await courseService.getOne(req.params.courseId);
     let courseData = await course.toObject();
 

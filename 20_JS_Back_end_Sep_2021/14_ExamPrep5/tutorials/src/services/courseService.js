@@ -7,7 +7,9 @@ exports.create = (courseData) => Course.create(courseData);
 
 exports.getOne = (courseId) => Course.findById(courseId).populate('usersEnrolled');
 
-exports.getAllPopulate = () => Course.find().populate('usersEnrolled').lean();
+exports.getAllPopulate = () => Course.find().sort({ createdAt: 1 }).populate('usersEnrolled').lean();
+
+exports.getFirst3ByEnrolled = () => Course.find().sort({ usersEnrolled: -1 }).limit(3).populate('usersEnrolled').lean();
 
 exports.getAll = () => Course.find().lean();
 
@@ -38,4 +40,4 @@ exports.delete = (courseId) => Course.findByIdAndDelete(courseId);
 
 exports.updateOne = (courseId, courseData) => Course.findByIdAndUpdate(courseId, courseData);
 
-exports.search = (searchText) => Housing.find({ type: { $regex: searchText, $options: 'i' } }).lean();
+exports.search = (searchText) => Course.find({ title: { $regex: searchText, $options: 'i' } }).lean();

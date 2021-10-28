@@ -8,22 +8,32 @@ router.get('/', async (req, res) => {
     //let courses = await courseService.getAllPublic();
 
     // all courses
-    let courses = await courseService.getAllPopulate();
-    let enrolledUsers = courses.usersEnrolled?.lenght;
-
-    if (!enrolledUsers) {
-        enrolledUsers = 0;
-    }
-    console.log(enrolledUsers);
+    let allCourses = await courseService.getAllPopulate();
+    let first3CoursesByEnrolled = await courseService.getFirst3ByEnrolled();
 
     if (req.user) {
         console.log('user');
 
-        res.render('home/user-home', { title: 'Home Page', courses, enrolledUsers });
+        res.render('home/user-home', { title: 'Home Page', allCourses, allCourses });
     } else {
         console.log('no user');
-        res.render('home/guest-home', { title: 'Home Page', courses, enrolledUsers });
+        res.render('home/guest-home', { title: 'Home Page', allCourses, first3CoursesByEnrolled });
     }
+});
+
+router.get('/search', async (req, res) => {
+
+    // req.query - return object
+    // req.query.text - return text
+    let searchtext = req.query.text;
+    console.log("/////////////////////");
+    console.log(searchtext);
+    if (!searchtext) {
+        searchtext = '';
+    }
+    let courses = await courseService.search(searchtext);
+    // console.log(courses);
+    res.render('search', { title: 'Search Courses', courses });
 });
 
 module.exports = router;

@@ -7,7 +7,7 @@ const userSchema = new mongoose.Schema({
         type: String,
         required: true,
         minlength: 5,
-        validate: [/^[a-zA-Z0-9 ]+$/, "Username should consist of english letters, digits and spaces",],
+        validate: [/^[a-zA-Z0-9]+$/, "Username should consist of english letters, digits and spaces",],
     },
     password: {
         type: String,
