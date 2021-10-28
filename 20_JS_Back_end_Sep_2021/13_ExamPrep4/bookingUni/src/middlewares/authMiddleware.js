@@ -34,6 +34,8 @@ exports.isAuth = function (req, res, next) {
 // for security guards
 exports.isGuest = function (req, res, next) {
     if (!req.user) {
+        console.log('1 next');
+
         next();
     } else {
         res.redirect('/');
