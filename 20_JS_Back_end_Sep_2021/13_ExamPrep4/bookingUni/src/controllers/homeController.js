@@ -1,6 +1,6 @@
 const router = require('express').Router();
 
-//const courseService = require('../services/hotelService');
+const bookingService = require('../services/bookingService');
 
 router.get('/', async (req, res) => {
 
@@ -9,8 +9,8 @@ router.get('/', async (req, res) => {
     // all courses
     // let courses = await courseService.getAll();
     // res.render('home', { title: 'Home Page', courses });
-
-    res.render('home', { title: 'Home Page' });
+    let bookings = await bookingService.getAll();
+    res.render('home', { title: 'Home Page', bookings });
 
 });
 
