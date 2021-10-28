@@ -26,11 +26,11 @@
             <div class="left-container">
                 <ul>
                     <li><a href="/">Home</a></li>
-                    <li><a href="">Add +</a></li>
+                    <li><a href="/booking/create">Add +</a></li>
                 </ul>
             </div>
             <div class="right-container">
-                <a href="/auth/profile" class="log-out">{{name}}</a>
+                <a href="/auth/{{user._id}}/profile" class="log-out">{{user.username}}</a>
                 <a href="/auth/logout" class="log-out">Logout</a>
             </div>
         </nav>

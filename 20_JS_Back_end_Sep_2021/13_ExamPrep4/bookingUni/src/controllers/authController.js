@@ -45,8 +45,8 @@ router.post('/register', isGuest, async (req, res) => {
 
         await authService.register({ email, username, password, rePassword })
 
-        // let token = await authService.login({ username, password });
-        // res.cookie(AUTH_COOKIE_NAME, token);
+        let token = await authService.login({ username, password });
+        res.cookie(AUTH_COOKIE_NAME, token);
         console.log('register user');
 
         res.redirect('/')
@@ -72,7 +72,7 @@ router.get('/:userId/profile', async (req, res) => {
     console.log('Profile');
     console.log(user);
 
-    let enrolledCourses = user.getEnrolledCourses();
+    //let enrolledCourses = user.getEnrolledCourses();
     // let isOwner = housingData.owner == req.user?._id;
     // let tenants = housing.getTenants();
 
@@ -83,7 +83,9 @@ router.get('/:userId/profile', async (req, res) => {
     // res.render('auth/profile');
 
 
-    res.render('auth/profile', { ...userData, enrolledCourses });
+    //res.render('auth/profile', { ...userData, enrolledCourses });
+
+    res.render('auth/profile', { ...userData });
 })
 
 module.exports = router;

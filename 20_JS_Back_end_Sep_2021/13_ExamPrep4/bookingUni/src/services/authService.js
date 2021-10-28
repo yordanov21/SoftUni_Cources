@@ -29,4 +29,4 @@ exports.login = async ({ username, password }) => {
 
 exports.register = (userData) => User.create(userData);
 
-exports.getOne = (userId) => User.findById(userId).populate('enrolledCourses');
+exports.getOne = (userId) => User.findById(userId).populate('bookedHotels');

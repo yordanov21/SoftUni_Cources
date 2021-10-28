@@ -16,10 +16,6 @@ let hotelSchema = new mongoose.Schema({
         required: true,
         validate: [/^https?:\/\//i, 'invalid image url']
     },
-    isPublic: {
-        type: Boolean,
-        //  default: false,
-    },
     freeRooms: {
         type: Number,
         required: true,
@@ -44,6 +40,6 @@ let hotelSchema = new mongoose.Schema({
 //     return this.usersEnrolled.map(x => x.name).join(', ');
 // })
 
-let Course = mongoose.model('Hotel', hotelSchema);
+let Hotel = mongoose.model('Hotel', hotelSchema);
 
-module.exports = Course;
+module.exports = Hotel;
