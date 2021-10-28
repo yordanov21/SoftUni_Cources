@@ -7,13 +7,13 @@ const userSchema = new mongoose.Schema({
         type: String,
         required: true,
         minlength: 5,
-        //validate: [/^[a-zA-Z0-9 ]+$/, "Course name should consist of english letters, digits and spaces",],
+        validate: [/(.+)@(.+){2,}\.(.+){2,}/, "Email should be in proper format (mailboxname @ domainname) - username@domain.bg"],
     },
     username: {
         type: String,
         required: true,
         minlength: 5,
-        validate: [/^[a-zA-Z0-9 ]+$/, "Course name should consist of english letters, digits and spaces",],
+        validate: [/^[a-zA-Z0-9 ]+$/, "Username should consist of english letters, digits and spaces",],
     },
     password: {
         type: String,
@@ -48,11 +48,13 @@ userSchema.method('validatePassword', function (password) {
     return bcrypt.compare(password, this.password);
 })
 
-// userSchema.method('getEnrolledCourses', function () {
-//     return this.enrolledCourses.map(x => x.title).join(', ');
-// })
+userSchema.method('getBookedHotels', function () {
+    return this.bookedHotels.map(x => x.name).join(', ');
+})
 
-
+userSchema.method('getOfferedHotels', function () {
+    return this.offeredHotels.map(x => x.name).join(', ');
+})
 
 const User = mongoose.model('User', userSchema);
 

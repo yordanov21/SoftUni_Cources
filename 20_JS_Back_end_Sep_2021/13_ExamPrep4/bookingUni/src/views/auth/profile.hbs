@@ -12,9 +12,18 @@
         <div class="flex">
             <p>Reservations: </p>
             <p>
-                <span>Hilton Toronto, </span>
-                <span>Auckland Inn, </span>
-                <span>Hotel Berlin, </span>
+                {{#if bookedHotels}}
+                <span>{{bookedHotels}}</span>
+                {{/if}}
+
+            </p>
+        </div>
+        <div class="flex">
+            <p>Offers: </p>
+            <p>
+                {{#if offeredHotels}}
+                <span>{{offeredHotels}}</span>
+                {{/if}}
             </p>
         </div>
     </div>

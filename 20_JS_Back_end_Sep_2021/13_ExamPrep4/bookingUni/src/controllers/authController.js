@@ -5,13 +5,13 @@ const authService = require('../services/authService');
 const { AUTH_COOKIE_NAME } = require('../constants');
 
 
-router.get('/login', (req, res) => {
+router.get('/login', isGuest, (req, res) => {
     console.log('login');
 
     res.render('auth/login');
 })
 
-router.post('/login', async (req, res) => {
+router.post('/login', isGuest, async (req, res) => {
     const { username, password } = req.body;
     try {
         let token = await authService.login({ username, password });
@@ -72,7 +72,8 @@ router.get('/:userId/profile', async (req, res) => {
     console.log('Profile');
     console.log(user);
 
-    //let enrolledCourses = user.getEnrolledCourses();
+    let bookedHotels = user.getBookedHotels();
+    let offeredHotels = user.getOfferedHotels();
     // let isOwner = housingData.owner == req.user?._id;
     // let tenants = housing.getTenants();
 
@@ -85,7 +86,7 @@ router.get('/:userId/profile', async (req, res) => {
 
     //res.render('auth/profile', { ...userData, enrolledCourses });
 
-    res.render('auth/profile', { ...userData });
+    res.render('auth/profile', { ...userData, bookedHotels, offeredHotels });
 })
 
 module.exports = router;

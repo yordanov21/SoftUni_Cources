@@ -11,6 +11,8 @@ exports.getAll = () => Hotel.find().lean();
 
 exports.getAllByFreeRooms = () => Hotel.find().sort({ freeRooms: -1 }).lean(); // dont forget the lean() to the end :), when return objects form the mongoose
 
+exports.getLastAddedHotel = () => Hotel.findOne().sort({ createdAt: -1 });
+
 // add user to hotel 
 exports.addUserToBookedRoom = async (bookingId, userId) => {
     let booking = await Hotel.findById(bookingId).populate('usersBookedRoom');
@@ -38,3 +40,13 @@ exports.delete = (bookingId) => Hotel.findByIdAndDelete(bookingId);
 exports.updateOne = (bookingId, bookingData) => Hotel.findByIdAndUpdate(bookingId, bookingData);
 
 // exports.search = (searchText) => Housing.find({ type: { $regex: searchText, $options: 'i' } }).lean();
+
+
+exports.addHotelToOfferedHotels = async (userId, bookingId) => {
+
+    return User.findByIdAndUpdate(
+        { _id: userId },
+        {
+            $push: { offeredHotels: bookingId }
+        });
+};

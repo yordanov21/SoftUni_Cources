@@ -21,7 +21,19 @@ router.post('/create', isAuth, async (req, res) => {
         console.log(req.body);
 
         await bookingService.create({ name, city, imageUrl, freeRooms, owner: req.user._id });
-        console.log(req.body);
+        let createdHotel = await bookingService.getLastAddedHotel();
+
+        let createdHotelData = await createdHotel.toObject();
+        //let createdTrip = await tripService.getAll();
+        console.log('*****************************');
+        console.log(createdHotelData);
+        console.log(req.user._id);
+        console.log(createdHotelData._id);
+        console.log('*****************************');
+
+        await bookingService.addHotelToOfferedHotels(req.user._id, createdHotelData._id)
+
+
         res.redirect('/');
     } catch (error) {
         res.render('booking/create', { error: getErrorMessage(error) })

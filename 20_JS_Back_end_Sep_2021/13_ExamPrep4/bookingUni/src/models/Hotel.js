@@ -4,12 +4,12 @@ let hotelSchema = new mongoose.Schema({
     name: {
         type: String,
         required: true,
-        // minlength: 4,
+        minlength: 4,
     },
     city: {
         type: String,
         required: true,
-        // minlength: 20,
+        minlength: 3,
     },
     imageUrl: {
         type: String,
