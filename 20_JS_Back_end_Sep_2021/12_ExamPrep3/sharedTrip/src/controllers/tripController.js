@@ -43,7 +43,7 @@ router.post('/create', isAuth, async (req, res) => {
     } catch (error) {
         console.log(error);
 
-        // res.render('trip/create', { error: getErrorMessage(error) })
+        res.render('trip/create', { error: getErrorMessage(error) })
     }
 });
 
