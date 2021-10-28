@@ -61,26 +61,26 @@ router.get('/:bookingId/details', async (req, res) => {
 //     res.redirect(`/course/${req.params.courseId}/details`);
 // });
 
-// router.get('/:courseId/delete', isCreator, async (req, res) => {
+router.get('/:bookingId/delete', isCreator, async (req, res) => {
 
-//     await courseService.delete(req.params.courseId);
+    await bookingService.delete(req.params.bookingId);
 
-//     res.redirect('/');
-// });
+    res.redirect('/');
+});
 
-// router.get('/:courseId/edit', isCreator, async (req, res) => {
-//     let course = await courseService.getOne(req.params.courseId);
-//     let courseData = await course.toObject();
+router.get('/:bookingId/edit', isCreator, async (req, res) => {
+    let booking = await bookingService.getOne(req.params.bookingId);
+    let bookingData = await booking.toObject();
 
-//     res.render('course/edit', { ...courseData });
-// });
+    res.render('booking/edit', { ...bookingData });
+});
 
-// router.post('/:courseId/edit', isCreator, async (req, res) => {
-//     console.log('asdasdsads');
-//     await courseService.updateOne(req.params.courseId, req.body)
-//     console.log('asdasdssdfsdfads');
-//     res.redirect(`/course/${req.params.courseId}/details`);
-// });
+router.post('/:bookingId/edit', isCreator, async (req, res) => {
+    console.log('asdasdsads');
+    await bookingService.updateOne(req.params.bookingId, req.body)
+    console.log('asdasdssdfsdfads');
+    res.redirect(`/booking/${req.params.bookingId}/details`);
+});
 
 // // for security guards
 // async function isNotCreator(req, res, next) {
@@ -94,18 +94,18 @@ router.get('/:bookingId/details', async (req, res) => {
 //     }
 // };
 
-// // // for security guards
-// async function isCreator(req, res, next) {
-//     let course = await courseService.getOne(req.params.courseId);
+// // for security guards
+async function isCreator(req, res, next) {
+    let booking = await bookingService.getOne(req.params.bookingId);
 
-//     console.log(course);
-//     if (course.creator == req.user._id) {
-//         next();
-//     } else {
-//         console.log('nextsdfdss');
-//         res.redirect(`/course/${req.params.courseId}/details`);
+    console.log(booking);
+    if (booking.owner == req.user._id) {
+        next();
+    } else {
+        console.log('nextsdfdss');
+        res.redirect(`/booking/${req.params.bookingId}/details`);
 
-//     }
-// };
+    }
+};
 
 module.exports = router;

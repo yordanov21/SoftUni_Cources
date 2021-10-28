@@ -32,8 +32,8 @@ exports.getAll = () => Hotel.find().lean();
 //         });
 // };
 
-// exports.delete = (courseId) => Course.findByIdAndDelete(courseId);
+exports.delete = (bookingId) => Hotel.findByIdAndDelete(bookingId);
 
-// exports.updateOne = (courseId, courseData) => Course.findByIdAndUpdate(courseId, courseData);
+exports.updateOne = (bookingId, bookingData) => Hotel.findByIdAndUpdate(bookingId, bookingData);
 
 // exports.search = (searchText) => Housing.find({ type: { $regex: searchText, $options: 'i' } }).lean();

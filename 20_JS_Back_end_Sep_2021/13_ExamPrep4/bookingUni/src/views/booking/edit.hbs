@@ -1,24 +1,15 @@
-<main>
-    <form class="text-center border border-light p-5" action="/course/{{_id}}/edit" method="POST">
-        <h1>Edit Course</h1>
-        <div class="form-group">
-            <label for="title">Course Title</label>
-            <input type="text" class="form-control" placeholder="Course name" value="{{title}}" id="title" name="title">
-        </div>
-        <div class="form-group">
-            <label for="description">Course Description</label>
-            <textarea class="form-control" placeholder="Description" id="description"
-                name="description">{{description}}</textarea>
-        </div>
-        <div class="form-group">
-            <label for="imageUrl">Image url</label>
-            <input type="text" class="form-control" placeholder="Image Url" value="{{imageUrl}}" id="imageUrl"
-                name="imageUrl">
-        </div>
-        <div class="form-check">
-            <input type="checkbox" class="form-check-input" id="check-box" name="isPublic">
-            <label class="form-check-label" for="check-box">Public</label>
-        </div>
-        <button type="submit" class="btn btn-primary">Submit</button>
+<section id="viewAddhotel">
+    <h2>Edit existing hotel</h2>
+    <form id="formAddhotel" action="/booking/{{_id}}/edit" method="POST">
+        <label for="hotel">Hotel name:</label>
+        <input type="text" id="hotel" name="name" value="{{name}}">
+        <label for="city">City:</label>
+        <input type="text" id="city" name="city" value="{{city}}">
+        <label for="free-rooms">Free rooms:</label>
+        <input type="number" id="free-rooms" name="freeRooms" value="{{freeRooms}}">
+        <label for="imgUrl">Image:</label>
+        <input type="text" id="imgUrl" name="imageUrl" value="{{imageUrl}}">
+
+        <input type="submit" class="create" value="Edit">
     </form>
-</main>
+</section>
