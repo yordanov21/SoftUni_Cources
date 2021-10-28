@@ -38,20 +38,21 @@ function getErrorMessage(error) {
     }
 }
 
-// router.get('/:courseId/details', async (req, res) => {
-//     let course = await courseService.getOne(req.params.courseId);
-//     let courseData = await course.toObject();
+router.get('/:bookingId/details', async (req, res) => {
+    let booking = await bookingService.getOne(req.params.bookingId);
+    let bookingData = await booking.toObject();
 
-//     let isCreator = courseData.creator == req.user?._id;
-//     //let tenants = housing.getTenants();
+    let isCreator = bookingData.owner == req.user?._id;
+    //let tenants = housing.getTenants();
 
 
-//     // let isAvailable = housing.availablePieces > 0;
-//     let isUserEnrolled = course.usersEnrolled.some(x => x._id == req.user?._id);
+    // let isAvailable = housing.availablePieces > 0;
+    //let isUserEnrolled = course.usersEnrolled.some(x => x._id == req.user?._id);
 
-//     //res.render('course/details', { ...housingData, isCreator, tenants, isAvailable, isRentedByUser });
-//     res.render('course/details', { ...courseData, isCreator, isUserEnrolled });
-// });
+    //res.render('course/details', { ...housingData, isCreator, tenants, isAvailable, isRentedByUser });
+    //res.render('booking/details', { ...bookingData, isCreator, isUserEnrolled });
+    res.render('booking/details', { ...bookingData, isCreator });
+});
 
 // router.get('/:courseId/enroll', isNotCreator, async (req, res) => {
 
