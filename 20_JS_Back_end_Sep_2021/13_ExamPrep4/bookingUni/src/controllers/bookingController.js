@@ -38,7 +38,7 @@ function getErrorMessage(error) {
     }
 }
 
-router.get('/:bookingId/details', async (req, res) => {
+router.get('/:bookingId/details', isAuth, async (req, res) => {
     let booking = await bookingService.getOne(req.params.bookingId);
     let bookingData = await booking.toObject();
 
@@ -47,19 +47,19 @@ router.get('/:bookingId/details', async (req, res) => {
 
 
     // let isAvailable = housing.availablePieces > 0;
-    //let isUserEnrolled = course.usersEnrolled.some(x => x._id == req.user?._id);
+    let isUserBooked = booking.usersBookedRoom.some(x => x._id == req.user?._id);
 
     //res.render('course/details', { ...housingData, isCreator, tenants, isAvailable, isRentedByUser });
     //res.render('booking/details', { ...bookingData, isCreator, isUserEnrolled });
-    res.render('booking/details', { ...bookingData, isCreator });
+    res.render('booking/details', { ...bookingData, isCreator, isUserBooked });
 });
 
-// router.get('/:courseId/enroll', isNotCreator, async (req, res) => {
+router.get('/:bookingId/book', isNotCreator, async (req, res) => {
 
-//     await courseService.addUserEnrolled(req.params.courseId, req.user._id);
-//     await courseService.enrolledCourse(req.params.courseId, req.user._id);
-//     res.redirect(`/course/${req.params.courseId}/details`);
-// });
+    await bookingService.addUserToBookedRoom(req.params.bookingId, req.user._id);
+    await bookingService.bookedHotels(req.params.bookingId, req.user._id);
+    res.redirect(`/booking/${req.params.bookingId}/details`);
+});
 
 router.get('/:bookingId/delete', isCreator, async (req, res) => {
 
@@ -82,17 +82,17 @@ router.post('/:bookingId/edit', isCreator, async (req, res) => {
     res.redirect(`/booking/${req.params.bookingId}/details`);
 });
 
-// // for security guards
-// async function isNotCreator(req, res, next) {
-//     let course = await courseService.getOne(req.params.courseId);
-//     console.log(course);
+// for security guards
+async function isNotCreator(req, res, next) {
+    let course = await bookingService.getOne(req.params.bookingId);
+    console.log(course);
 
-//     if (course.creator == req.user._id) {
-//         res.redirect(`/course/${req.params.courseId}/details`);
-//     } else {
-//         next();
-//     }
-// };
+    if (course.creator == req.user._id) {
+        res.redirect(`/booking/${req.params.bookingId}/details`);
+    } else {
+        next();
+    }
+};
 
 // // for security guards
 async function isCreator(req, res, next) {

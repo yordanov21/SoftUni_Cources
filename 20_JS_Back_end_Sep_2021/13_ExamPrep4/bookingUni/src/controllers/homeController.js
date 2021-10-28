@@ -9,7 +9,7 @@ router.get('/', async (req, res) => {
     // all courses
     // let courses = await courseService.getAll();
     // res.render('home', { title: 'Home Page', courses });
-    let bookings = await bookingService.getAll();
+    let bookings = await bookingService.getAllByFreeRooms();
     res.render('home', { title: 'Home Page', bookings });
 
 });

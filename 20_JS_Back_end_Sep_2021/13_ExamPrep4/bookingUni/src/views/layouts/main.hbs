@@ -10,17 +10,19 @@
 <body>
 
     <div id="container">
-        {{!-- <div>
-            <div class="notification loadingBox">
+        <div>
+            {{!-- <div class="notification loadingBox">
                 Loading …
-            </div>
-            <div class="notification infoBox">
+            </div> --}}
+            {{!-- <div class="notification infoBox">
                 <span>Info</span>
-            </div>
+            </div> --}}
+            {{#if error}}
             <div class="notification errorBox">
-                <span>Error</span>
+                <span>{{error}}</span>
             </div>
-        </div> --}}
+            {{/if}}
+        </div>
         {{#if user}}
         <nav>
             <div class="left-container">
