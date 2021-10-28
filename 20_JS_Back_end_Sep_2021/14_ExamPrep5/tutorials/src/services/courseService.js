@@ -7,7 +7,7 @@ exports.create = (courseData) => Course.create(courseData);
 
 exports.getOne = (courseId) => Course.findById(courseId).populate('usersEnrolled');
 
-exports.getAll = () => Course.find().lean();
+exports.getAllPopulate = () => Course.find().populate('usersEnrolled').lean();
 
 exports.getAll = () => Course.find().lean();
 
