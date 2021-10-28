@@ -10,7 +10,13 @@ router.get('/', async (req, res) => {
     //let courses = await courseService.getAll();
     //res.render('home', { title: 'Home Page', courses });
     //res.render('home/guest-home', { title: 'Home Page' });
-    res.render('home/user-home', { title: 'Home Page' });
+
+    if (req.user) {
+        res.render('home/user-home', { title: 'Home Page' });
+    } else {
+        res.render('home/guest-home', { title: 'Home Page' });
+    }
+
 });
 
 module.exports = router;

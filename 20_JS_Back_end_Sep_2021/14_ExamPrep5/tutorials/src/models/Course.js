@@ -10,7 +10,7 @@ let courseSchema = new mongoose.Schema({
     description: {
         type: String,
         required: true,
-        minlength: 50,
+        minlength: 20,
     },
     imageUrl: {
         type: String,
@@ -19,6 +19,7 @@ let courseSchema = new mongoose.Schema({
     },
     duration: {
         type: String,
+        required: true,
     },
     createdAt: {
         type: Date,

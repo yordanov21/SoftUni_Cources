@@ -17,13 +17,10 @@ router.get('/create', isAuth, (req, res) => {
 router.post('/create', isAuth, async (req, res) => {
 
     try {
-        let { title, description, imageUrl, isPublicParam } = req.body;
-        let isPublic = false;
-        if (isPublicParam == 'on') {
-            isPublic = true;
-        }
+        let { title, description, imageUrl, duration } = req.body;
+
         let createdAt = new Date();
-        await courseService.create({ title, description, imageUrl, isPublic, createdAt, creator: req.user._id });
+        await courseService.create({ title, description, imageUrl, duration, createdAt, creator: req.user._id });
         console.log(req.body);
         res.redirect('/');
     } catch (error) {
