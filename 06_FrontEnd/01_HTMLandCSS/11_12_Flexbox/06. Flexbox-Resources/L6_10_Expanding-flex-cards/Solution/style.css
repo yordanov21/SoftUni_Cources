@@ -1,0 +1,48 @@
+/* ## Constraints 
+ * Body **background color** must be **rgb(238, 238, 238)**
+ * The body **display** property has to be **flex**
+	* **Align** the items in center 
+ * The entire page content has to be inside **section** with class named **container** *(section.container)*
+ * The container **display** property has to be **flex** */
+
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    background-color: rgb(238, 238, 238);
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    max-width: 1200px;
+    height: 500px
+}
+
+img {
+    margin: 10px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px 10px rgb(156, 155, 155);
+    width: 100%;
+}
+
+.spring,
+.auton,
+.winter {
+    width: 150px;
+    object-fit: cover;
+}
+
+.summer {
+    flex: 1;
+    object-fit: cover;
+}

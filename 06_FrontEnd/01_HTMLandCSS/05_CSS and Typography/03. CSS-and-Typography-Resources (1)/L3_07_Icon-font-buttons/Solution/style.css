@@ -1,0 +1,34 @@
+@import url(https://use.fontawesome.com/releases/v5.8.2/css/all.css);
+a.button1 {
+    outline: none;
+    cursor: pointer;
+    padding: 5px;
+    color: white;
+    border: greenyellow;
+    border-radius: 3px;
+    background: greenyellow;
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px; */
+}
+
+a.button2 {
+    outline: none;
+    cursor: pointer;
+    padding: 5px;
+    color: white;
+    border: orange;
+    border-radius: 3px;
+    background: orange;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+p {
+    padding: 10px;
+}
+
+html {
+    padding: 50px;
+}

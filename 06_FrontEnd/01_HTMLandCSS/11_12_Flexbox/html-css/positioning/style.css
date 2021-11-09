@@ -1,0 +1,93 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: lightblue;
+}
+
+.box {
+    width: 150px;
+    height: 150px;
+    border: 1px solid #000;
+}
+
+.small-box {
+    width: 50px;
+    height: 50px;
+    border: 1px solid #000;
+}
+
+.smaller-box {
+    width: 20px;
+    height: 20px;
+    border: 1px solid #000;
+}
+
+.red {
+    background-color: tomato;
+}
+
+.blue {
+    position: relative;
+    background-color: turquoise;
+}
+
+.green {
+    background-color: greenyellow;
+    position: fixed;
+    top: 50px;
+    right: 50px;
+}
+
+.purple {
+    position: absolute;
+    background-color: purple;
+}
+
+.black {
+    position: absolute;
+    background-color: #000;
+}
+
+.see-more {
+    position: relative;
+}
+
+.popup {
+    display: none;
+    background: #fff;
+    border: 1px solid #000;
+    padding: 10px;
+    border-radius: 8px;
+    position: absolute;
+}
+
+.popup:hover {
+    display: block;
+    top: 16px;
+    right: 0;
+    width: 150px;
+}
+
+.see-more:hover .popup {
+    display: block;
+    top: 16px;
+    right: 0;
+    width: 150px;
+}
+
+header {
+    background: #fff;
+    position: sticky;
+    top: 0;
+    left: 0;
+}
+
+ul {
+    margin: 0;
+    padding: 20px;
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+}

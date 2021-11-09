@@ -1,0 +1,55 @@
+<!-- # 03. Milano
+
+## Tasks
+* Create a web page **(HTML5 + CSS3)** that looks and behaves like the provided screenshot
+* You are given all of the **required resources**
+* The output should be valid **HTML + CSS + images** that implement the above web page
+
+## Constraints
+* Use the Google font - **"Roboto"**
+* The site should open correctly in the latest version of Chrome
+* Pixel-perfect implementation is **NOT** required
+* You are **NOT** permitted to use libraries like Bootstrap -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Milano ticket</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <header><i class="fas fa-shopping-cart"></i> Buy online ticket to Milano</header>
+        <main>
+            <section>
+                <img src="./img/travel.png" alt="travel">
+                <h5>Book your ticket NOW!</h5>
+                <p>Start saving straight away with our special online rates</p>
+            </section>
+            <aside>
+
+                <select>
+                        <option value="BulAir">BulgariaAir</option>
+                        <option value="RaynAir">RaynAir</option>
+                        <option value="WuizAir">WuizAir</option>
+                        <option value="QuatarAir">QuatarAir</option>
+                        <option value="ItalyAir">ItalyAir</option>
+                </select>
+                <div class="date">
+                    <label for="entry">Entry <input id="entry" type="date"></label>
+                    <label for="entry">Exit <input id="entry" type="date"></label>
+                </div>
+                <div class="time">
+                    <label for="entry">Time <input id="entry" type="time"></label>
+                    <label for="entry">Time <input id="entry" type="time"></label>
+                </div>
+                <button>Search</button>
+            </aside>
+        </main>
+    </div>
+</body>
+
+</html>

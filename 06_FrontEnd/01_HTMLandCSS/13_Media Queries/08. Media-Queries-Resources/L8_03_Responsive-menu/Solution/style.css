@@ -1,0 +1,123 @@
+/* - Fonts
+  _ Font family **Helvetica, sans-serif** with font size **16px** and line height **1.2** for the **html**
+  _ Font family **Georgia, serif** with font size **1em** and line height **1.2** for the **headings** --> */
+
+html {
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.2;
+    width: 90%;
+    margin: auto;
+    padding: 30px;
+    background: #EBEBEB;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+label,
+input {
+    visibility: hidden;
+}
+
+nav {
+    margin: 0;
+    padding: 0;
+    width: auto;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    background: #FFFFFF;
+    justify-content: center;
+    margin: 0;
+}
+
+li {
+    display: inline-block;
+    background: #2D2D2D;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    padding: 15px;
+    border-radius: 8px;
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+hr {
+    background-color: black;
+    height: 2px;
+    border: none;
+}
+
+
+/* 
+- Create an **"index.html"** file with title - **Responsive Menu**
+- Copy your multi-level drop down menu
+- Add media queries to hide the toggle checkbox and label for desktops
+- Add media queries to show the toggle checkbox and label for mobile devices
+ */
+
+@media all and(max-width:1000px) {
+    body {
+        font-size: 120%;
+    }
+}
+
+@media (max-width:800px) {
+    header {
+        display: block;
+    }
+    ul {
+        display: flex;
+        flex-direction: column;
+        border-top: 2px solid black;
+        border-bottom: 2px solid black;
+    }
+    hr {
+        height: 0px;
+    }
+    label,
+    input,
+    div {
+        text-align: center;
+        visibility: visible;
+    }
+}
+
+@media (max-width:600px) {
+    header {
+        display: block;
+    }
+    ul {
+        display: flex;
+        flex-direction: column;
+        border-top: 2px solid black;
+        border-bottom: 2px solid black;
+    }
+    hr {
+        height: 0px;
+    }
+    label {
+        text-align: center;
+        visibility: visible;
+    }
+}

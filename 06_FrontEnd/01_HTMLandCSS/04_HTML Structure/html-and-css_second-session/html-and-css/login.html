@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="./main.css">
+</head>
+<body>
+    <header>
+        <a href="./index.html">
+            <figure>
+                <img src="./images/high-resolution/my-image.jpeg" alt="Motorcycle" class="logo">
+                <figcaption>Best Motorcycles BG</figcaption>
+            </figure>
+        </a>
+        <nav>
+            <ul>
+                <li>
+                    <a href="./index.html">Home</a>
+                </li>
+                <li>
+                    <a href="/about">About</a>
+                </li>
+                <li>
+                    <a href="/contact">Contact</a>
+                </li>
+                <li>
+                    <a href="/portfolio">Portfolio</a>
+                </li>
+                <li>
+                    <a href="./login.html">Login</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    
+    <h2>Login</h2>
+
+    <form method="POST" action="/login.php">
+        <fieldset>
+            <legend>Log in to our website</legend>
+            <div>
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="Email" placeholder="example@yahoo.com" autofocus required>
+            </div>
+            
+            <div>
+                <label for="password">Password:</label>
+                <input type="password" id="password" name="Password" placeholder="Enter your password" required>
+            </div>
+    
+            <div>
+                <label for="age">Age:</label>
+                <input type="number" id="age" name="Age" placeholder="10" min="1" max="120" required>
+            </div>
+
+            <div>
+                <label for="countries">Country:</label>
+                <select name="countries" id="countries">
+                    <option value="">Choose your country</option>
+                    <option value="BG">Bulgaria</option>
+                    <option value="DE">Germany</option>
+                    <option value="FR">France</option>
+                </select>
+            </div>
+
+            <div>
+                <textarea name="post" id="post">Enter your post</textarea>
+            </div>
+            
+            <button type="button">Learn more about how we store your data</button>
+            <button type="submit">Login</button>
+        </fieldset>
+    </form>
+</body>
+</html>

@@ -1,0 +1,11 @@
+Малко история за HTML
+https://www.newyorker.com/tech/elements/group-rules-web
+
+HTML тагове
+https://websitesetup.org/html5-cheat-sheet/
+
+Документация за HTML тагове и предназначението на всеки един от тях
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+
+Как да добавим CSS в HTML
+https://matthewjamestaylor.com/add-css-to-html

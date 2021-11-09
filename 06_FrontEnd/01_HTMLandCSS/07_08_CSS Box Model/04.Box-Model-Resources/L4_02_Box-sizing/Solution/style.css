@@ -1,0 +1,21 @@
+/* - The section has **width** 250px, **height** 250px and border
+- The paragraph has **width** 100%, border and padding 20px on all sides --> */
+
+html {
+    box-sizing: inherit;
+    text-align: center;
+}
+
+section {
+    box-sizing: content-box;
+    width: 250px;
+    height: 250px;
+    border: 1px dashed green;
+}
+
+p {
+    box-sizing: border-box;
+    width: 100%;
+    border: 2px solid blue;
+    padding: 20px;
+}

@@ -1,0 +1,273 @@
+    @import url(https://use.fontawesome.com/releases/v5.8.2/css/all.css);
+    * {
+        box-sizing: border-box;
+    }
+    
+    body {
+        font-family: 'Lato', sans-serif;
+        margin: 0;
+    }
+    
+    .container {
+        margin: auto;
+        align-items: center;
+    }
+    
+    .main-navigation {
+        background-color: #234465;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-between;
+        padding: 10px 150px;
+    }
+    
+    .logo {
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    .logo img {
+        width: 50%;
+    }
+    
+    .logo button {
+        margin: 0;
+        padding: 10px 30px;
+        border: none;
+        border-radius: 30px;
+        font-size: large;
+        background-color: #FFA000;
+        color: white;
+    }
+    
+    .nav-head {
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-around;
+        align-items: center;
+        margin: 0;
+    }
+    
+    .nav-head ul {
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-between;
+        align-items: center;
+        list-style-type: none;
+        margin: 0;
+    }
+    
+    .nav-head ul li a {
+        margin: 0;
+        padding: 8px;
+        text-decoration: none;
+        color: #91A1B2;
+        font-weight: bold;
+    }
+    
+    .nav-head {
+        color: #91A1B2;
+        font-weight: bold;
+    }
+    
+    .nav-head span,
+    button {
+        margin-left: 30px;
+    }
+    
+    .nav-head span {
+        font-size: x-large;
+    }
+    
+    .nav-head button {
+        padding: 10px 30px;
+        border: none;
+        border-radius: 30px;
+        font-size: large;
+        background-color: #FFA000;
+        color: white;
+    }
+    
+    .courses {
+        padding: 20px 150px;
+        background-color: #FFFFFF;
+    }
+    
+    .courses a {
+        color: #234465;
+        text-decoration: none;
+        font-weight: bold;
+    }
+    
+    .courses a:hover {
+        color: #E0A607;
+    }
+    
+    a.second {
+        padding-left: 30px;
+    }
+    
+    .wordpress {
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: center;
+        align-items: center;
+        background: grey;
+        padding: 20px;
+        /* background-image: url("/03_WordPress-Essentials/Requirements-and-Resources/images/software-university-logo.svg"); */
+    }
+    
+    .wordpress h1 {
+        font-size: xx-large;
+        font-weight: bold;
+        color: #FFFFFF;
+        margin-top: 20px;
+        margin-bottom: 0;
+    }
+    
+    .wordpress nav {
+        width: 50%;
+    }
+    
+    .wordpress nav ul {
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-between;
+        align-items: center;
+        text-decoration: none;
+    }
+    
+    .wordpress nav ul li {
+        font-size: large;
+        text-decoration: none;
+        color: #FFFFFF;
+        list-style-type: none;
+        padding: 5px;
+    }
+    
+    .wordpress button {
+        padding: 10px 100px;
+        border: none;
+        border-radius: 30px;
+        background-color: #FFA000;
+        color: white;
+        font-size: large;
+        margin: 20px;
+    }
+    
+    main {
+        background-color: #FFFFFF;
+    }
+    
+    main article {
+        margin: 0;
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    main article section {
+        background-color: #F2F2F2;
+        width: 70%;
+        display: flex;
+        flex-flow: column wrap-reverse;
+        justify-content: center;
+        align-items: center;
+        margin: 10px;
+    }
+    
+    main article section h2 {
+        font-size: xx-large;
+        color: #234465;
+        border-bottom: 4px solid #E0A607;
+        width: fit-content;
+        margin-top: 10px;
+        margin-bottom: 0;
+    }
+    
+    .first-section p {
+        padding: 40px;
+        margin: 0;
+    }
+    
+    .first-section button {
+        padding: 10px 100px;
+        border: none;
+        border-radius: 30px;
+        background-color: #FFA000;
+        color: white;
+        font-size: large;
+        margin: 20px;
+    
+    }
+    
+    main article button {
+        padding: 10px 100px;
+        border: none;
+        border-radius: 30px;
+        background-color: #FFA000;
+        color: white;
+        font-size: large;
+        margin: 20px;
+    }
+    
+    footer {
+        background-color: #234465;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-between;
+        padding: 10px 150px;
+    }
+    
+    footer div h4 {
+        color: #FFA000;
+    }
+    
+    footer div ul {
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: center;
+        align-items: flex-start;
+        list-style-type: none;
+        padding: 0;
+    }
+    
+    footer div ul li {
+        text-decoration: none;
+        padding: 5px 0;
+    }
+    
+    footer div ul li a {
+        font-size: large;
+        text-decoration: none;
+        color: #FFFFFF;
+        list-style-type: none;
+        padding: 5px;
+    }
+    
+    footer .social {
+        width: 320px;
+        display: flex;
+        flex-flow: column wrap;
+    }
+    
+    footer .social ul {
+        display: flex;
+        flex-flow: row wrap-reverse;
+        justify-content: flex-start;
+        align-items: center;
+    }
+    
+    footer .social ul li {
+        font-size: x-large;
+        color: #FFFFFF;
+        padding-right: 20px;
+    }
+    
+    footer .social p {
+        color: #7B8793;
+        margin: 5px;
+    }

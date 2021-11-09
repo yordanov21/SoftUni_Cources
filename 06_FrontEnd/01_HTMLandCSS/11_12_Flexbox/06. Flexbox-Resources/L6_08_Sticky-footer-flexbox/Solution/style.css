@@ -1,0 +1,39 @@
+/* ## Constraints
+ * The **body** must have **flex** display property
+ * The body **background** must be **rgb(238, 238, 238)**
+ * Set **height** to the body: 100vh
+ * The **footer** should be at the bottom of the page
+	* The footer **text color** has to be **rgb(255, 255, 255)**
+    * The footer **background** color has to be **rgb(102, 102, 102)** --> */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-flow: column wrap;
+    background: rgb(238, 238, 238);
+    height: 100vh;
+    margin: 0;
+}
+
+header {
+    border-bottom: 2px solid black;
+    text-transform: uppercase;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    color: rgb(255, 255, 255);
+    background: rgb(102, 102, 102);
+    padding: 20px;
+}

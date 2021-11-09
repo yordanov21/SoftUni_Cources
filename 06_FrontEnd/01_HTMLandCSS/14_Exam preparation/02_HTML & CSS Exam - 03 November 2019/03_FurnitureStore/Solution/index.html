@@ -1,0 +1,117 @@
+<!-- # 03. Furniture Store
+
+## Tasks
+* Create a web page **(HTML5 + CSS3)** that looks and behaves like the provided screenshot
+* You are given all of the **required resources**
+* The output should be valid **HTML + CSS + images** that implement the above web page
+
+## Constraints
+* Use the Google Font - **"Noto Sans JP"** 
+* Use **Font Awesome** for the icons
+* The site should open correctly in the latest version of Chrome
+* Pixel-perfect implementation is **NOT** required
+* You are **NOT** permitted to use libraries like Bootstrap -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Furniture Store</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <nav>
+                <a href="#">Furniture</a>
+                <a href="#">Outdoor</a>
+                <a href="#">Storage</a>
+                <a href="#">Lighting</a>
+                <a href="#">Appliances</a>
+            </nav>
+            <div class="search">
+                <input type="text" placeholder="Search anything..." required>
+                <button><i class="fas fa-search"></i></button>
+            </div>
+            <div class="account">
+                <a href="#"><i class="fas fa-user"></i> My Account</a>
+            </div>
+        </header>
+        <main>
+            <section class="rooms">
+                <div>
+                    <img src="/Requirements-and-Resources/Media/liv-room.jpg" alt="livingroom">
+                    <p>Living Room</p>
+                </div>
+                <div>
+                    <img src="/Requirements-and-Resources/Media/kitchen.jpg" alt="kitchen">
+                    <p>Kitchen</p>
+                </div>
+                <div>
+                    <img src="/Requirements-and-Resources/Media/bedroom.jpg" alt="bedroom">
+                    <p>Bedroom</p>
+                </div>
+                <div>
+                    <img src="/Requirements-and-Resources/Media/bathroom.jpg" alt="bathroom">
+                    <p>Bathroom</p>
+                </div>
+            </section>
+            <section class="collection">
+                <div>
+                    <h1>New Fall Collection</h1>
+                    <p>Check out our brand new fall items!</p>
+                    <button>Shop Now</button>
+                </div>
+                <img src="/Requirements-and-Resources/Media/fall-collection.jpg" alt="">
+            </section>
+            <section class="another">
+                <div>
+                    <img src="/Requirements-and-Resources/Media/free-shipping.png" alt="free-shipping">
+                    <div>
+                        <h5>FREE SHIPPING</h5>
+                        <p>On everything over $50</p>
+                    </div>
+                </div>
+                <div>
+                    <img src="/Requirements-and-Resources/Media/amazing-deals.png" alt="amazing-deals">
+                    <div>
+                        <h5>AMAZING DEALS</h5>
+                        <p>Save up to 70% on high-quality furniture</p>
+                    </div>
+                </div>
+                <div>
+                    <img src="/Requirements-and-Resources/Media/customer-service.png" alt="customer-servce">
+                    <div>
+                        <h5>TOP CUSTOMER SERVCE</h5>
+                        <p>We're glad to help you pick the best item</p>
+                    </div>
+                </div>
+            </section>
+        </main>
+        <footer>
+            <nav>
+                <a href="#"><strong>About Us</strong></a>
+                <a href="#">Locations</a>
+                <a href="#">Return Policy</a>
+                <a href="#">Complaints</a>
+                <a href="#">Gift Cards</a>
+            </nav>
+            <section class="info">
+                <h6>Contact Us</h6>
+                <button>Call</button>
+                <p>Mon-Fri: 8AM - 10 PM</p>
+                <ul>
+                    <li><a href="#"><i class="fab fa-facebook-square"></i></a></li>
+                    <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                    <li><a href="#"><i class="far fa-angry"></i></a></li>
+                </ul>
+            </section>
+        </footer>
+    </div>
+</body>
+
+</html>

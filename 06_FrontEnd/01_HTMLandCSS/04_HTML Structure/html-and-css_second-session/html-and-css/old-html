@@ -1,0 +1,71 @@
+    <h1 class="title-headings">Heading level 1</h1>
+    <h2 class="title-headings">This is level 2</h2>
+    <h3 class="title-headings" style="color: lightsteelblue">This is an h3 heading</h3>
+    <h4 class="title-headings">This is an h4 heading</h4>
+    <h5 class="title-headings">This is an h5 heading</h5>
+    <h6 class="title-headings">This is an h6 heading</h6>
+
+    <p class="special-blue">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex molestias recusandae voluptatem distinctio rem beatae. Neque, quod? Nobis quidem, architecto rerum doloremque, veritatis est eveniet natus inventore, cupiditate ab nesciunt?Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores molestiae consequuntur impedit rem voluptate ipsum. Ut optio delectus ad debitis voluptas quasi iusto! Reiciendis eius, adipisci neque optio ducimus laborum!Lorem Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, excepturi molestias? Odio dolor, praesentium cum earum modi minima maiores sit architecto nobis doloremque eos fugiat esse, pariatur deleniti. Inventore, odit!
+    </p>
+
+    <p class="special-font">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex molestias recusandae voluptatem distinctio rem beatae. Neque, quod? Nobis quidem, architecto rerum doloremque, veritatis est eveniet natus inventore, cupiditate ab nesciunt?Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores molestiae consequuntur <strong>Something important</strong>. Ut optio delectus ad debitis voluptas quasi iusto! Reiciendis eius, adipisci neque optio ducimus laborum!Lorem Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, excepturi molestias? <em>Odio dolor</em>, praesentium cum earum modi minima maiores sit architecto nobis doloremque eos fugiat esse, pariatur deleniti. Inventore, odit!
+    </p>
+
+    <ol class="title-headings">
+        <li>A</li>
+        <li>B</li>
+        <li>C</li>
+        <li>D</li>
+    </ol>
+
+    <ul>
+        <li>tomatoes</li>
+        <li>cucumber</li>
+        <li>bread</li>
+    </ul>
+
+    <a href="https://www.google.com">Go to google from here</a>
+    <a href="https://www.facebook.com">Go to facebook from here</a>
+    <a class="ytb" href="https://www.youtube.com">Go to youtube from here</a>
+
+    <table>
+        <tr>
+            <td>Tomato</td>
+            <td>Cucumber</td>
+            <td>Kale</td>
+        </tr>
+        
+        <tr>
+            <td>Orange</td>
+            <td>Strawberry</td>
+            <td>Banana</td>
+        </tr>
+        
+        <tr>
+            <td>Eggs</td>
+            <td>Milk</td>
+            <td>Cheese</td>
+        </tr>
+        
+        <tr>
+            <td>Stake</td>
+            <td>Pork Chops</td>
+            <td>Breasts</td>
+        </tr>
+    </table>
+
+
+<div>
+    <label for="first-name">First Name:</label>
+    <input type="text" id="first-name" name="First Name" value="John">
+</div>
+
+<div>
+    <label for="male">Male</label>
+    <input type="radio" name="Gender" id="male" value="male">
+</div>
+
+<div>
+    <label for="female">Female</label>
+    <input type="radio" name="Gender" id="female" value="female">
+</div>

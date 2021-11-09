@@ -1,0 +1,224 @@
+@import url(https://use.fontawesome.com/releases/v5.8.2/css/all.css);
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+body {
+    margin: 0;
+}
+
+header {
+    border: none;
+    background-color: #F93700;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+header nav {
+    list-style: none;
+    display: flex;
+    width: 45%;
+    flex-flow: row nowrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+header nav a {
+    text-decoration: none;
+    color: #FFFFFC;
+    align-items: center;
+}
+
+header .search {
+    display: flex;
+    justify-content: center;
+}
+
+header .search input {
+    border: 1px solid #B6AFAF;
+    width: 400px;
+}
+
+header .search button {
+    border: none;
+    background-color: #B6AFAF;
+    height: 40px;
+    width: 70px;
+}
+
+header .account a {
+    text-decoration: none;
+    color: #FFFFFC;
+}
+
+main {
+    padding: 25px 100px;
+    display: flex;
+    flex-flow: column wrap;
+    background-color: #F0E4E4;
+}
+
+.rooms {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+.rooms div {
+    padding: 0 12px;
+    width: 25%;
+}
+
+.rooms div img {
+    width: 100%;
+}
+
+.rooms div p {
+    text-align: center;
+    padding: 0;
+    margin: 5px;
+}
+
+.collection {
+    display: flex;
+    flex-flow: row wrap;
+    padding: 12px;
+}
+
+.collection div {
+    width: 40%;
+}
+
+.collection img {
+    width: 60%;
+}
+
+.collection div {
+    padding-top: 30px;
+    color: red;
+}
+
+.collection div p {
+    color: gray;
+}
+
+.collection div button {
+    background-color: red;
+    color: seashell;
+    border: none;
+    border-radius: 3px;
+    height: fit-content;
+    width: fit-content;
+    padding: 15px;
+}
+
+.another {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: center;
+    background-color: gray;
+    padding: 50px;
+    margin: 12px;
+}
+
+.another div {
+    width: 30%;
+    margin: auto;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.another div img {
+    border-radius: 100px;
+    width: 75%;
+    text-align: center;
+    background-color: #F0E4E4;
+    padding: 20px;
+}
+
+.another div div h5 {
+    padding: 0;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+
+.another div div p {
+    padding: 0;
+    color: black;
+    text-align: center;
+}
+
+footer {
+    background-color: #F0E4E4;
+    margin: 0;
+    padding: 25px 100px;
+    color: gray;
+    display: flex;
+    justify-content: space-between;
+    flex-flow: row wrap;
+}
+
+footer nav {
+    width: 600px;
+    display: flex;
+}
+
+footer nav a {
+    width: fit-content;
+    padding: 0 10px;
+    text-decoration: none;
+    color: gray;
+    align-items: center;
+}
+
+footer .info {
+    flex: 1 0 auto;
+    display: flex;
+    text-align: end;
+}
+
+footer .info ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+footer .info ul li {
+    width: 25%;
+    text-align: center;
+    list-style: none;
+    padding: 0 5px;
+    margin: 0;
+}
+
+footer .info ul li a {
+    text-decoration: none;
+    color: gray;
+    align-items: center;
+    margin: 0;
+}
+
+footer .info button {
+    width: 150px;
+    padding: 5px;
+    margin: 0;
+    border: none;
+    border-radius: 3px;
+    background-color: gray;
+    height: fit-content;
+}
+
+.info h6 {
+    margin: 0;
+}

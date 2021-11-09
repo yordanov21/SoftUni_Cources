@@ -1,0 +1,68 @@
+/* ## Constraints
+ * Use **rgb(238, 238, 238)** for body background
+ * Use **rgb(255, 255, 255)** for card background
+ * Use **rgb(0, 153, 0)** for card button background
+ * Use font **Georgia, serif** with size **1em/1.2** for the headings
+ * Set the image position property to **absolute** --> */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    width: 70%;
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: rgb(238, 238, 238);
+}
+
+section {
+    position: relative;
+    border-style: none;
+}
+
+.image {
+    left: calc(50% - 250px);
+    width: 500px;
+    height: 300px;
+    position: absolute;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    border-radius: 5px 5px 0 0;
+}
+
+.card-title {
+    background: rgb(255, 255, 255);
+    left: calc(50% - 250px);
+    width: 500px;
+    padding: 30px;
+    position: relative;
+    top: 300px;
+    border-radius: 0 0 5px 5px;
+}
+
+h1 {
+    font-family: Georgia, serif;
+    margin: 0;
+}
+
+p {
+    padding-bottom: 30px;
+}
+
+button {
+    border: none;
+    border-radius: 3px;
+    height: 30px;
+    width: 80px;
+    color: rgb(255, 255, 255);
+    background: rgb(0, 153, 0);
+    position: absolute;
+    right: 2em;
+    bottom: 2em;
+}

@@ -1,0 +1,66 @@
+@import url(https://use.fontawesome.com/releases/v5.8.2/css/all.css);
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+    padding: 50px;
+}
+
+.container {
+    width: 60%;
+    margin: auto;
+    align-items: center;
+}
+
+header {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-end;
+    align-items: flex-end;
+    margin: 0;
+}
+
+header h3 {
+    width: fit-content;
+    padding: 10px 20px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border: none;
+    background-color: #42ABF8;
+    color: white;
+    margin: 0;
+}
+
+main {
+    border: none;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: #F4F5F7;
+}
+
+main section {
+    padding: 20px 40px 20px 20px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+i {
+    margin: 0;
+    padding: 0;
+    color: #21B459;
+}
+
+hr {
+    border: 1px solid white;
+    margin: 0;
+}

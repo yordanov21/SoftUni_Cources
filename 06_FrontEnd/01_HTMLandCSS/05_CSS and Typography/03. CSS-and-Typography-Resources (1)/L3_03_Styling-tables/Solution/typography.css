@@ -1,0 +1,39 @@
+/* * Create **table**
+   * Use **thead** and **tbody** tags
+   * Style the odd **tr** tags with background: **rgb(241, 241, 241)**
+   * Style the **td** tags in every odd row with background: **rgb(241, 241, 241)**
+   * The table, td and th tags must have
+       * Border width - **1px**
+       * Border color - **rgb(221, 221, 221)**
+       * Border style - **solid**        
+* When you hover the table row, it must change
+   * Background: **rgb(0, 0, 0)**
+   * Text color: **rgb(255, 255, 255)** */
+
+table,
+td,
+tr {
+    border-width: 1px;
+    border-color: rgb(221, 221, 221);
+    border-style: solid;
+}
+
+th {
+    border-width: 1px;
+    border-color: rgb(221, 221, 221);
+    border-style: solid;
+    text-align: left;
+}
+
+tr:nth-child(odd) td {
+    background: rgb(241, 241, 241);
+}
+
+td:nth-child(odd)>td {
+    background: rgb(241, 241, 241);
+}
+
+tr:hover {
+    background: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}

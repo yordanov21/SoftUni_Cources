@@ -1,0 +1,208 @@
+<!-- # 03. WordPress Essentials
+
+## Tasks
+* Create a web page **(HTML5 + CSS3)** that looks and behaves like the provided screenshot
+* You are given all of the **required resources**
+* The output should be valid **HTML + CSS + images** that implement the above web page
+
+## Constraints
+* Use the Google Font - **"Lato"** 
+* Use **Font Awesome** for the icons
+* The site should open correctly in the latest version of Chrome
+* Pixel-perfect implementation is **NOT** required
+* You are **NOT** permitted to use libraries like Bootstrap -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WordPress Essentials</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <nav class="main-navigation">
+                <div class="logo">
+                    <img src="../Requirements-and-Resources/images/software-university-logo.svg" alt="softuni-logo">
+                    <button>Кандидатствай</button>
+                </div>
+                <div class="nav-head">
+                    <ul>
+                        <li><a href="#">ЗА НАС</a></li>
+                        <li><a href="#">ОБУЧЕНИЯ</a></li>
+                        <li><a href="#">КОНТАКТИ</a></li>
+                    </ul>
+                    <span><i class="fas fa-search"></i></span>
+                    <button>Вход</button>
+                </div>
+            </nav>
+            <section class="courses">
+                <a class="first" href="#">Софтуерно инженерство</a>
+                <a class="second" href="#">Отворени курсове и модули</a>
+                </ul>
+            </section>
+        </header>
+        <main>
+            <section class="wordpress">
+                <h1>WordPress Essentials - август 2019</h1>
+                <nav>
+                    <ul>
+                        <li><i class="fas fa-play-circle"></i> 13 август 2019</li>
+                        <li><i class="fas fa-clipboard"></i> 29 цептември 2019</li>
+                        <li><i class="far fa-clock"></i> 4 седмици</li>
+                        <li><i class="fas fa-university"></i> 3 кредита</li>
+                    </ul>
+                </nav>
+                <button>ЗАЯВИ УЧАСТИЕ</button>
+            </section>
+            <article>
+                <section class="first-section">
+                    <h2>ЗА КУРСА</h2>
+                    <p>
+                        Курсът WordPress Essentials изгражда базови технически умения по разработка на уеб сайтове с WordPress: настройка на хостинг и домейн, инсталиране и конфигуриране на WordPress (WP), инсталиране и конфигуриране на теми (themes) и добавки (plugins), създаване
+                        и редактиране на уеб съдържание (ръчно и с визуални уеб редактори), създаване на страници, публикации, снимки и мултимедия. Изучават се популярни WP теми и добавки (плъгини) и техните възможности за създаване на формуляри (forms),
+                        контакти, фото-галерии, форуми, електронни магазини и други. Въвеждат се базови познания по изграждане на собствена WP тема с HTML, CSS и PHP WP.
+                    </p>
+                    <button>ЗАЯВИ УЧАСТИЕ</button>
+                </section>
+                <section class="second-section">
+                    <h2>УМЕНИЯ, КОИТО ЩЕ ПРИДОБИЕШ</h2>
+                    <ul>
+                        <li>Инсталация и настройка на WordPress</li>
+                        <li>Създаване на цялостни WordPress сайтове</li>
+                        <li>Работа с уеб хостинг, домейни и cPanel</li>
+                        <li>Инсталация и настройка на теми и добавки</li>
+                        <li>Създаване и промяна на собствени WP теми</li>
+                        <li>Работа по практически проект изграден с WordPress</li>
+                    </ul>
+                </section>
+                <section>
+                    <h2>ТЕМИ</h2>
+                    <div>
+                        <ul>
+                            <li>1 RESOURCES</li>
+                            <li>2 COURSE INTRODUCTION</li>
+                            <li>3 INTRODUCTION TO WORDPRESS</li>
+                            <li>4 EXERCISE: INTRODUCTION TO WORDPRESS</li>
+                            <li>5 POPULAR WORDPRESS THEMES</li>
+                            <li>6 EXERCISE: POPULAR WORDPRESS THEMES</li>
+                            <li>7 USING WORDPRESS PLUGINS</li>
+                            <li>8 EXERCISE: USING WORDPRESS PLUGINS</li>
+                            <li>9 WORKSHOP: A REAL LIFE EXAMPLE</li>
+                            <li>10 CREATING CUSTOM WORDPRESS THEME</li>
+                            <li>11 EXERCISE: CREATING CUSTOM WORDPRESS THEME</li>
+                            <li>12 CONSULTING DAY</li>
+                            <li>13 PROJECT DEFENCES</li>
+                            <li>14 RETAKE EXAM (PROJECT DEFENCES)</li>
+                        </ul>
+                    </div>
+                </section>
+                <section class="orange">
+                    <h2>ЗА КОГО Е ПОДХОДЯЩ КУРСЪТ</h2>
+                    <p>Курсът е подходящ както за начинаещи, така и за хора, с опит в програмирането, които искат да научат повече за разработката на уебсайтове с WordPress. Необходима е компютърна грамотност (работа с файлове, текстов редактор и браузър,
+                        инсталиране и конфигуриране на софтуер) и функционално владеене на английски език.
+                    </p>
+                </section>
+                <section>
+                    <div>
+                        <h4>ДОКОГА МОГА ДА СЕ ЗАПИША И КОГА СТАРТИРА КУРСЪТ?</h4>
+                        <p>Записването за курса е отворено до 11 август. Обучението стартира на 13 август 2019 г. и завършва с защита на проект на 29 септември и 2 октомври 2019г. (може да изберете удобната дата за вас).
+                        </p>
+                        <h4>КАК МОГА ДА СЕ ЗАПИША?
+                        </h4>
+                        <p>За да се запишете за курса, кликнете ТУК или на оранжевия бутон "ЗАЯВЕТЕ УЧАСТИЕ" и следвайте стъпките. След като заплатите за курса, вие ще бъдете записани в него.
+                        </p>
+                    </div>
+                    <div class="first">
+                        <h3>ПРИСЪСТВЕНО</h3>
+                        <ul>
+                            <li>Присъствие на всички учебни занятия</li>
+                            <li>Достъп до ресурси и видеа от учебните занятия</li>
+                            <li>Достъп до виртуална класна стая и обучение в реално време</li>
+                            <li>Явяване на изпит и издаване на сертификат</li>
+                            <li>Контакт с лектор или асистент</li>
+                        </ul>
+                    </div>
+                    <div class="second">
+                        <h3>ОНЛАЙН</h3>
+                        <ul>
+                            <li>Достъп до ресурси и видеа от учебните занятия</li>
+                            <li>Достъп до виртуална класна стая и обучение в реално време</li>
+                        </ul>
+                    </div>
+                </section>
+                <section>
+                    <h2>ПРЕПОДАВАТЕЛ</h2>
+                    <div>
+                        <img src="../Requirements-and-Resources/images/lecturer.png" alt="lecture">
+                        <div>
+                            <h4>Георги Генов</h4>
+                            <p>Георги Генов се занимава с програмиране от около 8 години, въпреки че пише първия си код на 15 години. Още тогава проявява интерес към програмирането и се научава на основните неща съвсем сам с уроци от интернет. Завършва Технически
+                                университет София, специалност Автоматика. Сега работи като Software Developer & Resource Team Lead в голяма софтуерна фирма и Freelancer, за да бъде в крак с новите технологии.
+                            </p>
+                        </div>
+                    </div>
+                </section>
+                <button>ЗАЯВИ УЧАСТИЕ</button>
+            </article>
+
+        </main>
+        <footer>
+            <div>
+                <h4>ЗА SOFTWARE UNIVERSITY</h4>
+                <ul>
+                    <li><a href="">За нас</a></li>
+                    <li><a href="">Учебен план</a></li>
+                    <li><a href="">Сертификати</a></li>
+                    <li><a href="">Преподаватели</a></li>
+                    <li><a href="">Такси за обучение</a></li>
+                    <li><a href="">Как да кандидатствам</a></li>
+                </ul>
+            </div>
+            <div>
+                <h4>ВСИЧКИ ОБУЧЕНИЯ</h4>
+                <ul>
+                    <li><a href="">SoftUni Digital</a></li>
+                    <li><a href="">SoftUni Creative</a></li>
+                    <li><a href="">SoftUni Kids</a></li>
+                    <li><a href="">SoftUni Svetlina</a></li>
+                    <li><a href="">SoftUni Foundation</a></li>
+                </ul>
+            </div>
+            <div>
+                <h4>ОСНОВНИ ПАРТНЬОРИ</h4>
+                <ul>
+                    <li><a href="">XS Software</a></li>
+                    <li><a href="">SmartIT</a></li>
+                    <li><a href="">Software Group</a></li>
+                    <li><a href="">SuperHosting.BG</a></li>
+                    <li><a href="">Indeavr</a></li>
+                    <li><a href="">Infragistics</a></li>
+                    <li><a href="">Netpeak</a></li>
+                    <li><a href="">SBTech</a></li>
+                    <li><a href="">Postbank</a></li>
+                </ul>
+            </div>
+            <div class="social">
+                <ul>
+                    <li><i class="fab fa-facebook-f"></i></li>
+                    <li><i class="fab fa-youtube"></i></li>
+                    <li><i class="fab fa-github"></i></li>
+                    <li><i class="fab fa-instagram"></i></li>
+                </ul>
+                <p>
+                    © 2013-2019 - Software University LTD - All Rights Reserved. 94851
+                </p>
+                <p>
+                    Software University Learning System 3.0.7157
+                </p>
+            </div>
+        </footer>
+    </div>
+</body>
+
+</html>

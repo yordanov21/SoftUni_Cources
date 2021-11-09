@@ -1,0 +1,47 @@
+/* ## Constraints
+* Add section with class **gallery** *(section.gallery)*
+* Add **unordered list** with **list items** and **images** inside
+* Change the body, ul and li **display** property to **flex** */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #EEEEEE;
+    justify-content: center;
+}
+
+section {
+    width: 88%;
+}
+
+body,
+ul,
+li {
+    display: flex;
+}
+
+ul {
+    padding: 2rem;
+    margin: 5rem;
+    flex: 1 1 auto;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+li {
+    align-items: center;
+    border: 0.5em solid black;
+    background: white;
+    margin: 2em 0;
+    padding: 0.5em;
+}
+
+
+/* може да се даде и падинг на img*/
+
+
+/* img {
+    padding: 0.5em;
+} */

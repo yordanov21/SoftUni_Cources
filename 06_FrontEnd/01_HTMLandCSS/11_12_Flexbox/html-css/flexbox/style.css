@@ -1,0 +1,133 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    background-color: lightgrey;
+    box-shadow: 0 1px 10px 0 #000;
+}
+
+nav {
+    padding: 10px;
+}
+
+nav a {
+    color: #000;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.red {
+    background: red;
+}
+
+.blue {
+    background: blue;
+}
+
+.green {
+    background: greenyellow;
+}
+
+.yellow {
+    background: yellow;
+}
+
+.brown {
+    background: brown;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+}
+
+article {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px;
+}
+
+article .column {
+    width: 150px;
+}
+
+.container .column {
+    /* width: 200px; */
+    height: 300px;
+    font-size: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    background: #000;
+    display: flex;
+    flex-flow: row wrap;
+    height: 1000px;
+}
+
+.column.zero {
+    /* width: 700px; */
+}
+
+.column.first {
+    /* width: 500px; */
+    height: 400px;
+}
+
+.column.third {
+    height: 550px;
+    /* width: 800px; */
+}
+
+.column.fourth {
+    /* width: 300px; */
+    flex: 1;
+}
+
+.dark-gray {
+    border: 1px solid #000;
+    background: darkgray;
+    padding: 10px;
+    height: 800px;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.light-gray {
+    background: #ccc;
+    padding: 10px;
+    flex: 0 1 30%;
+}
+
+.wrapper {
+    display: flex;
+}
+
+aside {
+    flex: 1 0 300px;
+}
+
+button {
+    width: 100px;
+}

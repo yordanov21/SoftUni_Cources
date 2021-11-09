@@ -1,0 +1,174 @@
+@import url(https://use.fontawesome.com/releases/v5.8.2/css/all.css);
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.container {
+    font-family: 'Gelasio', serif;
+}
+
+header {
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: center;
+    background-image: url(./images/map.jpg);
+    background-size: cover;
+    height: max-content;
+    padding: 10px 10px 100px 10px;
+}
+
+header nav {
+    width: 95%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+}
+
+.image-logo {
+    width: 50px;
+    height: 50px;
+}
+
+.nav-head button,
+span {
+    border: none;
+    background: none;
+    color: #C9C9C9;
+    font-family: 'Gelasio', serif;
+    padding-left: 10px;
+}
+
+button.start-now {
+    border: none;
+    border-radius: 7px;
+    background: #146594;
+    color: #FFFFFF;
+    padding: 5px 8px;
+    width: fit-content;
+}
+
+main {
+    background-color: #E1E1E1;
+    margin: 0;
+    padding: 20px 100px
+}
+
+.main-section {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.left-article {
+    width: 45%;
+    position: relative;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+}
+
+.right-article {
+    width: 55%;
+    position: relative;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+}
+
+.left-article a {
+    position: absolute;
+    width: 100%;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.right-article .first,
+.second {
+    position: relative;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.right-article .first a {
+    position: absolute;
+    width: 100%;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.right-article .second a {
+    position: absolute;
+    width: 100%;
+    bottom: 2%;
+    left: 15%;
+    transform: translate(-50%, -50%);
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+footer {
+    background-color: #8C8C8C;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0;
+    padding: 20px;
+}
+
+footer ul {
+    display: flex;
+    flex-flow: row wrap;
+    list-style-type: none;
+}
+
+footer ul li a {
+    padding: 0 10px;
+    margin: 0;
+    color: #C7C7C7;
+}
+
+footer ul li:nth-child(n+2) {
+    border-left: 1px solid #C7C7C7;
+}
+
+h1 {
+    padding-top: 50px;
+    color: #FFFFFF;
+    padding-bottom: 10px;
+    margin: 0;
+}
+
+h2 {
+    margin: 0;
+    color: #53595C;
+    padding-bottom: 20px;
+}
+
+img {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+}
+
+a,
+li {
+    text-decoration: none;
+}

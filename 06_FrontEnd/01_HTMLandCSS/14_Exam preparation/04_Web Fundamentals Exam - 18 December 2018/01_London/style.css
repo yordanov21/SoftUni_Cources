@@ -1,0 +1,69 @@
+@import url(https://use.fontawesome.com/releases/v5.8.2/css/all.css);
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Montserrat;
+}
+
+.container {
+    padding: 50px 100px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.container article section {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.container article section div {
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 6px 15px;
+}
+
+article {
+    width: 70%;
+}
+
+aside nav {
+    display: flex;
+    flex-flow: column wrap;
+}
+
+img {
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+h3 {
+    margin: 0;
+    padding: 6px;
+}
+
+h4 {
+    padding-left: 10px;
+    color: red;
+}
+
+aside {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    color: red;
+    text-align: start;
+    padding-left: 15px;
+}
+
+aside nav a {
+    color: red;
+    text-decoration: none;
+    padding: 6px;
+}

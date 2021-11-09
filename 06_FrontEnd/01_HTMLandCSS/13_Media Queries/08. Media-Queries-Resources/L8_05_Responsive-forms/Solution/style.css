@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
+form {
+    display: flex;
+    flex-flow: column;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+
+button {
+    background: #2D2D2D;
+    border: none;
+    max-width: 100px;
+    height: 40px;
+    border-radius: 4px;
+    color: #fff;
+    padding: 10px
+}

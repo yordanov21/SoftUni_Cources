@@ -1,0 +1,55 @@
+/* - Fonts
+  _ Font family **Helvetica, sans-serif** with font size **16px** and line height **1.2** for the **html**
+  _ Font family **Georgia, serif** with font size **1em** and line height **1.2** for the **headings** --> */
+
+html {
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.2;
+    width: 90%;
+    margin: auto;
+    padding: 30px;
+}
+
+header {
+    padding-bottom: 10px;
+}
+
+main {
+    padding-top: 10px;
+}
+
+h2 {
+    font-family: Georgia, serif;
+    font-size: 1em;
+    line-height: 1.2;
+}
+
+nav {
+    display: inline-block
+}
+
+h1 {
+    display: inline;
+    padding-right: 100px;
+}
+
+ul {
+    display: inline;
+}
+
+li {
+    display: inline-block;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: chartreuse;
+}
+
+hr {
+    background-color: black;
+    height: 1px;
+    border: none;
+}

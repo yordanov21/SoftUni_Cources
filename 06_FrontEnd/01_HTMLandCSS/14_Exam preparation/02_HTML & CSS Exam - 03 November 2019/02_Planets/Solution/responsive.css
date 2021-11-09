@@ -1,0 +1,69 @@
+    /* # 02. Planets
+## Tasks
+* You are given an **unresponsive** website **(HTML + CSS + images)** - your task is to make the site **responsive**
+* The site layout should change according to the browser **viewport / screen size**
+
+## Constraints
+* You need to implement 2 layouts: 
+	* **width <= 1000px**
+	* **width <= 850px**
+*(Check the given screenshots for more details)*
+* You are **NOT permitted** to modify the given HTML and CSS
+* You are **permitted** to modify **ONLY** the **responsive.css** file
+* You are **NOT permitted** to use libraries like Bootstrap 
+* Pixel-perfect implementation is **NOT required**
+* The site should open correctly in the latest version of Chrome */
+    
+    @media (max-width: 1000px) {
+        .pair {
+            display: flex;
+            flex-flow: column wrap;
+        }
+        .planet {
+            width: 100%;
+        }
+        .news ul {
+            color: rgb(75, 74, 74);
+            list-style: none;
+            display: flex;
+            justify-content: space-around;
+        }
+        .news ul li img {
+            width: 100%;
+            height: 250px;
+        }
+        footer nav {
+            display: flex;
+            flex-flow: column;
+            justify-content: center;
+        }
+        .primary footer nav a:nth-child(even) {
+            border-left: none;
+            border-right: none;
+        }
+    }
+    
+    @media (max-width: 850px) {
+        .pair {
+            display: inline-block;
+        }
+        .planet {
+            width: 100%;
+        }
+        .news ul {
+            color: rgb(75, 74, 74);
+            list-style: none;
+            display: flex;
+            flex-flow: column;
+            justify-content: space-around;
+            padding: 0;
+        }
+        .news ul li {
+            padding: 30px;
+            text-align: center;
+        }
+        .news ul li img {
+            width: 100%;
+            height: 100%;
+        }
+    }

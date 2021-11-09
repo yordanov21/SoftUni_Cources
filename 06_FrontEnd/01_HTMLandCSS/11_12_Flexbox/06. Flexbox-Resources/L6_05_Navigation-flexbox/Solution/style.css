@@ -1,0 +1,46 @@
+/* ## Constraints
+ * Divide the body into **header** and **main** tag
+ * The **underline** in the **header** must have 
+	* Border width - **2px**
+	* Border color - **rgb(0, 0, 0)**
+	* Border style - **solid**
+ * The **display** property of the **header** must be **flex**
+ * The **unordered list** in the **header** must have display property **flex**
+ * The **anchors** text color in the navigation must be **rgb(0, 153, 0)** */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: #FFFFFF;
+    margin: 0;
+    padding: 50px;
+}
+
+header {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
+
+header h1 {
+    text-transform: uppercase;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+li {
+    list-style: none;
+    padding: 1em;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 153, 0);
+}

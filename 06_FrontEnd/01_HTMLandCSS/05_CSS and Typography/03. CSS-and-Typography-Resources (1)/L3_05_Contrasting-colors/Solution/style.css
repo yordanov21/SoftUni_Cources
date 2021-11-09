@@ -1,0 +1,29 @@
+article {
+    background-color: rgb(51, 102, 153);
+    border-radius: 1rem;
+    line-height: 1.5;
+    padding: 20px;
+    color: white;
+}
+
+p,
+h1 {
+    font-family: Georgia, serif;
+}
+
+html {
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    padding: 50px;
+}
+
+
+/* <!-- ## Tasks
+* Create an **index.html** file with **Contrasting Colors** title 
+* Create an **article** inside the body
+	* Make the background with **rgb(51, 102, 153)** color
+	* Set the border radius to **1rem**
+* Use **Helvetica, sans-serif** font-family for the document
+	* Make the **font-size** 16px
+	* Change the **line-height** to 1.5
+* Use **Georgia, serif** font-family for the headings --> */

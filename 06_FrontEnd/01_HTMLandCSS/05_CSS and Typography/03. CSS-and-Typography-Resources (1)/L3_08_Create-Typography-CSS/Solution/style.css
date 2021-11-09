@@ -1,0 +1,70 @@
+html {
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: Georgia, serif;
+}
+
+blockquote {
+    font: italic;
+}
+
+ul.mainList {
+    list-style-type: square;
+}
+
+ul.secondList {
+    list-style-type: circle;
+}
+
+ul.tirthList {
+    list-style-type: disc;
+}
+
+table,
+td,
+tr {
+    border-width: 1px;
+    border-color: rgb(221, 221, 221);
+    border-style: solid;
+}
+
+th {
+    border-width: 1px;
+    border-color: rgb(221, 221, 221);
+    border-style: solid;
+    text-align: left;
+}
+
+tr:nth-child(odd) td {
+    background: rgb(241, 241, 241);
+}
+
+td:nth-child(odd)>td {
+    background: rgb(241, 241, 241);
+}
+
+tr:hover {
+    background: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+td,
+th {
+    width: 1000px;
+}
+
+div {
+    margin-left: 30px;
+    font-style: italic;
+    padding-left: 20px;
+    border-left: 1px solid gray;
+}

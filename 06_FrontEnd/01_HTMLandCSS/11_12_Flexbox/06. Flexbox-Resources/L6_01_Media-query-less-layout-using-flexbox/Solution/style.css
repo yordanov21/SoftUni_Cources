@@ -1,0 +1,59 @@
+/* * Set to the body display property **flex**
+* Each element must have **flex grow**, **flex shrink** and **flex basis**. */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    background: rgb(240, 236, 236);
+    margin: 0;
+}
+
+.wraper {
+    width: 80%;
+    display: flex;
+    flex-flow: column wrap;
+    padding: 50px 0;
+}
+
+.box {
+    border-radius: 6px;
+    box-shadow: 0 0 5px 5px rgb(151, 150, 150);
+    background: white;
+    padding: 30px;
+    margin: 15px;
+    flex-grow: 1;
+    flex-shrink: 0;
+    flex-basis: auto;
+}
+
+header {
+    min-height: 300px;
+}
+
+.main-content {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+main.box {
+    flex: 1 0 60%;
+    margin-right: 15px;
+}
+
+aside.box {
+    flex-grow: 1;
+}
+
+main,
+aside {
+    min-height: 300px;
+}
+
+footer {
+    min-height: 200px;
+}

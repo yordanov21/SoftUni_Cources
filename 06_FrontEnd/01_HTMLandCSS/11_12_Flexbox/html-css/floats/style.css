@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: lightblue;
+}
+
+.box {
+    width: 150px;
+    height: 150px;
+    border: 1px solid #000;
+}
+
+.red {
+    float: left;
+    background-color: tomato;
+}
+
+.blue {
+    float: left;
+    background-color: turquoise;
+}
+
+.green {
+    float: left;
+    background-color: greenyellow;
+}
+
+header,
+main,
+aside,
+footer {
+    border: 1px solid darkblue;
+    border-radius: 6px;
+    padding: 20px;
+}
+
+main,
+aside {
+    float: left;
+}
+
+footer {
+    clear: both;
+}
+
+main {
+    width: 80%;
+}
+
+aside {
+    width: 20%;
+}
