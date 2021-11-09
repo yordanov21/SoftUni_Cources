@@ -1,0 +1,1 @@
+Join/leave team functionality not implemented.
