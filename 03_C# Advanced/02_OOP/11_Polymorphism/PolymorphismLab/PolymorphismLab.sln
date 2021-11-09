@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operations", "Operations\Operations.csproj", "{CD7F2B54-EFE7-4B1B-A513-0960550142E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{7CEF41D3-9F8E-4F4C-B1AF-DA4DA6117C4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{AA58D22C-881A-4639-BC95-6A821B2AE26A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD7F2B54-EFE7-4B1B-A513-0960550142E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD7F2B54-EFE7-4B1B-A513-0960550142E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD7F2B54-EFE7-4B1B-A513-0960550142E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD7F2B54-EFE7-4B1B-A513-0960550142E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CEF41D3-9F8E-4F4C-B1AF-DA4DA6117C4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CEF41D3-9F8E-4F4C-B1AF-DA4DA6117C4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CEF41D3-9F8E-4F4C-B1AF-DA4DA6117C4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CEF41D3-9F8E-4F4C-B1AF-DA4DA6117C4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA58D22C-881A-4639-BC95-6A821B2AE26A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA58D22C-881A-4639-BC95-6A821B2AE26A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA58D22C-881A-4639-BC95-6A821B2AE26A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA58D22C-881A-4639-BC95-6A821B2AE26A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E019B993-9706-4761-A68D-7841ADDF16EF}
+	EndGlobalSection
+EndGlobal
