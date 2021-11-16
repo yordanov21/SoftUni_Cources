@@ -1,0 +1,25 @@
+﻿@model WebApplication2.ViewModels.Home.IndexViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome, @Model.Name</h1>
+    <h2>It @Model.Year year.</h2>
+    <p>We have @Model.UsersCount users.</p>
+    <p>CurrentDirectory @Environment.CurrentDirectory</p>
+    <p>GetEnvironmentVariable @Environment.GetEnvironmentVariable("sfdf")</p>
+    <p>Id: @Model.Id</p>
+    <p>ProcessorCount: @Model.ProcessorCount</p>
+    <p>ProcessorCount @Environment.ProcessorCount</p>
+    <p>MachineName @Environment.MachineName</p>
+    <p>Is64BitOperatingSystem @Environment.Is64BitOperatingSystem</p>
+    <p>OSVersion @Environment.OSVersion</p>
+    <p>ExitCode @Environment.ExitCode</p>
+    <p>DateTime @DateTime.Now</p>
+    <p>User @this.Context.User</p>
+    <p>Request @this.Context.Request</p>
+    <p>Response @this.Context.Response</p>
+    <p>RequestServices @this.Context.RequestServices</p>
+
+</div>
