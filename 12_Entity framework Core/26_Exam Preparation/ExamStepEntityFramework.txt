@@ -1,0 +1,53 @@
+*complex Datatype + string are nullable type and it is need to put [Required] Attribute
+* na ostanalite kato int, double, decimal te ne sa nullable i ne e nujno da im slagame [Required], bazata sama shte se seti 
+
+Steps for EF Exam:
+-Download skeleton
+-study the skeleton
+
+- opravqme si cunection string-a
+1.Model Definition (50pts)
+ -in Data-> Models create our classes (Author, Book, AuthorBook), make a public
+ -don't forget validation in atributes by the условието
+ -slagame tezi valitacii koito mogat da se translirat na niwo baza, ostanalite ostavat v DTO-ata
+ -za Book pravim si enumeracia v papka Enums (public enum Genre)
+ -pravim mapingtablicata AuthorBook
+
+ -v BookShopContex si razpisvame DB set-vete
+ -v BookShopContex v metoda onModelCreating pravim primary keys na mapping tablicata (kompozitnia kluch)
+
+ -do tuk trqbva da sme vuveli vshichko za nashata DB
+ -otivame v starUp - zakomentirame vs bez ResetDatabase (neshtata za import i export te vse oshte ne sa implementirani)
+ -za judge importvame .cs, .csproj, Data, DataProcessor
+
+2.Data Import
+  --tuk si validirame ogranicheniqta ot dokumenta
+---xml
+ -make ImportBookDto in folder ImportDto (tuk si opisvame ogranicheniqta koito imame ot prednata tochka)
+ -dobavqme XmlElement and XmlType atributes za da moje XML-a da razbere koe kakvoe 
+ -otivame v Deserializer.cs za da deserializirame books
+
+---json
+ -prvim si DTO classovete kato gornoto
+ -pravim ogranicgheniqta v klasa spored dokumenta
+ -otivame v Deserializer.cs za da deserializirame avtorite
+
+3.Data Export
+
+--json export
+  --otivame na Serializer.cs
+
+--xml export
+  --pravim ExportBookDto v papkata ExportDto
+  --otivame ma Serializer.cs
+    --pravim StringBuilder-a
+    --pravim XmlSerializer-a
+    --pravim si xmlSerializerNamespaces setvame gi na string.Empty
+    --otvarqme using (za da pishem v string builder-a)
+    -- pravim si query-to v usinga kato ne zavravqme da si materializirame obekta
+    -- serializirame obekta: xmlSerializer.Serialize(stringWriter, projects, namespaces);
+    
+    --pri resultata encodinga moje da e razlichen no tova ne e problem za judje
+
+
+
