@@ -1,0 +1,71 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table id="mainTable"></table>
+
+@section scripts {
+    <script>
+        $(function () {
+            var table = $('#mainTable').DataTable({
+                ajax: {
+                    "serverSide": true,
+                    "processing": true,
+                    "paging": true,
+                    "pageLength": 10,
+                    "stateSave": true,
+                    "stateDuration": -1,
+                    "url": "@Url.Action("ListData")",
+                    "type": "POST",
+                    "datatype": "json"
+                },
+                //fnInitComplete: function (settings, json) {
+                //    initDataTablesSearch(settings);
+                //    $('div.custom-filter').html(TemplateToHtml('#templateOnlyActive'));
+                // },
+                columns: [
+
+                    {
+                        name: 'name',
+                        data: 'name',
+                        title: 'Име',
+                        sortable: true,
+                        searchable: true
+                    },
+                    {
+                        name: 'quantity',
+                        data: "quantity",
+                        title: 'Количество',
+                        sortable: true,
+                        searchable: true
+                    },
+                    {
+                        name: 'price',
+                        data: "price",
+                        title: "Цена",
+                        sortable: true,
+                        searchable: false,
+                        className: "text-right"
+                    }
+                    ,
+                    {
+                        name: 'actions',
+                        data: "id",
+                        title: "",
+                        sortable: false,
+                        searchable: false,
+                        className: "text-center noExport",
+                        "render": function (value) {
+                            return '<a href="' + '@Url.Action("Edit")' + '/' + value + '">Редакция</a>';
+                        }
+                    }
+                ]
+            });
+        });
+    </script>
+}
