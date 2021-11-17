@@ -381,6 +381,9 @@ Backup of *.doc*
 # node modules folder
 node_modules/
 
+# Library folder in Unity projects
+Library/
+
 # Images
 
 *.png
