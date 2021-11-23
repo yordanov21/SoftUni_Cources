@@ -10,11 +10,10 @@ function App() {
         <h1>TODO App</h1>
       </header>
       <main>
-        <h2>Tasks</h2>
-        <ul>
-          {/* <ToDoListClassComponent /> */}
-          <ToDoListFuncComponent />
-        </ul>
+
+        {/* <ToDoListClassComponent /> */}
+        <ToDoListFuncComponent />
+
       </main>
       <footer>
         <p>All rigths reserved &copy; byDancho</p>
