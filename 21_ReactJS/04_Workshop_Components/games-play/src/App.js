@@ -8,6 +8,7 @@ import CreateGame from './components/CreateGame';
 import EditGame from './components/EditGame';
 import GameDetails from './components/GameDetails';
 import GameCatalog from './components/GameCatalog';
+import ErrorPage from './components/ErrorPage';
 
 function App() {
 	const [page, setPage] = useState('/home');
@@ -15,6 +16,8 @@ function App() {
 	const routers = {
 		'/home': <WelcomeWorld />,
 		'/games': <GameCatalog />,
+		'/login': <Login />,
+		'/register': <Register />,
 		'/create-game': <CreateGame />,
 	}
 
@@ -28,7 +31,7 @@ function App() {
 			<Header navigationChangeHandler={navigationChangeHandler} />
 
 			<main id="main-content">
-				{routers[page] || <h2>No Page Found!</h2>}
+				{routers[page] || <ErrorPage />}
 			</main>
 
 		</div>
