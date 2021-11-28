@@ -1,3 +1,5 @@
+import './ErrorPage.css';
+
 const ErrorPage = ({
     children
 }) => {
