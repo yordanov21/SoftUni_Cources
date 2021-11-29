@@ -18,7 +18,7 @@ function App() {
 	}
 
 	const routers = {
-		'/home': <WelcomeWorld />,
+		'/home': <WelcomeWorld navigationChangeHandler={navigationChangeHandler} />,
 		'/games': <GameCatalog navigationChangeHandler={navigationChangeHandler} />,
 		'/login': <Login />,
 		'/register': <Register />,

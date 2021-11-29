@@ -12,8 +12,7 @@ const GameCatalog = ({
         setTimeout(() => {
             gameService.getAll()
                 .then(result => {
-                    console.log(result);
-                    setGames(result)
+                    setGames(result);
                 });
         }, 1000);
 

@@ -1,11 +1,11 @@
 const GameCard = ({
     game,
-    navigationChangeHandler
+    navigationChangeHandler,
 }) => {
     const onDetailsClick = (e) => {
         e.preventDefault();
-        navigationChangeHandler(`/details/${game._id}`)
-    }
+        navigationChangeHandler(`/details/${game._id}`);
+    };
 
     return (
         <div className="allGames">
@@ -18,6 +18,6 @@ const GameCard = ({
 
         </div>
     );
-}
+};
 
 export default GameCard;
