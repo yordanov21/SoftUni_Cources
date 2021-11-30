@@ -1,4 +1,6 @@
 import { useState, createElement } from 'react';
+import { Route, Link, Switch } from 'react-router-dom';
+
 
 import Header from './components/Header';
 import WelcomeWorld from './components/WelcomeWorld';
@@ -49,7 +51,13 @@ function App() {
 			<Header navigationChangeHandler={navigationChangeHandler} />
 
 			<main id="main-content">
-				{router(page) || <ErrorPage />}
+				<Switch>
+					<Route path="/" exact component={WelcomeWorld} />
+					<Route path="/games" component={GameCatalog} />
+					<Route path="/create-game" component={CreateGame} />
+					<Route path="/login" component={Login} />
+					<Route path="/register" component={Register} />
+				</Switch>
 			</main>
 
 		</div>
