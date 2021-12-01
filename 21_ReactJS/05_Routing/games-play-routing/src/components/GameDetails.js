@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import * as gameService from '../services/gameService';
 
 const GameDetails = ({
-    match
+    match,
 }) => {
     const [game, setGame] = useState({});
 
