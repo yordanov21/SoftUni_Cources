@@ -1,8 +1,8 @@
-import { Link, NavLink } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 const Header = ({
     isAuthenticated,
-    email
+    user
 }) => {
 
     let guestNavigation = (
@@ -14,7 +14,7 @@ const Header = ({
 
     let userNavigation = (
         <div id="user">
-            <span>Welcome, email</span>
+            <span>Welcome, {user}</span>
             <Link to="/my-pets" className="button">My Pets</Link>
             <Link to="/create" className="button">Add Pet</Link>
             <Link to="/logout" className="button">Logout</Link>
