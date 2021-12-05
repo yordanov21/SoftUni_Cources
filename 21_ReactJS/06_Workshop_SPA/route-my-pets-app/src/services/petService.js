@@ -22,3 +22,11 @@ export const create = async (petData) => {
 
     return result;
 };
+
+export const getOne = async (petId) => {
+    let response = await fetch(`${baseUrl}/pets/${petId}`)
+
+    let pets = await response.json();
+
+    return pets;
+};
