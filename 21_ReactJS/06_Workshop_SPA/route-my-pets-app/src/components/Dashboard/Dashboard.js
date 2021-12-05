@@ -5,6 +5,7 @@ import PetList from '../PetList/PetList';
 //import {logo} from '../../logo.svg';
 // 2. With React componet
 //import { ReactComponent as Logo } from '../../logo.svg';
+//import './Dashboard.css';
 
 const Dashboard = () => {
 
