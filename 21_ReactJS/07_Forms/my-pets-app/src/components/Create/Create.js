@@ -16,11 +16,15 @@ const Create = () => {
                 let typesResult = Object.values(res);
 
                 let categories = typesResult.reduce((a, x) => {
-                    if (!a.includes(x.categoty)) {
-                        a.push(x.categoty)
+
+                    if (!a[x.categoty]) {
+                        a[x.categoty] = [];
                     }
+                    a[x.categoty].push(x);
+
+
                     return a;
-                }, []);
+                }, {});
 
                 setCategories(categories)
                 setTypes(typesResult);
@@ -48,7 +52,7 @@ const Create = () => {
     };
 
     const onCategoryChange = (e) => {
-        setTypes(state => state.filter(x => x.categoty == e.target.value))
+        setTypes(categories[e.target.value])
     };
 
     return (
@@ -78,7 +82,7 @@ const Create = () => {
                         <label htmlFor="category">Category</label>
                         <span className="input">
                             <select id="category" name="category" onChange={onCategoryChange}>
-                                {categories.map(x => <option key={x} value={x}>{x}</option>)}
+                                {Object.keys(categories).map(x => <option key={x} value={x}>{x}</option>)}
                             </select>
                         </span>
                     </p>
