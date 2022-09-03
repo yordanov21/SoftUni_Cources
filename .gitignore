@@ -393,3 +393,6 @@ Library/
 # zips, rars
 *.zip
 *.rar
+
+# excel
+*.xlsx
